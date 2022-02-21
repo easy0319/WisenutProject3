@@ -1,0 +1,482 @@
+﻿;암컷 대하 아 알리 어 주 시 어요 
+$암컷 대하 아 알리 어 주 시 어요 
+1	암컷	NNG	B_SEX
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;암컷 궁긍해요 
+$암컷 궁긍해요 
+1	암컷	NNG	B_SEX
+2	궁긍해요	NA	O
+
+;암컷 궁금 하 ㅁ 
+$암컷 궁금 하 ㅁ 
+1	암컷	NNG	B_SEX
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;암컷 궁금 하 아 
+$암컷 궁금 하 아 
+1	암컷	NNG	B_SEX
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;암컷 대하 아 알리 어 주 어 
+$암컷 대하 아 알리 어 주 어 
+1	암컷	NNG	B_SEX
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;암컷 알리 어 주 어 
+$암컷 알리 어 주 어 
+1	암컷	NNG	B_SEX
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;암컷 설명 하 아 주 시 어요 
+$암컷 설명 하 아 주 시 어요 
+1	암컷	NNG	B_SEX
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;암컷 설명 좀 
+$암컷 설명 좀 
+1	암컷	NNG	B_SEX
+2	설명	NNG	O
+3	좀	MAG	O
+
+;암컷 설명 하 아 주 어 
+$암컷 설명 하 아 주 어 
+1	암컷	NNG	B_SEX
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;암컷 정보 주 시 어요 
+$암컷 정보 주 시 어요 
+1	암컷	NNG	B_SEX
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;암컷 정보 주 어 
+$암컷 정보 주 어 
+1	암컷	NNG	B_SEX
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;암컷 무엇 이 ㄴ가요 
+$암컷 무엇 이 ㄴ가요 
+1	암컷	NNG	B_SEX
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;암컷 뭔 가요 
+$암컷 뭔 가요 
+1	암컷	NNG	B_SEX
+2	뭔	MM	O
+3	가요	NNP	O
+
+;암컷 뭐 ㄴ가 
+$암컷 뭐 ㄴ가 
+1	암컷	NNG	B_SEX
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;암컷 뭐 ㄹ까요 
+$암컷 뭐 ㄹ까요 
+1	암컷	NNG	B_SEX
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;암컷 뭐 ㄹ까 
+$암컷 뭐 ㄹ까 
+1	암컷	NNG	B_SEX
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;암컷 어떤 건 가요 
+$암컷 어떤 건 가요 
+1	암컷	NNG	B_SEX
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;암컷 어떤 거 야 
+$암컷 어떤 거 야 
+1	암컷	NNG	B_SEX
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;암컷 도와주 시 어요 
+$암컷 도와주 시 어요 
+1	암컷	NNG	B_SEX
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;암컷 돕 아 주 어 
+$암컷 돕 아 주 어 
+1	암컷	NNG	B_SEX
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;암컷 문의 드리 어요 
+$암컷 문의 드리 어요 
+1	암컷	NNG	B_SEX
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;암컷 문의 드리 ㅂ니다 
+$암컷 문의 드리 ㅂ니다 
+1	암컷	NNG	B_SEX
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;암컷 검색 하 아 주 어 
+$암컷 검색 하 아 주 어 
+1	암컷	NNG	B_SEX
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;암컷 검색 하 아 주 시 어요 
+$암컷 검색 하 아 주 시 어요 
+1	암컷	NNG	B_SEX
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;암컷 뭐 야 
+$암컷 뭐 야 
+1	암컷	NNG	B_SEX
+2	뭐	NP	O
+3	야	JX	O
+
+;암컷 뭐 예 요 
+$암컷 뭐 예 요 
+1	암컷	NNG	B_SEX
+2	뭐	NP	O
+3	예	NNG	O
+4	요	JX	O
+
+;암컷 아프 ㄴ 가요 
+$암컷 아프 ㄴ 가요 
+1	암컷	NNG	B_SEX
+2	아프	VA	O
+3	ㄴ	ETM	O
+4	가요	NNP	O
+
+;암컷 아프 아요 ? 
+$암컷 아프 아요 ? 
+1	암컷	NNG	B_SEX
+2	아프	VA	O
+3	아요	EF	O
+4	?	SF	O
+
+;암컷 하 면 좋 은 점 
+$암컷 하 면 좋 은 점 
+1	암컷	NNG	B_SEX
+2	하	VV	O
+3	면	EC	O
+4	좋	VA	O
+5	은	ETM	O
+6	점	NNB	O
+
+;암컷 하 면 단점 
+$암컷 하 면 단점 
+1	암컷	NNG	B_SEX
+2	하	VV	O
+3	면	EC	O
+4	단점	NNG	O
+
+;암컷 하 면 안 좋 은 점 
+$암컷 하 면 안 좋 은 점 
+1	암컷	NNG	B_SEX
+2	하	VV	O
+3	면	EC	O
+4	안	MAG	O
+5	좋	VA	O
+6	은	ETM	O
+7	점	NNB	O
+
+;암컷 하 면 장점 
+$암컷 하 면 장점 
+1	암컷	NNG	B_SEX
+2	하	VV	O
+3	면	EC	O
+4	장점	NNG	O
+
+;수컷 대하 아 알리 어 주 시 어요 
+$수컷 대하 아 알리 어 주 시 어요 
+1	수컷	NNG	B_SEX
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;수컷 궁긍해요 
+$수컷 궁긍해요 
+1	수컷	NNG	B_SEX
+2	궁긍해요	NA	O
+
+;수컷 궁금 하 ㅁ 
+$수컷 궁금 하 ㅁ 
+1	수컷	NNG	B_SEX
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;수컷 궁금 하 아 
+$수컷 궁금 하 아 
+1	수컷	NNG	B_SEX
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;수컷 대하 아 알리 어 주 어 
+$수컷 대하 아 알리 어 주 어 
+1	수컷	NNG	B_SEX
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;수컷 알리 어 주 어 
+$수컷 알리 어 주 어 
+1	수컷	NNG	B_SEX
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;수컷 설명 하 아 주 시 어요 
+$수컷 설명 하 아 주 시 어요 
+1	수컷	NNG	B_SEX
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;수컷 설명 좀 
+$수컷 설명 좀 
+1	수컷	NNG	B_SEX
+2	설명	NNG	O
+3	좀	MAG	O
+
+;수컷 설명 하 아 주 어 
+$수컷 설명 하 아 주 어 
+1	수컷	NNG	B_SEX
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;수컷 정보 주 시 어요 
+$수컷 정보 주 시 어요 
+1	수컷	NNG	B_SEX
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;수컷 정보 주 어 
+$수컷 정보 주 어 
+1	수컷	NNG	B_SEX
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;수컷 무엇 이 ㄴ가요 
+$수컷 무엇 이 ㄴ가요 
+1	수컷	NNG	B_SEX
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;수컷 뭔 가요 
+$수컷 뭔 가요 
+1	수컷	NNG	B_SEX
+2	뭔	MM	O
+3	가요	NNP	O
+
+;수컷 뭐 ㄴ가 
+$수컷 뭐 ㄴ가 
+1	수컷	NNG	B_SEX
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;수컷 뭐 ㄹ까요 
+$수컷 뭐 ㄹ까요 
+1	수컷	NNG	B_SEX
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;수컷 뭐 ㄹ까 
+$수컷 뭐 ㄹ까 
+1	수컷	NNG	B_SEX
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;수컷 어떤 건 가요 
+$수컷 어떤 건 가요 
+1	수컷	NNG	B_SEX
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;수컷 어떤 거 야 
+$수컷 어떤 거 야 
+1	수컷	NNG	B_SEX
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;수컷 도와주 시 어요 
+$수컷 도와주 시 어요 
+1	수컷	NNG	B_SEX
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;수컷 돕 아 주 어 
+$수컷 돕 아 주 어 
+1	수컷	NNG	B_SEX
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;수컷 문의 드리 어요 
+$수컷 문의 드리 어요 
+1	수컷	NNG	B_SEX
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;수컷 문의 드리 ㅂ니다 
+$수컷 문의 드리 ㅂ니다 
+1	수컷	NNG	B_SEX
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;수컷 검색 하 아 주 어 
+$수컷 검색 하 아 주 어 
+1	수컷	NNG	B_SEX
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;수컷 검색 하 아 주 시 어요 
+$수컷 검색 하 아 주 시 어요 
+1	수컷	NNG	B_SEX
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;수컷 뭐 야 
+$수컷 뭐 야 
+1	수컷	NNG	B_SEX
+2	뭐	NP	O
+3	야	JX	O
+
+;수컷 뭐 예 요 
+$수컷 뭐 예 요 
+1	수컷	NNG	B_SEX
+2	뭐	NP	O
+3	예	NNG	O
+4	요	JX	O
+
+;수컷 아프 ㄴ 가요 
+$수컷 아프 ㄴ 가요 
+1	수컷	NNG	B_SEX
+2	아프	VA	O
+3	ㄴ	ETM	O
+4	가요	NNP	O
+
+;수컷 아프 아요 ? 
+$수컷 아프 아요 ? 
+1	수컷	NNG	B_SEX
+2	아프	VA	O
+3	아요	EF	O
+4	?	SF	O
+
+;수컷 하 면 좋 은 점 
+$수컷 하 면 좋 은 점 
+1	수컷	NNG	B_SEX
+2	하	VV	O
+3	면	EC	O
+4	좋	VA	O
+5	은	ETM	O
+6	점	NNB	O
+
+;수컷 하 면 단점 
+$수컷 하 면 단점 
+1	수컷	NNG	B_SEX
+2	하	VV	O
+3	면	EC	O
+4	단점	NNG	O
+
+;수컷 하 면 안 좋 은 점 
+$수컷 하 면 안 좋 은 점 
+1	수컷	NNG	B_SEX
+2	하	VV	O
+3	면	EC	O
+4	안	MAG	O
+5	좋	VA	O
+6	은	ETM	O
+7	점	NNB	O
+
+;수컷 하 면 장점 
+$수컷 하 면 장점 
+1	수컷	NNG	B_SEX
+2	하	VV	O
+3	면	EC	O
+4	장점	NNG	O
+

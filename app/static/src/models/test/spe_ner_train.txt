@@ -1,0 +1,8284 @@
+﻿;미니어처닥스훈트 대하 아 알리 어 주 시 어요 
+$<미니어처닥스훈트:SPE> 대하 아 알리 어 주 시 어요 
+1	미니어처닥스훈트	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;미니어처닥스훈트 궁금 하 어요 
+$<미니어처닥스훈트:SPE> 궁금 하 어요 
+1	미니어처닥스훈트	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;미니어처닥스훈트 궁금 하 ㅁ 
+$<미니어처닥스훈트:SPE> 궁금 하 ㅁ 
+1	미니어처닥스훈트	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;미니어처닥스훈트 궁금 하 아 
+$<미니어처닥스훈트:SPE> 궁금 하 아 
+1	미니어처닥스훈트	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;미니어처닥스훈트 대하 아 알리 어 주 어 
+$<미니어처닥스훈트:SPE> 대하 아 알리 어 주 어 
+1	미니어처닥스훈트	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;미니어처닥스훈트 알리 어 주 어 
+$<미니어처닥스훈트:SPE> 알리 어 주 어 
+1	미니어처닥스훈트	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;미니어처닥스훈트 설명 하 아 주 시 어요 
+$<미니어처닥스훈트:SPE> 설명 하 아 주 시 어요 
+1	미니어처닥스훈트	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;미니어처닥스훈트 설명 좀 
+$<미니어처닥스훈트:SPE> 설명 좀 
+1	미니어처닥스훈트	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;미니어처닥스훈트 설명 하 아 주 어 
+$<미니어처닥스훈트:SPE> 설명 하 아 주 어 
+1	미니어처닥스훈트	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;미니어처닥스훈트 정보 주 시 어요 
+$<미니어처닥스훈트:SPE> 정보 주 시 어요 
+1	미니어처닥스훈트	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;미니어처닥스훈트 정보 주 어 
+$<미니어처닥스훈트:SPE> 정보 주 어 
+1	미니어처닥스훈트	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;미니어처닥스훈트 무엇 이 ㄴ가요 
+$<미니어처닥스훈트:SPE> 무엇 이 ㄴ가요 
+1	미니어처닥스훈트	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;미니어처닥스훈트 뭔 가요 
+$<미니어처닥스훈트:SPE> 뭔 가요 
+1	미니어처닥스훈트	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;미니어처닥스훈트 뭐 ㄴ가 
+$<미니어처닥스훈트:SPE> 뭐 ㄴ가 
+1	미니어처닥스훈트	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;미니어처닥스훈트 뭐 ㄹ까요 
+$<미니어처닥스훈트:SPE> 뭐 ㄹ까요 
+1	미니어처닥스훈트	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;미니어처닥스훈트 뭐 ㄹ까 
+$<미니어처닥스훈트:SPE> 뭐 ㄹ까 
+1	미니어처닥스훈트	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;미니어처닥스훈트 어떤 건 가요 
+$<미니어처닥스훈트:SPE> 어떤 건 가요 
+1	미니어처닥스훈트	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;미니어처닥스훈트 어떤 거 야 
+$<미니어처닥스훈트:SPE> 어떤 거 야 
+1	미니어처닥스훈트	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;미니어처닥스훈트 도와주 시 어요 
+$<미니어처닥스훈트:SPE> 도와주 시 어요 
+1	미니어처닥스훈트	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;미니어처닥스훈트 돕 아 주 어 
+$<미니어처닥스훈트:SPE> 돕 아 주 어 
+1	미니어처닥스훈트	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;미니어처닥스훈트 문의 드리 어요 
+$<미니어처닥스훈트:SPE> 문의 드리 어요 
+1	미니어처닥스훈트	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;미니어처닥스훈트 문의 드리 ㅂ니다 
+$<미니어처닥스훈트:SPE> 문의 드리 ㅂ니다 
+1	미니어처닥스훈트	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;미니어처닥스훈트 검색 하 아 주 어 
+$<미니어처닥스훈트:SPE> 검색 하 아 주 어 
+1	미니어처닥스훈트	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;미니어처닥스훈트 검색 하 아 주 시 어요 
+$<미니어처닥스훈트:SPE> 검색 하 아 주 시 어요 
+1	미니어처닥스훈트	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;미니어처닥스훈트 뭐 야 
+$<미니어처닥스훈트:SPE> 뭐 야 
+1	미니어처닥스훈트	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;미니어처닥스훈트 뭐 에 요 
+$<미니어처닥스훈트:SPE> 뭐 에 요 
+1	미니어처닥스훈트	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;미니어처닥스훈트 대하 아 알리 어 주 어 
+$<미니어처닥스훈트:SPE> 대하 아 알리 어 주 어 
+1	미니어처닥스훈트	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;미니어처닥스훈트 대하 아 알리 어 주 어 보 아 
+$<미니어처닥스훈트:SPE> 대하 아 알리 어 주 어 보 아 
+1	미니어처닥스훈트	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;토이푸들 대하 아 알리 어 주 시 어요 
+$<토이푸들:SPE> 대하 아 알리 어 주 시 어요 
+1	토이푸들	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;토이푸들 궁금 하 어요 
+$<토이푸들:SPE> 궁금 하 어요 
+1	토이푸들	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;토이푸들 궁금 하 ㅁ 
+$<토이푸들:SPE> 궁금 하 ㅁ 
+1	토이푸들	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;토이푸들 궁금 하 아 
+$<토이푸들:SPE> 궁금 하 아 
+1	토이푸들	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;토이푸들 대하 아 알리 어 주 어 
+$<토이푸들:SPE> 대하 아 알리 어 주 어 
+1	토이푸들	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;토이푸들 알리 어 주 어 
+$<토이푸들:SPE> 알리 어 주 어 
+1	토이푸들	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;토이푸들 설명 하 아 주 시 어요 
+$<토이푸들:SPE> 설명 하 아 주 시 어요 
+1	토이푸들	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;토이푸들 설명 좀 
+$<토이푸들:SPE> 설명 좀 
+1	토이푸들	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;토이푸들 설명 하 아 주 어 
+$<토이푸들:SPE> 설명 하 아 주 어 
+1	토이푸들	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;토이푸들 정보 주 시 어요 
+$<토이푸들:SPE> 정보 주 시 어요 
+1	토이푸들	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;토이푸들 정보 주 어 
+$<토이푸들:SPE> 정보 주 어 
+1	토이푸들	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;토이푸들 무엇 이 ㄴ가요 
+$<토이푸들:SPE> 무엇 이 ㄴ가요 
+1	토이푸들	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;토이푸들 뭔 가요 
+$<토이푸들:SPE> 뭔 가요 
+1	토이푸들	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;토이푸들 뭐 ㄴ가 
+$<토이푸들:SPE> 뭐 ㄴ가 
+1	토이푸들	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;토이푸들 뭐 ㄹ까요 
+$<토이푸들:SPE> 뭐 ㄹ까요 
+1	토이푸들	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;토이푸들 뭐 ㄹ까 
+$<토이푸들:SPE> 뭐 ㄹ까 
+1	토이푸들	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;토이푸들 어떤 건 가요 
+$<토이푸들:SPE> 어떤 건 가요 
+1	토이푸들	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;토이푸들 어떤 거 야 
+$<토이푸들:SPE> 어떤 거 야 
+1	토이푸들	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;토이푸들 도와주 시 어요 
+$<토이푸들:SPE> 도와주 시 어요 
+1	토이푸들	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;토이푸들 돕 아 주 어 
+$<토이푸들:SPE> 돕 아 주 어 
+1	토이푸들	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;토이푸들 문의 드리 어요 
+$<토이푸들:SPE> 문의 드리 어요 
+1	토이푸들	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;토이푸들 문의 드리 ㅂ니다 
+$<토이푸들:SPE> 문의 드리 ㅂ니다 
+1	토이푸들	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;토이푸들 검색 하 아 주 어 
+$<토이푸들:SPE> 검색 하 아 주 어 
+1	토이푸들	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;토이푸들 검색 하 아 주 시 어요 
+$<토이푸들:SPE> 검색 하 아 주 시 어요 
+1	토이푸들	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;토이푸들 뭐 야 
+$<토이푸들:SPE> 뭐 야 
+1	토이푸들	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;토이푸들 뭐 에 요 
+$<토이푸들:SPE> 뭐 에 요 
+1	토이푸들	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;토이푸들 대하 아 알리 어 주 어 
+$<토이푸들:SPE> 대하 아 알리 어 주 어 
+1	토이푸들	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;토이푸들 대하 아 알리 어 주 어 보 아 
+$<토이푸들:SPE> 대하 아 알리 어 주 어 보 아 
+1	토이푸들	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;요크셔테리어 대하 아 알리 어 주 시 어요 
+$<요크셔테리어:SPE> 대하 아 알리 어 주 시 어요 
+1	요크셔테리어	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;요크셔테리어 궁금 하 어요 
+$<요크셔테리어:SPE> 궁금 하 어요 
+1	요크셔테리어	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;요크셔테리어 궁금 하 ㅁ 
+$<요크셔테리어:SPE> 궁금 하 ㅁ 
+1	요크셔테리어	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;요크셔테리어 궁금 하 아 
+$<요크셔테리어:SPE> 궁금 하 아 
+1	요크셔테리어	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;요크셔테리어 대하 아 알리 어 주 어 
+$<요크셔테리어:SPE> 대하 아 알리 어 주 어 
+1	요크셔테리어	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;요크셔테리어 알리 어 주 어 
+$<요크셔테리어:SPE> 알리 어 주 어 
+1	요크셔테리어	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;요크셔테리어 설명 하 아 주 시 어요 
+$<요크셔테리어:SPE> 설명 하 아 주 시 어요 
+1	요크셔테리어	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;요크셔테리어 설명 좀 
+$<요크셔테리어:SPE> 설명 좀 
+1	요크셔테리어	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;요크셔테리어 설명 하 아 주 어 
+$<요크셔테리어:SPE> 설명 하 아 주 어 
+1	요크셔테리어	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;요크셔테리어 정보 주 시 어요 
+$<요크셔테리어:SPE> 정보 주 시 어요 
+1	요크셔테리어	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;요크셔테리어 정보 주 어 
+$<요크셔테리어:SPE> 정보 주 어 
+1	요크셔테리어	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;요크셔테리어 무엇 이 ㄴ가요 
+$<요크셔테리어:SPE> 무엇 이 ㄴ가요 
+1	요크셔테리어	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;요크셔테리어 뭔 가요 
+$<요크셔테리어:SPE> 뭔 가요 
+1	요크셔테리어	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;요크셔테리어 뭐 ㄴ가 
+$<요크셔테리어:SPE> 뭐 ㄴ가 
+1	요크셔테리어	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;요크셔테리어 뭐 ㄹ까요 
+$<요크셔테리어:SPE> 뭐 ㄹ까요 
+1	요크셔테리어	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;요크셔테리어 뭐 ㄹ까 
+$<요크셔테리어:SPE> 뭐 ㄹ까 
+1	요크셔테리어	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;요크셔테리어 어떤 건 가요 
+$<요크셔테리어:SPE> 어떤 건 가요 
+1	요크셔테리어	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;요크셔테리어 어떤 거 야 
+$<요크셔테리어:SPE> 어떤 거 야 
+1	요크셔테리어	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;요크셔테리어 도와주 시 어요 
+$<요크셔테리어:SPE> 도와주 시 어요 
+1	요크셔테리어	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;요크셔테리어 돕 아 주 어 
+$<요크셔테리어:SPE> 돕 아 주 어 
+1	요크셔테리어	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;요크셔테리어 문의 드리 어요 
+$<요크셔테리어:SPE> 문의 드리 어요 
+1	요크셔테리어	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;요크셔테리어 문의 드리 ㅂ니다 
+$<요크셔테리어:SPE> 문의 드리 ㅂ니다 
+1	요크셔테리어	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;요크셔테리어 검색 하 아 주 어 
+$<요크셔테리어:SPE> 검색 하 아 주 어 
+1	요크셔테리어	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;요크셔테리어 검색 하 아 주 시 어요 
+$<요크셔테리어:SPE> 검색 하 아 주 시 어요 
+1	요크셔테리어	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;요크셔테리어 뭐 야 
+$<요크셔테리어:SPE> 뭐 야 
+1	요크셔테리어	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;요크셔테리어 뭐 에 요 
+$<요크셔테리어:SPE> 뭐 에 요 
+1	요크셔테리어	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;요크셔테리어 대하 아 알리 어 주 어 
+$<요크셔테리어:SPE> 대하 아 알리 어 주 어 
+1	요크셔테리어	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;요크셔테리어 대하 아 알리 어 주 어 보 아 
+$<요크셔테리어:SPE> 대하 아 알리 어 주 어 보 아 
+1	요크셔테리어	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;포메라니안 대하 아 알리 어 주 시 어요 
+$<포메라니안:SPE> 대하 아 알리 어 주 시 어요 
+1	포메라니안	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;포메라니안 궁금 하 어요 
+$<포메라니안:SPE> 궁금 하 어요 
+1	포메라니안	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;포메라니안 궁금 하 ㅁ 
+$<포메라니안:SPE> 궁금 하 ㅁ 
+1	포메라니안	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;포메라니안 궁금 하 아 
+$<포메라니안:SPE> 궁금 하 아 
+1	포메라니안	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;포메라니안 대하 아 알리 어 주 어 
+$<포메라니안:SPE> 대하 아 알리 어 주 어 
+1	포메라니안	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;포메라니안 알리 어 주 어 
+$<포메라니안:SPE> 알리 어 주 어 
+1	포메라니안	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;포메라니안 설명 하 아 주 시 어요 
+$<포메라니안:SPE> 설명 하 아 주 시 어요 
+1	포메라니안	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;포메라니안 설명 좀 
+$<포메라니안:SPE> 설명 좀 
+1	포메라니안	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;포메라니안 설명 하 아 주 어 
+$<포메라니안:SPE> 설명 하 아 주 어 
+1	포메라니안	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;포메라니안 정보 주 시 어요 
+$<포메라니안:SPE> 정보 주 시 어요 
+1	포메라니안	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;포메라니안 정보 주 어 
+$<포메라니안:SPE> 정보 주 어 
+1	포메라니안	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;포메라니안 무엇 이 ㄴ가요 
+$<포메라니안:SPE> 무엇 이 ㄴ가요 
+1	포메라니안	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;포메라니안 뭔 가요 
+$<포메라니안:SPE> 뭔 가요 
+1	포메라니안	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;포메라니안 뭐 ㄴ가 
+$<포메라니안:SPE> 뭐 ㄴ가 
+1	포메라니안	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;포메라니안 뭐 ㄹ까요 
+$<포메라니안:SPE> 뭐 ㄹ까요 
+1	포메라니안	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;포메라니안 뭐 ㄹ까 
+$<포메라니안:SPE> 뭐 ㄹ까 
+1	포메라니안	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;포메라니안 어떤 건 가요 
+$<포메라니안:SPE> 어떤 건 가요 
+1	포메라니안	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;포메라니안 어떤 거 야 
+$<포메라니안:SPE> 어떤 거 야 
+1	포메라니안	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;포메라니안 도와주 시 어요 
+$<포메라니안:SPE> 도와주 시 어요 
+1	포메라니안	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;포메라니안 돕 아 주 어 
+$<포메라니안:SPE> 돕 아 주 어 
+1	포메라니안	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;포메라니안 문의 드리 어요 
+$<포메라니안:SPE> 문의 드리 어요 
+1	포메라니안	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;포메라니안 문의 드리 ㅂ니다 
+$<포메라니안:SPE> 문의 드리 ㅂ니다 
+1	포메라니안	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;포메라니안 검색 하 아 주 어 
+$<포메라니안:SPE> 검색 하 아 주 어 
+1	포메라니안	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;포메라니안 검색 하 아 주 시 어요 
+$<포메라니안:SPE> 검색 하 아 주 시 어요 
+1	포메라니안	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;포메라니안 뭐 야 
+$<포메라니안:SPE> 뭐 야 
+1	포메라니안	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;포메라니안 뭐 에 요 
+$<포메라니안:SPE> 뭐 에 요 
+1	포메라니안	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;포메라니안 대하 아 알리 어 주 어 
+$<포메라니안:SPE> 대하 아 알리 어 주 어 
+1	포메라니안	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;포메라니안 대하 아 알리 어 주 어 보 아 
+$<포메라니안:SPE> 대하 아 알리 어 주 어 보 아 
+1	포메라니안	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;파피용 대하 아 알리 어 주 시 어요 
+$<파피용:SPE> 대하 아 알리 어 주 시 어요 
+1	파피용	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;파피용 궁금 하 어요 
+$<파피용:SPE> 궁금 하 어요 
+1	파피용	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;파피용 궁금 하 ㅁ 
+$<파피용:SPE> 궁금 하 ㅁ 
+1	파피용	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;파피용 궁금 하 아 
+$<파피용:SPE> 궁금 하 아 
+1	파피용	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;파피용 대하 아 알리 어 주 어 
+$<파피용:SPE> 대하 아 알리 어 주 어 
+1	파피용	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;파피용 알리 어 주 어 
+$<파피용:SPE> 알리 어 주 어 
+1	파피용	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;파피용 설명 하 아 주 시 어요 
+$<파피용:SPE> 설명 하 아 주 시 어요 
+1	파피용	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;파피용 설명 좀 
+$<파피용:SPE> 설명 좀 
+1	파피용	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;파피용 설명 하 아 주 어 
+$<파피용:SPE> 설명 하 아 주 어 
+1	파피용	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;파피용 정보 주 시 어요 
+$<파피용:SPE> 정보 주 시 어요 
+1	파피용	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;파피용 정보 주 어 
+$<파피용:SPE> 정보 주 어 
+1	파피용	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;파피용 무엇 이 ㄴ가요 
+$<파피용:SPE> 무엇 이 ㄴ가요 
+1	파피용	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;파피용 뭔 가요 
+$<파피용:SPE> 뭔 가요 
+1	파피용	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;파피용 뭐 ㄴ가 
+$<파피용:SPE> 뭐 ㄴ가 
+1	파피용	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;파피용 뭐 ㄹ까요 
+$<파피용:SPE> 뭐 ㄹ까요 
+1	파피용	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;파피용 뭐 ㄹ까 
+$<파피용:SPE> 뭐 ㄹ까 
+1	파피용	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;파피용 어떤 건 가요 
+$<파피용:SPE> 어떤 건 가요 
+1	파피용	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;파피용 어떤 거 야 
+$<파피용:SPE> 어떤 거 야 
+1	파피용	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;파피용 도와주 시 어요 
+$<파피용:SPE> 도와주 시 어요 
+1	파피용	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;파피용 돕 아 주 어 
+$<파피용:SPE> 돕 아 주 어 
+1	파피용	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;파피용 문의 드리 어요 
+$<파피용:SPE> 문의 드리 어요 
+1	파피용	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;파피용 문의 드리 ㅂ니다 
+$<파피용:SPE> 문의 드리 ㅂ니다 
+1	파피용	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;파피용 검색 하 아 주 어 
+$<파피용:SPE> 검색 하 아 주 어 
+1	파피용	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;파피용 검색 하 아 주 시 어요 
+$<파피용:SPE> 검색 하 아 주 시 어요 
+1	파피용	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;파피용 뭐 야 
+$<파피용:SPE> 뭐 야 
+1	파피용	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;파피용 뭐 에 요 
+$<파피용:SPE> 뭐 에 요 
+1	파피용	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;파피용 대하 아 알리 어 주 어 
+$<파피용:SPE> 대하 아 알리 어 주 어 
+1	파피용	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;파피용 대하 아 알리 어 주 어 보 아 
+$<파피용:SPE> 대하 아 알리 어 주 어 보 아 
+1	파피용	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;시추 대하 아 알리 어 주 시 어요 
+$<시추:SPE> 대하 아 알리 어 주 시 어요 
+1	시추	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;시추 궁금 하 어요 
+$<시추:SPE> 궁금 하 어요 
+1	시추	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;시추 궁금 하 ㅁ 
+$<시추:SPE> 궁금 하 ㅁ 
+1	시추	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;시추 궁금 하 아 
+$<시추:SPE> 궁금 하 아 
+1	시추	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;시추 대하 아 알리 어 주 어 
+$<시추:SPE> 대하 아 알리 어 주 어 
+1	시추	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;시추 알리 어 주 어 
+$<시추:SPE> 알리 어 주 어 
+1	시추	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;시추 설명 하 아 주 시 어요 
+$<시추:SPE> 설명 하 아 주 시 어요 
+1	시추	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;시추 설명 좀 
+$<시추:SPE> 설명 좀 
+1	시추	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;시추 설명 하 아 주 어 
+$<시추:SPE> 설명 하 아 주 어 
+1	시추	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;시추 정보 주 시 어요 
+$<시추:SPE> 정보 주 시 어요 
+1	시추	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;시추 정보 주 어 
+$<시추:SPE> 정보 주 어 
+1	시추	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;시추 무엇 이 ㄴ가요 
+$<시추:SPE> 무엇 이 ㄴ가요 
+1	시추	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;시추 뭔 가요 
+$<시추:SPE> 뭔 가요 
+1	시추	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;시추 뭐 ㄴ가 
+$<시추:SPE> 뭐 ㄴ가 
+1	시추	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;시추 뭐 ㄹ까요 
+$<시추:SPE> 뭐 ㄹ까요 
+1	시추	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;시추 뭐 ㄹ까 
+$<시추:SPE> 뭐 ㄹ까 
+1	시추	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;시추 어떤 건 가요 
+$<시추:SPE> 어떤 건 가요 
+1	시추	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;시추 어떤 거 야 
+$<시추:SPE> 어떤 거 야 
+1	시추	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;시추 도와주 시 어요 
+$<시추:SPE> 도와주 시 어요 
+1	시추	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;시추 돕 아 주 어 
+$<시추:SPE> 돕 아 주 어 
+1	시추	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;시추 문의 드리 어요 
+$<시추:SPE> 문의 드리 어요 
+1	시추	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;시추 문의 드리 ㅂ니다 
+$<시추:SPE> 문의 드리 ㅂ니다 
+1	시추	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;시추 검색 하 아 주 어 
+$<시추:SPE> 검색 하 아 주 어 
+1	시추	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;시추 검색 하 아 주 시 어요 
+$<시추:SPE> 검색 하 아 주 시 어요 
+1	시추	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;시추 뭐 야 
+$<시추:SPE> 뭐 야 
+1	시추	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;시추 뭐 에 요 
+$<시추:SPE> 뭐 에 요 
+1	시추	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;시추 대하 아 알리 어 주 어 
+$<시추:SPE> 대하 아 알리 어 주 어 
+1	시추	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;시추 대하 아 알리 어 주 어 보 아 
+$<시추:SPE> 대하 아 알리 어 주 어 보 아 
+1	시추	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;미니어처슈나우저 대하 아 알리 어 주 시 어요 
+$<미니어처슈나우저:SPE> 대하 아 알리 어 주 시 어요 
+1	미니어처슈나우저	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;미니어처슈나우저 궁금 하 어요 
+$<미니어처슈나우저:SPE> 궁금 하 어요 
+1	미니어처슈나우저	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;미니어처슈나우저 궁금 하 ㅁ 
+$<미니어처슈나우저:SPE> 궁금 하 ㅁ 
+1	미니어처슈나우저	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;미니어처슈나우저 궁금 하 아 
+$<미니어처슈나우저:SPE> 궁금 하 아 
+1	미니어처슈나우저	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;미니어처슈나우저 대하 아 알리 어 주 어 
+$<미니어처슈나우저:SPE> 대하 아 알리 어 주 어 
+1	미니어처슈나우저	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;미니어처슈나우저 알리 어 주 어 
+$<미니어처슈나우저:SPE> 알리 어 주 어 
+1	미니어처슈나우저	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;미니어처슈나우저 설명 하 아 주 시 어요 
+$<미니어처슈나우저:SPE> 설명 하 아 주 시 어요 
+1	미니어처슈나우저	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;미니어처슈나우저 설명 좀 
+$<미니어처슈나우저:SPE> 설명 좀 
+1	미니어처슈나우저	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;미니어처슈나우저 설명 하 아 주 어 
+$<미니어처슈나우저:SPE> 설명 하 아 주 어 
+1	미니어처슈나우저	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;미니어처슈나우저 정보 주 시 어요 
+$<미니어처슈나우저:SPE> 정보 주 시 어요 
+1	미니어처슈나우저	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;미니어처슈나우저 정보 주 어 
+$<미니어처슈나우저:SPE> 정보 주 어 
+1	미니어처슈나우저	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;미니어처슈나우저 무엇 이 ㄴ가요 
+$<미니어처슈나우저:SPE> 무엇 이 ㄴ가요 
+1	미니어처슈나우저	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;미니어처슈나우저 뭔 가요 
+$<미니어처슈나우저:SPE> 뭔 가요 
+1	미니어처슈나우저	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;미니어처슈나우저 뭐 ㄴ가 
+$<미니어처슈나우저:SPE> 뭐 ㄴ가 
+1	미니어처슈나우저	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;미니어처슈나우저 뭐 ㄹ까요 
+$<미니어처슈나우저:SPE> 뭐 ㄹ까요 
+1	미니어처슈나우저	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;미니어처슈나우저 뭐 ㄹ까 
+$<미니어처슈나우저:SPE> 뭐 ㄹ까 
+1	미니어처슈나우저	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;미니어처슈나우저 어떤 건 가요 
+$<미니어처슈나우저:SPE> 어떤 건 가요 
+1	미니어처슈나우저	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;미니어처슈나우저 어떤 거 야 
+$<미니어처슈나우저:SPE> 어떤 거 야 
+1	미니어처슈나우저	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;미니어처슈나우저 도와주 시 어요 
+$<미니어처슈나우저:SPE> 도와주 시 어요 
+1	미니어처슈나우저	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;미니어처슈나우저 돕 아 주 어 
+$<미니어처슈나우저:SPE> 돕 아 주 어 
+1	미니어처슈나우저	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;미니어처슈나우저 문의 드리 어요 
+$<미니어처슈나우저:SPE> 문의 드리 어요 
+1	미니어처슈나우저	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;미니어처슈나우저 문의 드리 ㅂ니다 
+$<미니어처슈나우저:SPE> 문의 드리 ㅂ니다 
+1	미니어처슈나우저	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;미니어처슈나우저 검색 하 아 주 어 
+$<미니어처슈나우저:SPE> 검색 하 아 주 어 
+1	미니어처슈나우저	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;미니어처슈나우저 검색 하 아 주 시 어요 
+$<미니어처슈나우저:SPE> 검색 하 아 주 시 어요 
+1	미니어처슈나우저	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;미니어처슈나우저 뭐 야 
+$<미니어처슈나우저:SPE> 뭐 야 
+1	미니어처슈나우저	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;미니어처슈나우저 뭐 에 요 
+$<미니어처슈나우저:SPE> 뭐 에 요 
+1	미니어처슈나우저	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;미니어처슈나우저 대하 아 알리 어 주 어 
+$<미니어처슈나우저:SPE> 대하 아 알리 어 주 어 
+1	미니어처슈나우저	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;미니어처슈나우저 대하 아 알리 어 주 어 보 아 
+$<미니어처슈나우저:SPE> 대하 아 알리 어 주 어 보 아 
+1	미니어처슈나우저	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;프렌치불도그 대하 아 알리 어 주 시 어요 
+$<프렌치불도그:SPE> 대하 아 알리 어 주 시 어요 
+1	프렌치불도그	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;프렌치불도그 궁금 하 어요 
+$<프렌치불도그:SPE> 궁금 하 어요 
+1	프렌치불도그	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;프렌치불도그 궁금 하 ㅁ 
+$<프렌치불도그:SPE> 궁금 하 ㅁ 
+1	프렌치불도그	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;프렌치불도그 궁금 하 아 
+$<프렌치불도그:SPE> 궁금 하 아 
+1	프렌치불도그	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;프렌치불도그 대하 아 알리 어 주 어 
+$<프렌치불도그:SPE> 대하 아 알리 어 주 어 
+1	프렌치불도그	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;프렌치불도그 알리 어 주 어 
+$<프렌치불도그:SPE> 알리 어 주 어 
+1	프렌치불도그	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;프렌치불도그 설명 하 아 주 시 어요 
+$<프렌치불도그:SPE> 설명 하 아 주 시 어요 
+1	프렌치불도그	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;프렌치불도그 설명 좀 
+$<프렌치불도그:SPE> 설명 좀 
+1	프렌치불도그	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;프렌치불도그 설명 하 아 주 어 
+$<프렌치불도그:SPE> 설명 하 아 주 어 
+1	프렌치불도그	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;프렌치불도그 정보 주 시 어요 
+$<프렌치불도그:SPE> 정보 주 시 어요 
+1	프렌치불도그	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;프렌치불도그 정보 주 어 
+$<프렌치불도그:SPE> 정보 주 어 
+1	프렌치불도그	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;프렌치불도그 무엇 이 ㄴ가요 
+$<프렌치불도그:SPE> 무엇 이 ㄴ가요 
+1	프렌치불도그	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;프렌치불도그 뭔 가요 
+$<프렌치불도그:SPE> 뭔 가요 
+1	프렌치불도그	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;프렌치불도그 뭐 ㄴ가 
+$<프렌치불도그:SPE> 뭐 ㄴ가 
+1	프렌치불도그	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;프렌치불도그 뭐 ㄹ까요 
+$<프렌치불도그:SPE> 뭐 ㄹ까요 
+1	프렌치불도그	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;프렌치불도그 뭐 ㄹ까 
+$<프렌치불도그:SPE> 뭐 ㄹ까 
+1	프렌치불도그	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;프렌치불도그 어떤 건 가요 
+$<프렌치불도그:SPE> 어떤 건 가요 
+1	프렌치불도그	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;프렌치불도그 어떤 거 야 
+$<프렌치불도그:SPE> 어떤 거 야 
+1	프렌치불도그	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;프렌치불도그 도와주 시 어요 
+$<프렌치불도그:SPE> 도와주 시 어요 
+1	프렌치불도그	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;프렌치불도그 돕 아 주 어 
+$<프렌치불도그:SPE> 돕 아 주 어 
+1	프렌치불도그	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;프렌치불도그 문의 드리 어요 
+$<프렌치불도그:SPE> 문의 드리 어요 
+1	프렌치불도그	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;프렌치불도그 문의 드리 ㅂ니다 
+$<프렌치불도그:SPE> 문의 드리 ㅂ니다 
+1	프렌치불도그	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;프렌치불도그 검색 하 아 주 어 
+$<프렌치불도그:SPE> 검색 하 아 주 어 
+1	프렌치불도그	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;프렌치불도그 검색 하 아 주 시 어요 
+$<프렌치불도그:SPE> 검색 하 아 주 시 어요 
+1	프렌치불도그	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;프렌치불도그 뭐 야 
+$<프렌치불도그:SPE> 뭐 야 
+1	프렌치불도그	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;프렌치불도그 뭐 에 요 
+$<프렌치불도그:SPE> 뭐 에 요 
+1	프렌치불도그	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;프렌치불도그 대하 아 알리 어 주 어 
+$<프렌치불도그:SPE> 대하 아 알리 어 주 어 
+1	프렌치불도그	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;프렌치불도그 대하 아 알리 어 주 어 보 아 
+$<프렌치불도그:SPE> 대하 아 알리 어 주 어 보 아 
+1	프렌치불도그	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;몰티즈 대하 아 알리 어 주 시 어요 
+$<몰티즈:SPE> 대하 아 알리 어 주 시 어요 
+1	몰티즈	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;몰티즈 궁금 하 어요 
+$<몰티즈:SPE> 궁금 하 어요 
+1	몰티즈	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;몰티즈 궁금 하 ㅁ 
+$<몰티즈:SPE> 궁금 하 ㅁ 
+1	몰티즈	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;몰티즈 궁금 하 아 
+$<몰티즈:SPE> 궁금 하 아 
+1	몰티즈	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;몰티즈 대하 아 알리 어 주 어 
+$<몰티즈:SPE> 대하 아 알리 어 주 어 
+1	몰티즈	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;몰티즈 알리 어 주 어 
+$<몰티즈:SPE> 알리 어 주 어 
+1	몰티즈	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;몰티즈 설명 하 아 주 시 어요 
+$<몰티즈:SPE> 설명 하 아 주 시 어요 
+1	몰티즈	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;몰티즈 설명 좀 
+$<몰티즈:SPE> 설명 좀 
+1	몰티즈	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;몰티즈 설명 하 아 주 어 
+$<몰티즈:SPE> 설명 하 아 주 어 
+1	몰티즈	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;몰티즈 정보 주 시 어요 
+$<몰티즈:SPE> 정보 주 시 어요 
+1	몰티즈	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;몰티즈 정보 주 어 
+$<몰티즈:SPE> 정보 주 어 
+1	몰티즈	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;몰티즈 무엇 이 ㄴ가요 
+$<몰티즈:SPE> 무엇 이 ㄴ가요 
+1	몰티즈	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;몰티즈 뭔 가요 
+$<몰티즈:SPE> 뭔 가요 
+1	몰티즈	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;몰티즈 뭐 ㄴ가 
+$<몰티즈:SPE> 뭐 ㄴ가 
+1	몰티즈	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;몰티즈 뭐 ㄹ까요 
+$<몰티즈:SPE> 뭐 ㄹ까요 
+1	몰티즈	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;몰티즈 뭐 ㄹ까 
+$<몰티즈:SPE> 뭐 ㄹ까 
+1	몰티즈	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;몰티즈 어떤 건 가요 
+$<몰티즈:SPE> 어떤 건 가요 
+1	몰티즈	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;몰티즈 어떤 거 야 
+$<몰티즈:SPE> 어떤 거 야 
+1	몰티즈	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;몰티즈 도와주 시 어요 
+$<몰티즈:SPE> 도와주 시 어요 
+1	몰티즈	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;몰티즈 돕 아 주 어 
+$<몰티즈:SPE> 돕 아 주 어 
+1	몰티즈	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;몰티즈 문의 드리 어요 
+$<몰티즈:SPE> 문의 드리 어요 
+1	몰티즈	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;몰티즈 문의 드리 ㅂ니다 
+$<몰티즈:SPE> 문의 드리 ㅂ니다 
+1	몰티즈	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;몰티즈 검색 하 아 주 어 
+$<몰티즈:SPE> 검색 하 아 주 어 
+1	몰티즈	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;몰티즈 검색 하 아 주 시 어요 
+$<몰티즈:SPE> 검색 하 아 주 시 어요 
+1	몰티즈	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;몰티즈 뭐 야 
+$<몰티즈:SPE> 뭐 야 
+1	몰티즈	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;몰티즈 뭐 에 요 
+$<몰티즈:SPE> 뭐 에 요 
+1	몰티즈	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;몰티즈 대하 아 알리 어 주 어 
+$<몰티즈:SPE> 대하 아 알리 어 주 어 
+1	몰티즈	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;몰티즈 대하 아 알리 어 주 어 보 아 
+$<몰티즈:SPE> 대하 아 알리 어 주 어 보 아 
+1	몰티즈	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;웰시코기펨브룩 대하 아 알리 어 주 시 어요 
+$<웰시코기펨브룩:SPE> 대하 아 알리 어 주 시 어요 
+1	웰시코기펨브룩	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;웰시코기펨브룩 궁금 하 어요 
+$<웰시코기펨브룩:SPE> 궁금 하 어요 
+1	웰시코기펨브룩	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;웰시코기펨브룩 궁금 하 ㅁ 
+$<웰시코기펨브룩:SPE> 궁금 하 ㅁ 
+1	웰시코기펨브룩	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;웰시코기펨브룩 궁금 하 아 
+$<웰시코기펨브룩:SPE> 궁금 하 아 
+1	웰시코기펨브룩	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;웰시코기펨브룩 대하 아 알리 어 주 어 
+$<웰시코기펨브룩:SPE> 대하 아 알리 어 주 어 
+1	웰시코기펨브룩	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;웰시코기펨브룩 알리 어 주 어 
+$<웰시코기펨브룩:SPE> 알리 어 주 어 
+1	웰시코기펨브룩	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;웰시코기펨브룩 설명 하 아 주 시 어요 
+$<웰시코기펨브룩:SPE> 설명 하 아 주 시 어요 
+1	웰시코기펨브룩	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;웰시코기펨브룩 설명 좀 
+$<웰시코기펨브룩:SPE> 설명 좀 
+1	웰시코기펨브룩	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;웰시코기펨브룩 설명 하 아 주 어 
+$<웰시코기펨브룩:SPE> 설명 하 아 주 어 
+1	웰시코기펨브룩	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;웰시코기펨브룩 정보 주 시 어요 
+$<웰시코기펨브룩:SPE> 정보 주 시 어요 
+1	웰시코기펨브룩	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;웰시코기펨브룩 정보 주 어 
+$<웰시코기펨브룩:SPE> 정보 주 어 
+1	웰시코기펨브룩	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;웰시코기펨브룩 무엇 이 ㄴ가요 
+$<웰시코기펨브룩:SPE> 무엇 이 ㄴ가요 
+1	웰시코기펨브룩	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;웰시코기펨브룩 뭔 가요 
+$<웰시코기펨브룩:SPE> 뭔 가요 
+1	웰시코기펨브룩	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;웰시코기펨브룩 뭐 ㄴ가 
+$<웰시코기펨브룩:SPE> 뭐 ㄴ가 
+1	웰시코기펨브룩	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;웰시코기펨브룩 뭐 ㄹ까요 
+$<웰시코기펨브룩:SPE> 뭐 ㄹ까요 
+1	웰시코기펨브룩	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;웰시코기펨브룩 뭐 ㄹ까 
+$<웰시코기펨브룩:SPE> 뭐 ㄹ까 
+1	웰시코기펨브룩	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;웰시코기펨브룩 어떤 건 가요 
+$<웰시코기펨브룩:SPE> 어떤 건 가요 
+1	웰시코기펨브룩	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;웰시코기펨브룩 어떤 거 야 
+$<웰시코기펨브룩:SPE> 어떤 거 야 
+1	웰시코기펨브룩	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;웰시코기펨브룩 도와주 시 어요 
+$<웰시코기펨브룩:SPE> 도와주 시 어요 
+1	웰시코기펨브룩	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;웰시코기펨브룩 돕 아 주 어 
+$<웰시코기펨브룩:SPE> 돕 아 주 어 
+1	웰시코기펨브룩	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;웰시코기펨브룩 문의 드리 어요 
+$<웰시코기펨브룩:SPE> 문의 드리 어요 
+1	웰시코기펨브룩	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;웰시코기펨브룩 문의 드리 ㅂ니다 
+$<웰시코기펨브룩:SPE> 문의 드리 ㅂ니다 
+1	웰시코기펨브룩	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;웰시코기펨브룩 검색 하 아 주 어 
+$<웰시코기펨브룩:SPE> 검색 하 아 주 어 
+1	웰시코기펨브룩	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;웰시코기펨브룩 검색 하 아 주 시 어요 
+$<웰시코기펨브룩:SPE> 검색 하 아 주 시 어요 
+1	웰시코기펨브룩	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;웰시코기펨브룩 뭐 야 
+$<웰시코기펨브룩:SPE> 뭐 야 
+1	웰시코기펨브룩	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;웰시코기펨브룩 뭐 에 요 
+$<웰시코기펨브룩:SPE> 뭐 에 요 
+1	웰시코기펨브룩	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;웰시코기펨브룩 대하 아 알리 어 주 어 
+$<웰시코기펨브룩:SPE> 대하 아 알리 어 주 어 
+1	웰시코기펨브룩	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;웰시코기펨브룩 대하 아 알리 어 주 어 보 아 
+$<웰시코기펨브룩:SPE> 대하 아 알리 어 주 어 보 아 
+1	웰시코기펨브룩	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;시바견 대하 아 알리 어 주 시 어요 
+$<시바견:SPE> 대하 아 알리 어 주 시 어요 
+1	시바견	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;시바견 궁금 하 어요 
+$<시바견:SPE> 궁금 하 어요 
+1	시바견	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;시바견 궁금 하 ㅁ 
+$<시바견:SPE> 궁금 하 ㅁ 
+1	시바견	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;시바견 궁금 하 아 
+$<시바견:SPE> 궁금 하 아 
+1	시바견	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;시바견 대하 아 알리 어 주 어 
+$<시바견:SPE> 대하 아 알리 어 주 어 
+1	시바견	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;시바견 알리 어 주 어 
+$<시바견:SPE> 알리 어 주 어 
+1	시바견	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;시바견 설명 하 아 주 시 어요 
+$<시바견:SPE> 설명 하 아 주 시 어요 
+1	시바견	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;시바견 설명 좀 
+$<시바견:SPE> 설명 좀 
+1	시바견	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;시바견 설명 하 아 주 어 
+$<시바견:SPE> 설명 하 아 주 어 
+1	시바견	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;시바견 정보 주 시 어요 
+$<시바견:SPE> 정보 주 시 어요 
+1	시바견	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;시바견 정보 주 어 
+$<시바견:SPE> 정보 주 어 
+1	시바견	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;시바견 무엇 이 ㄴ가요 
+$<시바견:SPE> 무엇 이 ㄴ가요 
+1	시바견	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;시바견 뭔 가요 
+$<시바견:SPE> 뭔 가요 
+1	시바견	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;시바견 뭐 ㄴ가 
+$<시바견:SPE> 뭐 ㄴ가 
+1	시바견	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;시바견 뭐 ㄹ까요 
+$<시바견:SPE> 뭐 ㄹ까요 
+1	시바견	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;시바견 뭐 ㄹ까 
+$<시바견:SPE> 뭐 ㄹ까 
+1	시바견	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;시바견 어떤 건 가요 
+$<시바견:SPE> 어떤 건 가요 
+1	시바견	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;시바견 어떤 거 야 
+$<시바견:SPE> 어떤 거 야 
+1	시바견	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;시바견 도와주 시 어요 
+$<시바견:SPE> 도와주 시 어요 
+1	시바견	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;시바견 돕 아 주 어 
+$<시바견:SPE> 돕 아 주 어 
+1	시바견	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;시바견 문의 드리 어요 
+$<시바견:SPE> 문의 드리 어요 
+1	시바견	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;시바견 문의 드리 ㅂ니다 
+$<시바견:SPE> 문의 드리 ㅂ니다 
+1	시바견	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;시바견 검색 하 아 주 어 
+$<시바견:SPE> 검색 하 아 주 어 
+1	시바견	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;시바견 검색 하 아 주 시 어요 
+$<시바견:SPE> 검색 하 아 주 시 어요 
+1	시바견	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;시바견 뭐 야 
+$<시바견:SPE> 뭐 야 
+1	시바견	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;시바견 뭐 에 요 
+$<시바견:SPE> 뭐 에 요 
+1	시바견	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;시바견 대하 아 알리 어 주 어 
+$<시바견:SPE> 대하 아 알리 어 주 어 
+1	시바견	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;시바견 대하 아 알리 어 주 어 보 아 
+$<시바견:SPE> 대하 아 알리 어 주 어 보 아 
+1	시바견	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;퍼그 대하 아 알리 어 주 시 어요 
+$<퍼그:SPE> 대하 아 알리 어 주 시 어요 
+1	퍼그	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;퍼그 궁금 하 어요 
+$<퍼그:SPE> 궁금 하 어요 
+1	퍼그	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;퍼그 궁금 하 ㅁ 
+$<퍼그:SPE> 궁금 하 ㅁ 
+1	퍼그	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;퍼그 궁금 하 아 
+$<퍼그:SPE> 궁금 하 아 
+1	퍼그	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;퍼그 대하 아 알리 어 주 어 
+$<퍼그:SPE> 대하 아 알리 어 주 어 
+1	퍼그	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;퍼그 알리 어 주 어 
+$<퍼그:SPE> 알리 어 주 어 
+1	퍼그	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;퍼그 설명 하 아 주 시 어요 
+$<퍼그:SPE> 설명 하 아 주 시 어요 
+1	퍼그	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;퍼그 설명 좀 
+$<퍼그:SPE> 설명 좀 
+1	퍼그	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;퍼그 설명 하 아 주 어 
+$<퍼그:SPE> 설명 하 아 주 어 
+1	퍼그	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;퍼그 정보 주 시 어요 
+$<퍼그:SPE> 정보 주 시 어요 
+1	퍼그	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;퍼그 정보 주 어 
+$<퍼그:SPE> 정보 주 어 
+1	퍼그	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;퍼그 무엇 이 ㄴ가요 
+$<퍼그:SPE> 무엇 이 ㄴ가요 
+1	퍼그	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;퍼그 뭔 가요 
+$<퍼그:SPE> 뭔 가요 
+1	퍼그	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;퍼그 뭐 ㄴ가 
+$<퍼그:SPE> 뭐 ㄴ가 
+1	퍼그	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;퍼그 뭐 ㄹ까요 
+$<퍼그:SPE> 뭐 ㄹ까요 
+1	퍼그	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;퍼그 뭐 ㄹ까 
+$<퍼그:SPE> 뭐 ㄹ까 
+1	퍼그	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;퍼그 어떤 건 가요 
+$<퍼그:SPE> 어떤 건 가요 
+1	퍼그	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;퍼그 어떤 거 야 
+$<퍼그:SPE> 어떤 거 야 
+1	퍼그	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;퍼그 도와주 시 어요 
+$<퍼그:SPE> 도와주 시 어요 
+1	퍼그	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;퍼그 돕 아 주 어 
+$<퍼그:SPE> 돕 아 주 어 
+1	퍼그	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;퍼그 문의 드리 어요 
+$<퍼그:SPE> 문의 드리 어요 
+1	퍼그	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;퍼그 문의 드리 ㅂ니다 
+$<퍼그:SPE> 문의 드리 ㅂ니다 
+1	퍼그	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;퍼그 검색 하 아 주 어 
+$<퍼그:SPE> 검색 하 아 주 어 
+1	퍼그	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;퍼그 검색 하 아 주 시 어요 
+$<퍼그:SPE> 검색 하 아 주 시 어요 
+1	퍼그	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;퍼그 뭐 야 
+$<퍼그:SPE> 뭐 야 
+1	퍼그	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;퍼그 뭐 에 요 
+$<퍼그:SPE> 뭐 에 요 
+1	퍼그	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;퍼그 대하 아 알리 어 주 어 
+$<퍼그:SPE> 대하 아 알리 어 주 어 
+1	퍼그	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;퍼그 대하 아 알리 어 주 어 보 아 
+$<퍼그:SPE> 대하 아 알리 어 주 어 보 아 
+1	퍼그	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;미니어처핀셔 대하 아 알리 어 주 시 어요 
+$<미니어처핀셔:SPE> 대하 아 알리 어 주 시 어요 
+1	미니어처핀셔	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;미니어처핀셔 궁금 하 어요 
+$<미니어처핀셔:SPE> 궁금 하 어요 
+1	미니어처핀셔	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;미니어처핀셔 궁금 하 ㅁ 
+$<미니어처핀셔:SPE> 궁금 하 ㅁ 
+1	미니어처핀셔	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;미니어처핀셔 궁금 하 아 
+$<미니어처핀셔:SPE> 궁금 하 아 
+1	미니어처핀셔	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;미니어처핀셔 대하 아 알리 어 주 어 
+$<미니어처핀셔:SPE> 대하 아 알리 어 주 어 
+1	미니어처핀셔	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;미니어처핀셔 알리 어 주 어 
+$<미니어처핀셔:SPE> 알리 어 주 어 
+1	미니어처핀셔	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;미니어처핀셔 설명 하 아 주 시 어요 
+$<미니어처핀셔:SPE> 설명 하 아 주 시 어요 
+1	미니어처핀셔	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;미니어처핀셔 설명 좀 
+$<미니어처핀셔:SPE> 설명 좀 
+1	미니어처핀셔	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;미니어처핀셔 설명 하 아 주 어 
+$<미니어처핀셔:SPE> 설명 하 아 주 어 
+1	미니어처핀셔	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;미니어처핀셔 정보 주 시 어요 
+$<미니어처핀셔:SPE> 정보 주 시 어요 
+1	미니어처핀셔	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;미니어처핀셔 정보 주 어 
+$<미니어처핀셔:SPE> 정보 주 어 
+1	미니어처핀셔	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;미니어처핀셔 무엇 이 ㄴ가요 
+$<미니어처핀셔:SPE> 무엇 이 ㄴ가요 
+1	미니어처핀셔	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;미니어처핀셔 뭔 가요 
+$<미니어처핀셔:SPE> 뭔 가요 
+1	미니어처핀셔	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;미니어처핀셔 뭐 ㄴ가 
+$<미니어처핀셔:SPE> 뭐 ㄴ가 
+1	미니어처핀셔	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;미니어처핀셔 뭐 ㄹ까요 
+$<미니어처핀셔:SPE> 뭐 ㄹ까요 
+1	미니어처핀셔	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;미니어처핀셔 뭐 ㄹ까 
+$<미니어처핀셔:SPE> 뭐 ㄹ까 
+1	미니어처핀셔	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;미니어처핀셔 어떤 건 가요 
+$<미니어처핀셔:SPE> 어떤 건 가요 
+1	미니어처핀셔	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;미니어처핀셔 어떤 거 야 
+$<미니어처핀셔:SPE> 어떤 거 야 
+1	미니어처핀셔	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;미니어처핀셔 도와주 시 어요 
+$<미니어처핀셔:SPE> 도와주 시 어요 
+1	미니어처핀셔	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;미니어처핀셔 돕 아 주 어 
+$<미니어처핀셔:SPE> 돕 아 주 어 
+1	미니어처핀셔	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;미니어처핀셔 문의 드리 어요 
+$<미니어처핀셔:SPE> 문의 드리 어요 
+1	미니어처핀셔	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;미니어처핀셔 문의 드리 ㅂ니다 
+$<미니어처핀셔:SPE> 문의 드리 ㅂ니다 
+1	미니어처핀셔	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;미니어처핀셔 검색 하 아 주 어 
+$<미니어처핀셔:SPE> 검색 하 아 주 어 
+1	미니어처핀셔	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;미니어처핀셔 검색 하 아 주 시 어요 
+$<미니어처핀셔:SPE> 검색 하 아 주 시 어요 
+1	미니어처핀셔	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;미니어처핀셔 뭐 야 
+$<미니어처핀셔:SPE> 뭐 야 
+1	미니어처핀셔	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;미니어처핀셔 뭐 에 요 
+$<미니어처핀셔:SPE> 뭐 에 요 
+1	미니어처핀셔	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;미니어처핀셔 대하 아 알리 어 주 어 
+$<미니어처핀셔:SPE> 대하 아 알리 어 주 어 
+1	미니어처핀셔	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;미니어처핀셔 대하 아 알리 어 주 어 보 아 
+$<미니어처핀셔:SPE> 대하 아 알리 어 주 어 보 아 
+1	미니어처핀셔	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;카발리아킹찰스스파니엘 대하 아 알리 어 주 시 어요 
+$<카발리아킹찰스스파니엘:SPE> 대하 아 알리 어 주 시 어요 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;카발리아킹찰스스파니엘 궁금 하 어요 
+$<카발리아킹찰스스파니엘:SPE> 궁금 하 어요 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;카발리아킹찰스스파니엘 궁금 하 ㅁ 
+$<카발리아킹찰스스파니엘:SPE> 궁금 하 ㅁ 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;카발리아킹찰스스파니엘 궁금 하 아 
+$<카발리아킹찰스스파니엘:SPE> 궁금 하 아 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;카발리아킹찰스스파니엘 대하 아 알리 어 주 어 
+$<카발리아킹찰스스파니엘:SPE> 대하 아 알리 어 주 어 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;카발리아킹찰스스파니엘 알리 어 주 어 
+$<카발리아킹찰스스파니엘:SPE> 알리 어 주 어 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;카발리아킹찰스스파니엘 설명 하 아 주 시 어요 
+$<카발리아킹찰스스파니엘:SPE> 설명 하 아 주 시 어요 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;카발리아킹찰스스파니엘 설명 좀 
+$<카발리아킹찰스스파니엘:SPE> 설명 좀 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;카발리아킹찰스스파니엘 설명 하 아 주 어 
+$<카발리아킹찰스스파니엘:SPE> 설명 하 아 주 어 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;카발리아킹찰스스파니엘 정보 주 시 어요 
+$<카발리아킹찰스스파니엘:SPE> 정보 주 시 어요 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;카발리아킹찰스스파니엘 정보 주 어 
+$<카발리아킹찰스스파니엘:SPE> 정보 주 어 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;카발리아킹찰스스파니엘 무엇 이 ㄴ가요 
+$<카발리아킹찰스스파니엘:SPE> 무엇 이 ㄴ가요 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;카발리아킹찰스스파니엘 뭔 가요 
+$<카발리아킹찰스스파니엘:SPE> 뭔 가요 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;카발리아킹찰스스파니엘 뭐 ㄴ가 
+$<카발리아킹찰스스파니엘:SPE> 뭐 ㄴ가 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;카발리아킹찰스스파니엘 뭐 ㄹ까요 
+$<카발리아킹찰스스파니엘:SPE> 뭐 ㄹ까요 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;카발리아킹찰스스파니엘 뭐 ㄹ까 
+$<카발리아킹찰스스파니엘:SPE> 뭐 ㄹ까 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;카발리아킹찰스스파니엘 어떤 건 가요 
+$<카발리아킹찰스스파니엘:SPE> 어떤 건 가요 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;카발리아킹찰스스파니엘 어떤 거 야 
+$<카발리아킹찰스스파니엘:SPE> 어떤 거 야 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;카발리아킹찰스스파니엘 도와주 시 어요 
+$<카발리아킹찰스스파니엘:SPE> 도와주 시 어요 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;카발리아킹찰스스파니엘 돕 아 주 어 
+$<카발리아킹찰스스파니엘:SPE> 돕 아 주 어 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;카발리아킹찰스스파니엘 문의 드리 어요 
+$<카발리아킹찰스스파니엘:SPE> 문의 드리 어요 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;카발리아킹찰스스파니엘 문의 드리 ㅂ니다 
+$<카발리아킹찰스스파니엘:SPE> 문의 드리 ㅂ니다 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;카발리아킹찰스스파니엘 검색 하 아 주 어 
+$<카발리아킹찰스스파니엘:SPE> 검색 하 아 주 어 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;카발리아킹찰스스파니엘 검색 하 아 주 시 어요 
+$<카발리아킹찰스스파니엘:SPE> 검색 하 아 주 시 어요 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;카발리아킹찰스스파니엘 뭐 야 
+$<카발리아킹찰스스파니엘:SPE> 뭐 야 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;카발리아킹찰스스파니엘 뭐 에 요 
+$<카발리아킹찰스스파니엘:SPE> 뭐 에 요 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;카발리아킹찰스스파니엘 대하 아 알리 어 주 어 
+$<카발리아킹찰스스파니엘:SPE> 대하 아 알리 어 주 어 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;카발리아킹찰스스파니엘 대하 아 알리 어 주 어 보 아 
+$<카발리아킹찰스스파니엘:SPE> 대하 아 알리 어 주 어 보 아 
+1	카발리아킹찰스스파니엘	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;래브라도리트리버 대하 아 알리 어 주 시 어요 
+$<래브라도리트리버:SPE> 대하 아 알리 어 주 시 어요 
+1	래브라도리트리버	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;래브라도리트리버 궁금 하 어요 
+$<래브라도리트리버:SPE> 궁금 하 어요 
+1	래브라도리트리버	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;래브라도리트리버 궁금 하 ㅁ 
+$<래브라도리트리버:SPE> 궁금 하 ㅁ 
+1	래브라도리트리버	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;래브라도리트리버 궁금 하 아 
+$<래브라도리트리버:SPE> 궁금 하 아 
+1	래브라도리트리버	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;래브라도리트리버 대하 아 알리 어 주 어 
+$<래브라도리트리버:SPE> 대하 아 알리 어 주 어 
+1	래브라도리트리버	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;래브라도리트리버 알리 어 주 어 
+$<래브라도리트리버:SPE> 알리 어 주 어 
+1	래브라도리트리버	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;래브라도리트리버 설명 하 아 주 시 어요 
+$<래브라도리트리버:SPE> 설명 하 아 주 시 어요 
+1	래브라도리트리버	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;래브라도리트리버 설명 좀 
+$<래브라도리트리버:SPE> 설명 좀 
+1	래브라도리트리버	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;래브라도리트리버 설명 하 아 주 어 
+$<래브라도리트리버:SPE> 설명 하 아 주 어 
+1	래브라도리트리버	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;래브라도리트리버 정보 주 시 어요 
+$<래브라도리트리버:SPE> 정보 주 시 어요 
+1	래브라도리트리버	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;래브라도리트리버 정보 주 어 
+$<래브라도리트리버:SPE> 정보 주 어 
+1	래브라도리트리버	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;래브라도리트리버 무엇 이 ㄴ가요 
+$<래브라도리트리버:SPE> 무엇 이 ㄴ가요 
+1	래브라도리트리버	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;래브라도리트리버 뭔 가요 
+$<래브라도리트리버:SPE> 뭔 가요 
+1	래브라도리트리버	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;래브라도리트리버 뭐 ㄴ가 
+$<래브라도리트리버:SPE> 뭐 ㄴ가 
+1	래브라도리트리버	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;래브라도리트리버 뭐 ㄹ까요 
+$<래브라도리트리버:SPE> 뭐 ㄹ까요 
+1	래브라도리트리버	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;래브라도리트리버 뭐 ㄹ까 
+$<래브라도리트리버:SPE> 뭐 ㄹ까 
+1	래브라도리트리버	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;래브라도리트리버 어떤 건 가요 
+$<래브라도리트리버:SPE> 어떤 건 가요 
+1	래브라도리트리버	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;래브라도리트리버 어떤 거 야 
+$<래브라도리트리버:SPE> 어떤 거 야 
+1	래브라도리트리버	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;래브라도리트리버 도와주 시 어요 
+$<래브라도리트리버:SPE> 도와주 시 어요 
+1	래브라도리트리버	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;래브라도리트리버 돕 아 주 어 
+$<래브라도리트리버:SPE> 돕 아 주 어 
+1	래브라도리트리버	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;래브라도리트리버 문의 드리 어요 
+$<래브라도리트리버:SPE> 문의 드리 어요 
+1	래브라도리트리버	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;래브라도리트리버 문의 드리 ㅂ니다 
+$<래브라도리트리버:SPE> 문의 드리 ㅂ니다 
+1	래브라도리트리버	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;래브라도리트리버 검색 하 아 주 어 
+$<래브라도리트리버:SPE> 검색 하 아 주 어 
+1	래브라도리트리버	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;래브라도리트리버 검색 하 아 주 시 어요 
+$<래브라도리트리버:SPE> 검색 하 아 주 시 어요 
+1	래브라도리트리버	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;래브라도리트리버 뭐 야 
+$<래브라도리트리버:SPE> 뭐 야 
+1	래브라도리트리버	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;래브라도리트리버 뭐 에 요 
+$<래브라도리트리버:SPE> 뭐 에 요 
+1	래브라도리트리버	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;래브라도리트리버 대하 아 알리 어 주 어 
+$<래브라도리트리버:SPE> 대하 아 알리 어 주 어 
+1	래브라도리트리버	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;래브라도리트리버 대하 아 알리 어 주 어 보 아 
+$<래브라도리트리버:SPE> 대하 아 알리 어 주 어 보 아 
+1	래브라도리트리버	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;골든리트리버 대하 아 알리 어 주 시 어요 
+$<골든리트리버:SPE> 대하 아 알리 어 주 시 어요 
+1	골든리트리버	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;골든리트리버 궁금 하 어요 
+$<골든리트리버:SPE> 궁금 하 어요 
+1	골든리트리버	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;골든리트리버 궁금 하 ㅁ 
+$<골든리트리버:SPE> 궁금 하 ㅁ 
+1	골든리트리버	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;골든리트리버 궁금 하 아 
+$<골든리트리버:SPE> 궁금 하 아 
+1	골든리트리버	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;골든리트리버 대하 아 알리 어 주 어 
+$<골든리트리버:SPE> 대하 아 알리 어 주 어 
+1	골든리트리버	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;골든리트리버 알리 어 주 어 
+$<골든리트리버:SPE> 알리 어 주 어 
+1	골든리트리버	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;골든리트리버 설명 하 아 주 시 어요 
+$<골든리트리버:SPE> 설명 하 아 주 시 어요 
+1	골든리트리버	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;골든리트리버 설명 좀 
+$<골든리트리버:SPE> 설명 좀 
+1	골든리트리버	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;골든리트리버 설명 하 아 주 어 
+$<골든리트리버:SPE> 설명 하 아 주 어 
+1	골든리트리버	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;골든리트리버 정보 주 시 어요 
+$<골든리트리버:SPE> 정보 주 시 어요 
+1	골든리트리버	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;골든리트리버 정보 주 어 
+$<골든리트리버:SPE> 정보 주 어 
+1	골든리트리버	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;골든리트리버 무엇 이 ㄴ가요 
+$<골든리트리버:SPE> 무엇 이 ㄴ가요 
+1	골든리트리버	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;골든리트리버 뭔 가요 
+$<골든리트리버:SPE> 뭔 가요 
+1	골든리트리버	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;골든리트리버 뭐 ㄴ가 
+$<골든리트리버:SPE> 뭐 ㄴ가 
+1	골든리트리버	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;골든리트리버 뭐 ㄹ까요 
+$<골든리트리버:SPE> 뭐 ㄹ까요 
+1	골든리트리버	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;골든리트리버 뭐 ㄹ까 
+$<골든리트리버:SPE> 뭐 ㄹ까 
+1	골든리트리버	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;골든리트리버 어떤 건 가요 
+$<골든리트리버:SPE> 어떤 건 가요 
+1	골든리트리버	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;골든리트리버 어떤 거 야 
+$<골든리트리버:SPE> 어떤 거 야 
+1	골든리트리버	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;골든리트리버 도와주 시 어요 
+$<골든리트리버:SPE> 도와주 시 어요 
+1	골든리트리버	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;골든리트리버 돕 아 주 어 
+$<골든리트리버:SPE> 돕 아 주 어 
+1	골든리트리버	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;골든리트리버 문의 드리 어요 
+$<골든리트리버:SPE> 문의 드리 어요 
+1	골든리트리버	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;골든리트리버 문의 드리 ㅂ니다 
+$<골든리트리버:SPE> 문의 드리 ㅂ니다 
+1	골든리트리버	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;골든리트리버 검색 하 아 주 어 
+$<골든리트리버:SPE> 검색 하 아 주 어 
+1	골든리트리버	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;골든리트리버 검색 하 아 주 시 어요 
+$<골든리트리버:SPE> 검색 하 아 주 시 어요 
+1	골든리트리버	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;골든리트리버 뭐 야 
+$<골든리트리버:SPE> 뭐 야 
+1	골든리트리버	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;골든리트리버 뭐 에 요 
+$<골든리트리버:SPE> 뭐 에 요 
+1	골든리트리버	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;골든리트리버 대하 아 알리 어 주 어 
+$<골든리트리버:SPE> 대하 아 알리 어 주 어 
+1	골든리트리버	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;골든리트리버 대하 아 알리 어 주 어 보 아 
+$<골든리트리버:SPE> 대하 아 알리 어 주 어 보 아 
+1	골든리트리버	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;잭러셀테리어 대하 아 알리 어 주 시 어요 
+$<잭러셀테리어:SPE> 대하 아 알리 어 주 시 어요 
+1	잭러셀테리어	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;잭러셀테리어 궁금 하 어요 
+$<잭러셀테리어:SPE> 궁금 하 어요 
+1	잭러셀테리어	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;잭러셀테리어 궁금 하 ㅁ 
+$<잭러셀테리어:SPE> 궁금 하 ㅁ 
+1	잭러셀테리어	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;잭러셀테리어 궁금 하 아 
+$<잭러셀테리어:SPE> 궁금 하 아 
+1	잭러셀테리어	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;잭러셀테리어 대하 아 알리 어 주 어 
+$<잭러셀테리어:SPE> 대하 아 알리 어 주 어 
+1	잭러셀테리어	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;잭러셀테리어 알리 어 주 어 
+$<잭러셀테리어:SPE> 알리 어 주 어 
+1	잭러셀테리어	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;잭러셀테리어 설명 하 아 주 시 어요 
+$<잭러셀테리어:SPE> 설명 하 아 주 시 어요 
+1	잭러셀테리어	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;잭러셀테리어 설명 좀 
+$<잭러셀테리어:SPE> 설명 좀 
+1	잭러셀테리어	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;잭러셀테리어 설명 하 아 주 어 
+$<잭러셀테리어:SPE> 설명 하 아 주 어 
+1	잭러셀테리어	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;잭러셀테리어 정보 주 시 어요 
+$<잭러셀테리어:SPE> 정보 주 시 어요 
+1	잭러셀테리어	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;잭러셀테리어 정보 주 어 
+$<잭러셀테리어:SPE> 정보 주 어 
+1	잭러셀테리어	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;잭러셀테리어 무엇 이 ㄴ가요 
+$<잭러셀테리어:SPE> 무엇 이 ㄴ가요 
+1	잭러셀테리어	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;잭러셀테리어 뭔 가요 
+$<잭러셀테리어:SPE> 뭔 가요 
+1	잭러셀테리어	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;잭러셀테리어 뭐 ㄴ가 
+$<잭러셀테리어:SPE> 뭐 ㄴ가 
+1	잭러셀테리어	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;잭러셀테리어 뭐 ㄹ까요 
+$<잭러셀테리어:SPE> 뭐 ㄹ까요 
+1	잭러셀테리어	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;잭러셀테리어 뭐 ㄹ까 
+$<잭러셀테리어:SPE> 뭐 ㄹ까 
+1	잭러셀테리어	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;잭러셀테리어 어떤 건 가요 
+$<잭러셀테리어:SPE> 어떤 건 가요 
+1	잭러셀테리어	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;잭러셀테리어 어떤 거 야 
+$<잭러셀테리어:SPE> 어떤 거 야 
+1	잭러셀테리어	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;잭러셀테리어 도와주 시 어요 
+$<잭러셀테리어:SPE> 도와주 시 어요 
+1	잭러셀테리어	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;잭러셀테리어 돕 아 주 어 
+$<잭러셀테리어:SPE> 돕 아 주 어 
+1	잭러셀테리어	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;잭러셀테리어 문의 드리 어요 
+$<잭러셀테리어:SPE> 문의 드리 어요 
+1	잭러셀테리어	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;잭러셀테리어 문의 드리 ㅂ니다 
+$<잭러셀테리어:SPE> 문의 드리 ㅂ니다 
+1	잭러셀테리어	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;잭러셀테리어 검색 하 아 주 어 
+$<잭러셀테리어:SPE> 검색 하 아 주 어 
+1	잭러셀테리어	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;잭러셀테리어 검색 하 아 주 시 어요 
+$<잭러셀테리어:SPE> 검색 하 아 주 시 어요 
+1	잭러셀테리어	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;잭러셀테리어 뭐 야 
+$<잭러셀테리어:SPE> 뭐 야 
+1	잭러셀테리어	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;잭러셀테리어 뭐 에 요 
+$<잭러셀테리어:SPE> 뭐 에 요 
+1	잭러셀테리어	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;잭러셀테리어 대하 아 알리 어 주 어 
+$<잭러셀테리어:SPE> 대하 아 알리 어 주 어 
+1	잭러셀테리어	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;잭러셀테리어 대하 아 알리 어 주 어 보 아 
+$<잭러셀테리어:SPE> 대하 아 알리 어 주 어 보 아 
+1	잭러셀테리어	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;비글 대하 아 알리 어 주 시 어요 
+$<비글:SPE> 대하 아 알리 어 주 시 어요 
+1	비글	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;비글 궁금 하 어요 
+$<비글:SPE> 궁금 하 어요 
+1	비글	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;비글 궁금 하 ㅁ 
+$<비글:SPE> 궁금 하 ㅁ 
+1	비글	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;비글 궁금 하 아 
+$<비글:SPE> 궁금 하 아 
+1	비글	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;비글 대하 아 알리 어 주 어 
+$<비글:SPE> 대하 아 알리 어 주 어 
+1	비글	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;비글 알리 어 주 어 
+$<비글:SPE> 알리 어 주 어 
+1	비글	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;비글 설명 하 아 주 시 어요 
+$<비글:SPE> 설명 하 아 주 시 어요 
+1	비글	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;비글 설명 좀 
+$<비글:SPE> 설명 좀 
+1	비글	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;비글 설명 하 아 주 어 
+$<비글:SPE> 설명 하 아 주 어 
+1	비글	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;비글 정보 주 시 어요 
+$<비글:SPE> 정보 주 시 어요 
+1	비글	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;비글 정보 주 어 
+$<비글:SPE> 정보 주 어 
+1	비글	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;비글 무엇 이 ㄴ가요 
+$<비글:SPE> 무엇 이 ㄴ가요 
+1	비글	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;비글 뭔 가요 
+$<비글:SPE> 뭔 가요 
+1	비글	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;비글 뭐 ㄴ가 
+$<비글:SPE> 뭐 ㄴ가 
+1	비글	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;비글 뭐 ㄹ까요 
+$<비글:SPE> 뭐 ㄹ까요 
+1	비글	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;비글 뭐 ㄹ까 
+$<비글:SPE> 뭐 ㄹ까 
+1	비글	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;비글 어떤 건 가요 
+$<비글:SPE> 어떤 건 가요 
+1	비글	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;비글 어떤 거 야 
+$<비글:SPE> 어떤 거 야 
+1	비글	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;비글 도와주 시 어요 
+$<비글:SPE> 도와주 시 어요 
+1	비글	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;비글 돕 아 주 어 
+$<비글:SPE> 돕 아 주 어 
+1	비글	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;비글 문의 드리 어요 
+$<비글:SPE> 문의 드리 어요 
+1	비글	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;비글 문의 드리 ㅂ니다 
+$<비글:SPE> 문의 드리 ㅂ니다 
+1	비글	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;비글 검색 하 아 주 어 
+$<비글:SPE> 검색 하 아 주 어 
+1	비글	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;비글 검색 하 아 주 시 어요 
+$<비글:SPE> 검색 하 아 주 시 어요 
+1	비글	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;비글 뭐 야 
+$<비글:SPE> 뭐 야 
+1	비글	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;비글 뭐 에 요 
+$<비글:SPE> 뭐 에 요 
+1	비글	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;비글 대하 아 알리 어 주 어 
+$<비글:SPE> 대하 아 알리 어 주 어 
+1	비글	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;비글 대하 아 알리 어 주 어 보 아 
+$<비글:SPE> 대하 아 알리 어 주 어 보 아 
+1	비글	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;보더콜리 대하 아 알리 어 주 시 어요 
+$<보더콜리:SPE> 대하 아 알리 어 주 시 어요 
+1	보더콜리	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;보더콜리 궁금 하 어요 
+$<보더콜리:SPE> 궁금 하 어요 
+1	보더콜리	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;보더콜리 궁금 하 ㅁ 
+$<보더콜리:SPE> 궁금 하 ㅁ 
+1	보더콜리	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;보더콜리 궁금 하 아 
+$<보더콜리:SPE> 궁금 하 아 
+1	보더콜리	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;보더콜리 대하 아 알리 어 주 어 
+$<보더콜리:SPE> 대하 아 알리 어 주 어 
+1	보더콜리	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;보더콜리 알리 어 주 어 
+$<보더콜리:SPE> 알리 어 주 어 
+1	보더콜리	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;보더콜리 설명 하 아 주 시 어요 
+$<보더콜리:SPE> 설명 하 아 주 시 어요 
+1	보더콜리	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;보더콜리 설명 좀 
+$<보더콜리:SPE> 설명 좀 
+1	보더콜리	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;보더콜리 설명 하 아 주 어 
+$<보더콜리:SPE> 설명 하 아 주 어 
+1	보더콜리	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;보더콜리 정보 주 시 어요 
+$<보더콜리:SPE> 정보 주 시 어요 
+1	보더콜리	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;보더콜리 정보 주 어 
+$<보더콜리:SPE> 정보 주 어 
+1	보더콜리	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;보더콜리 무엇 이 ㄴ가요 
+$<보더콜리:SPE> 무엇 이 ㄴ가요 
+1	보더콜리	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;보더콜리 뭔 가요 
+$<보더콜리:SPE> 뭔 가요 
+1	보더콜리	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;보더콜리 뭐 ㄴ가 
+$<보더콜리:SPE> 뭐 ㄴ가 
+1	보더콜리	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;보더콜리 뭐 ㄹ까요 
+$<보더콜리:SPE> 뭐 ㄹ까요 
+1	보더콜리	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;보더콜리 뭐 ㄹ까 
+$<보더콜리:SPE> 뭐 ㄹ까 
+1	보더콜리	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;보더콜리 어떤 건 가요 
+$<보더콜리:SPE> 어떤 건 가요 
+1	보더콜리	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;보더콜리 어떤 거 야 
+$<보더콜리:SPE> 어떤 거 야 
+1	보더콜리	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;보더콜리 도와주 시 어요 
+$<보더콜리:SPE> 도와주 시 어요 
+1	보더콜리	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;보더콜리 돕 아 주 어 
+$<보더콜리:SPE> 돕 아 주 어 
+1	보더콜리	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;보더콜리 문의 드리 어요 
+$<보더콜리:SPE> 문의 드리 어요 
+1	보더콜리	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;보더콜리 문의 드리 ㅂ니다 
+$<보더콜리:SPE> 문의 드리 ㅂ니다 
+1	보더콜리	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;보더콜리 검색 하 아 주 어 
+$<보더콜리:SPE> 검색 하 아 주 어 
+1	보더콜리	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;보더콜리 검색 하 아 주 시 어요 
+$<보더콜리:SPE> 검색 하 아 주 시 어요 
+1	보더콜리	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;보더콜리 뭐 야 
+$<보더콜리:SPE> 뭐 야 
+1	보더콜리	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;보더콜리 뭐 에 요 
+$<보더콜리:SPE> 뭐 에 요 
+1	보더콜리	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;보더콜리 대하 아 알리 어 주 어 
+$<보더콜리:SPE> 대하 아 알리 어 주 어 
+1	보더콜리	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;보더콜리 대하 아 알리 어 주 어 보 아 
+$<보더콜리:SPE> 대하 아 알리 어 주 어 보 아 
+1	보더콜리	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;아메리칸코카스파니엘 대하 아 알리 어 주 시 어요 
+$<아메리칸코카스파니엘:SPE> 대하 아 알리 어 주 시 어요 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;아메리칸코카스파니엘 궁금 하 어요 
+$<아메리칸코카스파니엘:SPE> 궁금 하 어요 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;아메리칸코카스파니엘 궁금 하 ㅁ 
+$<아메리칸코카스파니엘:SPE> 궁금 하 ㅁ 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;아메리칸코카스파니엘 궁금 하 아 
+$<아메리칸코카스파니엘:SPE> 궁금 하 아 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;아메리칸코카스파니엘 대하 아 알리 어 주 어 
+$<아메리칸코카스파니엘:SPE> 대하 아 알리 어 주 어 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;아메리칸코카스파니엘 알리 어 주 어 
+$<아메리칸코카스파니엘:SPE> 알리 어 주 어 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;아메리칸코카스파니엘 설명 하 아 주 시 어요 
+$<아메리칸코카스파니엘:SPE> 설명 하 아 주 시 어요 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;아메리칸코카스파니엘 설명 좀 
+$<아메리칸코카스파니엘:SPE> 설명 좀 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;아메리칸코카스파니엘 설명 하 아 주 어 
+$<아메리칸코카스파니엘:SPE> 설명 하 아 주 어 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;아메리칸코카스파니엘 정보 주 시 어요 
+$<아메리칸코카스파니엘:SPE> 정보 주 시 어요 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;아메리칸코카스파니엘 정보 주 어 
+$<아메리칸코카스파니엘:SPE> 정보 주 어 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;아메리칸코카스파니엘 무엇 이 ㄴ가요 
+$<아메리칸코카스파니엘:SPE> 무엇 이 ㄴ가요 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;아메리칸코카스파니엘 뭔 가요 
+$<아메리칸코카스파니엘:SPE> 뭔 가요 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;아메리칸코카스파니엘 뭐 ㄴ가 
+$<아메리칸코카스파니엘:SPE> 뭐 ㄴ가 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;아메리칸코카스파니엘 뭐 ㄹ까요 
+$<아메리칸코카스파니엘:SPE> 뭐 ㄹ까요 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;아메리칸코카스파니엘 뭐 ㄹ까 
+$<아메리칸코카스파니엘:SPE> 뭐 ㄹ까 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;아메리칸코카스파니엘 어떤 건 가요 
+$<아메리칸코카스파니엘:SPE> 어떤 건 가요 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;아메리칸코카스파니엘 어떤 거 야 
+$<아메리칸코카스파니엘:SPE> 어떤 거 야 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;아메리칸코카스파니엘 도와주 시 어요 
+$<아메리칸코카스파니엘:SPE> 도와주 시 어요 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;아메리칸코카스파니엘 돕 아 주 어 
+$<아메리칸코카스파니엘:SPE> 돕 아 주 어 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;아메리칸코카스파니엘 문의 드리 어요 
+$<아메리칸코카스파니엘:SPE> 문의 드리 어요 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;아메리칸코카스파니엘 문의 드리 ㅂ니다 
+$<아메리칸코카스파니엘:SPE> 문의 드리 ㅂ니다 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;아메리칸코카스파니엘 검색 하 아 주 어 
+$<아메리칸코카스파니엘:SPE> 검색 하 아 주 어 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;아메리칸코카스파니엘 검색 하 아 주 시 어요 
+$<아메리칸코카스파니엘:SPE> 검색 하 아 주 시 어요 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;아메리칸코카스파니엘 뭐 야 
+$<아메리칸코카스파니엘:SPE> 뭐 야 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;아메리칸코카스파니엘 뭐 에 요 
+$<아메리칸코카스파니엘:SPE> 뭐 에 요 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;아메리칸코카스파니엘 대하 아 알리 어 주 어 
+$<아메리칸코카스파니엘:SPE> 대하 아 알리 어 주 어 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;아메리칸코카스파니엘 대하 아 알리 어 주 어 보 아 
+$<아메리칸코카스파니엘:SPE> 대하 아 알리 어 주 어 보 아 
+1	아메리칸코카스파니엘	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;리트리버 대하 아 알리 어 주 시 어요 
+$<리트리버:SPE> 대하 아 알리 어 주 시 어요 
+1	리트리버	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;리트리버 궁금 하 어요 
+$<리트리버:SPE> 궁금 하 어요 
+1	리트리버	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;리트리버 궁금 하 ㅁ 
+$<리트리버:SPE> 궁금 하 ㅁ 
+1	리트리버	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;리트리버 궁금 하 아 
+$<리트리버:SPE> 궁금 하 아 
+1	리트리버	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;리트리버 대하 아 알리 어 주 어 
+$<리트리버:SPE> 대하 아 알리 어 주 어 
+1	리트리버	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;리트리버 알리 어 주 어 
+$<리트리버:SPE> 알리 어 주 어 
+1	리트리버	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;리트리버 설명 하 아 주 시 어요 
+$<리트리버:SPE> 설명 하 아 주 시 어요 
+1	리트리버	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;리트리버 설명 좀 
+$<리트리버:SPE> 설명 좀 
+1	리트리버	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;리트리버 설명 하 아 주 어 
+$<리트리버:SPE> 설명 하 아 주 어 
+1	리트리버	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;리트리버 정보 주 시 어요 
+$<리트리버:SPE> 정보 주 시 어요 
+1	리트리버	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;리트리버 정보 주 어 
+$<리트리버:SPE> 정보 주 어 
+1	리트리버	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;리트리버 무엇 이 ㄴ가요 
+$<리트리버:SPE> 무엇 이 ㄴ가요 
+1	리트리버	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;리트리버 뭔 가요 
+$<리트리버:SPE> 뭔 가요 
+1	리트리버	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;리트리버 뭐 ㄴ가 
+$<리트리버:SPE> 뭐 ㄴ가 
+1	리트리버	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;리트리버 뭐 ㄹ까요 
+$<리트리버:SPE> 뭐 ㄹ까요 
+1	리트리버	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;리트리버 뭐 ㄹ까 
+$<리트리버:SPE> 뭐 ㄹ까 
+1	리트리버	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;리트리버 어떤 건 가요 
+$<리트리버:SPE> 어떤 건 가요 
+1	리트리버	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;리트리버 어떤 거 야 
+$<리트리버:SPE> 어떤 거 야 
+1	리트리버	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;리트리버 도와주 시 어요 
+$<리트리버:SPE> 도와주 시 어요 
+1	리트리버	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;리트리버 돕 아 주 어 
+$<리트리버:SPE> 돕 아 주 어 
+1	리트리버	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;리트리버 문의 드리 어요 
+$<리트리버:SPE> 문의 드리 어요 
+1	리트리버	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;리트리버 문의 드리 ㅂ니다 
+$<리트리버:SPE> 문의 드리 ㅂ니다 
+1	리트리버	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;리트리버 검색 하 아 주 어 
+$<리트리버:SPE> 검색 하 아 주 어 
+1	리트리버	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;리트리버 검색 하 아 주 시 어요 
+$<리트리버:SPE> 검색 하 아 주 시 어요 
+1	리트리버	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;리트리버 뭐 야 
+$<리트리버:SPE> 뭐 야 
+1	리트리버	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;리트리버 뭐 에 요 
+$<리트리버:SPE> 뭐 에 요 
+1	리트리버	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;리트리버 대하 아 알리 어 주 어 
+$<리트리버:SPE> 대하 아 알리 어 주 어 
+1	리트리버	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;리트리버 대하 아 알리 어 주 어 보 아 
+$<리트리버:SPE> 대하 아 알리 어 주 어 보 아 
+1	리트리버	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;푸들 대하 아 알리 어 주 시 어요 
+$<푸들:SPE> 대하 아 알리 어 주 시 어요 
+1	푸들	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;푸들 궁금 하 어요 
+$<푸들:SPE> 궁금 하 어요 
+1	푸들	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;푸들 궁금 하 ㅁ 
+$<푸들:SPE> 궁금 하 ㅁ 
+1	푸들	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;푸들 궁금 하 아 
+$<푸들:SPE> 궁금 하 아 
+1	푸들	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;푸들 대하 아 알리 어 주 어 
+$<푸들:SPE> 대하 아 알리 어 주 어 
+1	푸들	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;푸들 알리 어 주 어 
+$<푸들:SPE> 알리 어 주 어 
+1	푸들	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;푸들 설명 하 아 주 시 어요 
+$<푸들:SPE> 설명 하 아 주 시 어요 
+1	푸들	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;푸들 설명 좀 
+$<푸들:SPE> 설명 좀 
+1	푸들	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;푸들 설명 하 아 주 어 
+$<푸들:SPE> 설명 하 아 주 어 
+1	푸들	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;푸들 정보 주 시 어요 
+$<푸들:SPE> 정보 주 시 어요 
+1	푸들	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;푸들 정보 주 어 
+$<푸들:SPE> 정보 주 어 
+1	푸들	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;푸들 무엇 이 ㄴ가요 
+$<푸들:SPE> 무엇 이 ㄴ가요 
+1	푸들	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;푸들 뭔 가요 
+$<푸들:SPE> 뭔 가요 
+1	푸들	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;푸들 뭐 ㄴ가 
+$<푸들:SPE> 뭐 ㄴ가 
+1	푸들	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;푸들 뭐 ㄹ까요 
+$<푸들:SPE> 뭐 ㄹ까요 
+1	푸들	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;푸들 뭐 ㄹ까 
+$<푸들:SPE> 뭐 ㄹ까 
+1	푸들	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;푸들 어떤 건 가요 
+$<푸들:SPE> 어떤 건 가요 
+1	푸들	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;푸들 어떤 거 야 
+$<푸들:SPE> 어떤 거 야 
+1	푸들	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;푸들 도와주 시 어요 
+$<푸들:SPE> 도와주 시 어요 
+1	푸들	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;푸들 돕 아 주 어 
+$<푸들:SPE> 돕 아 주 어 
+1	푸들	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;푸들 문의 드리 어요 
+$<푸들:SPE> 문의 드리 어요 
+1	푸들	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;푸들 문의 드리 ㅂ니다 
+$<푸들:SPE> 문의 드리 ㅂ니다 
+1	푸들	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;푸들 검색 하 아 주 어 
+$<푸들:SPE> 검색 하 아 주 어 
+1	푸들	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;푸들 검색 하 아 주 시 어요 
+$<푸들:SPE> 검색 하 아 주 시 어요 
+1	푸들	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;푸들 뭐 야 
+$<푸들:SPE> 뭐 야 
+1	푸들	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;푸들 뭐 에 요 
+$<푸들:SPE> 뭐 에 요 
+1	푸들	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;푸들 대하 아 알리 어 주 어 
+$<푸들:SPE> 대하 아 알리 어 주 어 
+1	푸들	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;푸들 대하 아 알리 어 주 어 보 아 
+$<푸들:SPE> 대하 아 알리 어 주 어 보 아 
+1	푸들	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;웰시코기 대하 아 알리 어 주 시 어요 
+$<웰시코기:SPE> 대하 아 알리 어 주 시 어요 
+1	웰시코기	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;웰시코기 궁금 하 어요 
+$<웰시코기:SPE> 궁금 하 어요 
+1	웰시코기	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;웰시코기 궁금 하 ㅁ 
+$<웰시코기:SPE> 궁금 하 ㅁ 
+1	웰시코기	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;웰시코기 궁금 하 아 
+$<웰시코기:SPE> 궁금 하 아 
+1	웰시코기	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;웰시코기 대하 아 알리 어 주 어 
+$<웰시코기:SPE> 대하 아 알리 어 주 어 
+1	웰시코기	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;웰시코기 알리 어 주 어 
+$<웰시코기:SPE> 알리 어 주 어 
+1	웰시코기	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;웰시코기 설명 하 아 주 시 어요 
+$<웰시코기:SPE> 설명 하 아 주 시 어요 
+1	웰시코기	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;웰시코기 설명 좀 
+$<웰시코기:SPE> 설명 좀 
+1	웰시코기	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;웰시코기 설명 하 아 주 어 
+$<웰시코기:SPE> 설명 하 아 주 어 
+1	웰시코기	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;웰시코기 정보 주 시 어요 
+$<웰시코기:SPE> 정보 주 시 어요 
+1	웰시코기	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;웰시코기 정보 주 어 
+$<웰시코기:SPE> 정보 주 어 
+1	웰시코기	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;웰시코기 무엇 이 ㄴ가요 
+$<웰시코기:SPE> 무엇 이 ㄴ가요 
+1	웰시코기	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;웰시코기 뭔 가요 
+$<웰시코기:SPE> 뭔 가요 
+1	웰시코기	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;웰시코기 뭐 ㄴ가 
+$<웰시코기:SPE> 뭐 ㄴ가 
+1	웰시코기	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;웰시코기 뭐 ㄹ까요 
+$<웰시코기:SPE> 뭐 ㄹ까요 
+1	웰시코기	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;웰시코기 뭐 ㄹ까 
+$<웰시코기:SPE> 뭐 ㄹ까 
+1	웰시코기	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;웰시코기 어떤 건 가요 
+$<웰시코기:SPE> 어떤 건 가요 
+1	웰시코기	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;웰시코기 어떤 거 야 
+$<웰시코기:SPE> 어떤 거 야 
+1	웰시코기	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;웰시코기 도와주 시 어요 
+$<웰시코기:SPE> 도와주 시 어요 
+1	웰시코기	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;웰시코기 돕 아 주 어 
+$<웰시코기:SPE> 돕 아 주 어 
+1	웰시코기	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;웰시코기 문의 드리 어요 
+$<웰시코기:SPE> 문의 드리 어요 
+1	웰시코기	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;웰시코기 문의 드리 ㅂ니다 
+$<웰시코기:SPE> 문의 드리 ㅂ니다 
+1	웰시코기	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;웰시코기 검색 하 아 주 어 
+$<웰시코기:SPE> 검색 하 아 주 어 
+1	웰시코기	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;웰시코기 검색 하 아 주 시 어요 
+$<웰시코기:SPE> 검색 하 아 주 시 어요 
+1	웰시코기	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;웰시코기 뭐 야 
+$<웰시코기:SPE> 뭐 야 
+1	웰시코기	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;웰시코기 뭐 에 요 
+$<웰시코기:SPE> 뭐 에 요 
+1	웰시코기	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;웰시코기 대하 아 알리 어 주 어 
+$<웰시코기:SPE> 대하 아 알리 어 주 어 
+1	웰시코기	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;웰시코기 대하 아 알리 어 주 어 보 아 
+$<웰시코기:SPE> 대하 아 알리 어 주 어 보 아 
+1	웰시코기	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;찰스스파니엘 대하 아 알리 어 주 시 어요 
+$<찰스스파니엘:SPE> 대하 아 알리 어 주 시 어요 
+1	찰스스파니엘	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;찰스스파니엘 궁금 하 어요 
+$<찰스스파니엘:SPE> 궁금 하 어요 
+1	찰스스파니엘	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;찰스스파니엘 궁금 하 ㅁ 
+$<찰스스파니엘:SPE> 궁금 하 ㅁ 
+1	찰스스파니엘	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;찰스스파니엘 궁금 하 아 
+$<찰스스파니엘:SPE> 궁금 하 아 
+1	찰스스파니엘	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;찰스스파니엘 대하 아 알리 어 주 어 
+$<찰스스파니엘:SPE> 대하 아 알리 어 주 어 
+1	찰스스파니엘	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;찰스스파니엘 알리 어 주 어 
+$<찰스스파니엘:SPE> 알리 어 주 어 
+1	찰스스파니엘	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;찰스스파니엘 설명 하 아 주 시 어요 
+$<찰스스파니엘:SPE> 설명 하 아 주 시 어요 
+1	찰스스파니엘	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;찰스스파니엘 설명 좀 
+$<찰스스파니엘:SPE> 설명 좀 
+1	찰스스파니엘	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;찰스스파니엘 설명 하 아 주 어 
+$<찰스스파니엘:SPE> 설명 하 아 주 어 
+1	찰스스파니엘	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;찰스스파니엘 정보 주 시 어요 
+$<찰스스파니엘:SPE> 정보 주 시 어요 
+1	찰스스파니엘	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;찰스스파니엘 정보 주 어 
+$<찰스스파니엘:SPE> 정보 주 어 
+1	찰스스파니엘	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;찰스스파니엘 무엇 이 ㄴ가요 
+$<찰스스파니엘:SPE> 무엇 이 ㄴ가요 
+1	찰스스파니엘	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;찰스스파니엘 뭔 가요 
+$<찰스스파니엘:SPE> 뭔 가요 
+1	찰스스파니엘	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;찰스스파니엘 뭐 ㄴ가 
+$<찰스스파니엘:SPE> 뭐 ㄴ가 
+1	찰스스파니엘	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;찰스스파니엘 뭐 ㄹ까요 
+$<찰스스파니엘:SPE> 뭐 ㄹ까요 
+1	찰스스파니엘	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;찰스스파니엘 뭐 ㄹ까 
+$<찰스스파니엘:SPE> 뭐 ㄹ까 
+1	찰스스파니엘	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;찰스스파니엘 어떤 건 가요 
+$<찰스스파니엘:SPE> 어떤 건 가요 
+1	찰스스파니엘	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;찰스스파니엘 어떤 거 야 
+$<찰스스파니엘:SPE> 어떤 거 야 
+1	찰스스파니엘	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;찰스스파니엘 도와주 시 어요 
+$<찰스스파니엘:SPE> 도와주 시 어요 
+1	찰스스파니엘	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;찰스스파니엘 돕 아 주 어 
+$<찰스스파니엘:SPE> 돕 아 주 어 
+1	찰스스파니엘	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;찰스스파니엘 문의 드리 어요 
+$<찰스스파니엘:SPE> 문의 드리 어요 
+1	찰스스파니엘	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;찰스스파니엘 문의 드리 ㅂ니다 
+$<찰스스파니엘:SPE> 문의 드리 ㅂ니다 
+1	찰스스파니엘	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;찰스스파니엘 검색 하 아 주 어 
+$<찰스스파니엘:SPE> 검색 하 아 주 어 
+1	찰스스파니엘	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;찰스스파니엘 검색 하 아 주 시 어요 
+$<찰스스파니엘:SPE> 검색 하 아 주 시 어요 
+1	찰스스파니엘	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;찰스스파니엘 뭐 야 
+$<찰스스파니엘:SPE> 뭐 야 
+1	찰스스파니엘	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;찰스스파니엘 뭐 에 요 
+$<찰스스파니엘:SPE> 뭐 에 요 
+1	찰스스파니엘	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;찰스스파니엘 대하 아 알리 어 주 어 
+$<찰스스파니엘:SPE> 대하 아 알리 어 주 어 
+1	찰스스파니엘	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;찰스스파니엘 대하 아 알리 어 주 어 보 아 
+$<찰스스파니엘:SPE> 대하 아 알리 어 주 어 보 아 
+1	찰스스파니엘	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;닥스훈트 대하 아 알리 어 주 시 어요 
+$<닥스훈트:SPE> 대하 아 알리 어 주 시 어요 
+1	닥스훈트	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;닥스훈트 궁금 하 어요 
+$<닥스훈트:SPE> 궁금 하 어요 
+1	닥스훈트	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;닥스훈트 궁금 하 ㅁ 
+$<닥스훈트:SPE> 궁금 하 ㅁ 
+1	닥스훈트	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;닥스훈트 궁금 하 아 
+$<닥스훈트:SPE> 궁금 하 아 
+1	닥스훈트	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;닥스훈트 대하 아 알리 어 주 어 
+$<닥스훈트:SPE> 대하 아 알리 어 주 어 
+1	닥스훈트	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;닥스훈트 알리 어 주 어 
+$<닥스훈트:SPE> 알리 어 주 어 
+1	닥스훈트	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;닥스훈트 설명 하 아 주 시 어요 
+$<닥스훈트:SPE> 설명 하 아 주 시 어요 
+1	닥스훈트	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;닥스훈트 설명 좀 
+$<닥스훈트:SPE> 설명 좀 
+1	닥스훈트	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;닥스훈트 설명 하 아 주 어 
+$<닥스훈트:SPE> 설명 하 아 주 어 
+1	닥스훈트	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;닥스훈트 정보 주 시 어요 
+$<닥스훈트:SPE> 정보 주 시 어요 
+1	닥스훈트	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;닥스훈트 정보 주 어 
+$<닥스훈트:SPE> 정보 주 어 
+1	닥스훈트	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;닥스훈트 무엇 이 ㄴ가요 
+$<닥스훈트:SPE> 무엇 이 ㄴ가요 
+1	닥스훈트	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;닥스훈트 뭔 가요 
+$<닥스훈트:SPE> 뭔 가요 
+1	닥스훈트	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;닥스훈트 뭐 ㄴ가 
+$<닥스훈트:SPE> 뭐 ㄴ가 
+1	닥스훈트	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;닥스훈트 뭐 ㄹ까요 
+$<닥스훈트:SPE> 뭐 ㄹ까요 
+1	닥스훈트	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;닥스훈트 뭐 ㄹ까 
+$<닥스훈트:SPE> 뭐 ㄹ까 
+1	닥스훈트	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;닥스훈트 어떤 건 가요 
+$<닥스훈트:SPE> 어떤 건 가요 
+1	닥스훈트	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;닥스훈트 어떤 거 야 
+$<닥스훈트:SPE> 어떤 거 야 
+1	닥스훈트	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;닥스훈트 도와주 시 어요 
+$<닥스훈트:SPE> 도와주 시 어요 
+1	닥스훈트	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;닥스훈트 돕 아 주 어 
+$<닥스훈트:SPE> 돕 아 주 어 
+1	닥스훈트	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;닥스훈트 문의 드리 어요 
+$<닥스훈트:SPE> 문의 드리 어요 
+1	닥스훈트	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;닥스훈트 문의 드리 ㅂ니다 
+$<닥스훈트:SPE> 문의 드리 ㅂ니다 
+1	닥스훈트	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;닥스훈트 검색 하 아 주 어 
+$<닥스훈트:SPE> 검색 하 아 주 어 
+1	닥스훈트	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;닥스훈트 검색 하 아 주 시 어요 
+$<닥스훈트:SPE> 검색 하 아 주 시 어요 
+1	닥스훈트	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;닥스훈트 뭐 야 
+$<닥스훈트:SPE> 뭐 야 
+1	닥스훈트	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;닥스훈트 뭐 에 요 
+$<닥스훈트:SPE> 뭐 에 요 
+1	닥스훈트	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;닥스훈트 대하 아 알리 어 주 어 
+$<닥스훈트:SPE> 대하 아 알리 어 주 어 
+1	닥스훈트	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;닥스훈트 대하 아 알리 어 주 어 보 아 
+$<닥스훈트:SPE> 대하 아 알리 어 주 어 보 아 
+1	닥스훈트	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;포메 대하 아 알리 어 주 시 어요 
+$<포메:SPE> 대하 아 알리 어 주 시 어요 
+1	포메	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;포메 궁금 하 어요 
+$<포메:SPE> 궁금 하 어요 
+1	포메	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;포메 궁금 하 ㅁ 
+$<포메:SPE> 궁금 하 ㅁ 
+1	포메	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;포메 궁금 하 아 
+$<포메:SPE> 궁금 하 아 
+1	포메	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;포메 대하 아 알리 어 주 어 
+$<포메:SPE> 대하 아 알리 어 주 어 
+1	포메	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;포메 알리 어 주 어 
+$<포메:SPE> 알리 어 주 어 
+1	포메	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;포메 설명 하 아 주 시 어요 
+$<포메:SPE> 설명 하 아 주 시 어요 
+1	포메	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;포메 설명 좀 
+$<포메:SPE> 설명 좀 
+1	포메	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;포메 설명 하 아 주 어 
+$<포메:SPE> 설명 하 아 주 어 
+1	포메	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;포메 정보 주 시 어요 
+$<포메:SPE> 정보 주 시 어요 
+1	포메	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;포메 정보 주 어 
+$<포메:SPE> 정보 주 어 
+1	포메	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;포메 무엇 이 ㄴ가요 
+$<포메:SPE> 무엇 이 ㄴ가요 
+1	포메	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;포메 뭔 가요 
+$<포메:SPE> 뭔 가요 
+1	포메	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;포메 뭐 ㄴ가 
+$<포메:SPE> 뭐 ㄴ가 
+1	포메	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;포메 뭐 ㄹ까요 
+$<포메:SPE> 뭐 ㄹ까요 
+1	포메	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;포메 뭐 ㄹ까 
+$<포메:SPE> 뭐 ㄹ까 
+1	포메	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;포메 어떤 건 가요 
+$<포메:SPE> 어떤 건 가요 
+1	포메	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;포메 어떤 거 야 
+$<포메:SPE> 어떤 거 야 
+1	포메	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;포메 도와주 시 어요 
+$<포메:SPE> 도와주 시 어요 
+1	포메	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;포메 돕 아 주 어 
+$<포메:SPE> 돕 아 주 어 
+1	포메	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;포메 문의 드리 어요 
+$<포메:SPE> 문의 드리 어요 
+1	포메	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;포메 문의 드리 ㅂ니다 
+$<포메:SPE> 문의 드리 ㅂ니다 
+1	포메	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;포메 검색 하 아 주 어 
+$<포메:SPE> 검색 하 아 주 어 
+1	포메	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;포메 검색 하 아 주 시 어요 
+$<포메:SPE> 검색 하 아 주 시 어요 
+1	포메	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;포메 뭐 야 
+$<포메:SPE> 뭐 야 
+1	포메	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;포메 뭐 에 요 
+$<포메:SPE> 뭐 에 요 
+1	포메	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;포메 대하 아 알리 어 주 어 
+$<포메:SPE> 대하 아 알리 어 주 어 
+1	포메	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;포메 대하 아 알리 어 주 어 보 아 
+$<포메:SPE> 대하 아 알리 어 주 어 보 아 
+1	포메	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;슈나우저 대하 아 알리 어 주 시 어요 
+$<슈나우저:SPE> 대하 아 알리 어 주 시 어요 
+1	슈나우저	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;슈나우저 궁금 하 어요 
+$<슈나우저:SPE> 궁금 하 어요 
+1	슈나우저	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;슈나우저 궁금 하 ㅁ 
+$<슈나우저:SPE> 궁금 하 ㅁ 
+1	슈나우저	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;슈나우저 궁금 하 아 
+$<슈나우저:SPE> 궁금 하 아 
+1	슈나우저	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;슈나우저 대하 아 알리 어 주 어 
+$<슈나우저:SPE> 대하 아 알리 어 주 어 
+1	슈나우저	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;슈나우저 알리 어 주 어 
+$<슈나우저:SPE> 알리 어 주 어 
+1	슈나우저	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;슈나우저 설명 하 아 주 시 어요 
+$<슈나우저:SPE> 설명 하 아 주 시 어요 
+1	슈나우저	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;슈나우저 설명 좀 
+$<슈나우저:SPE> 설명 좀 
+1	슈나우저	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;슈나우저 설명 하 아 주 어 
+$<슈나우저:SPE> 설명 하 아 주 어 
+1	슈나우저	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;슈나우저 정보 주 시 어요 
+$<슈나우저:SPE> 정보 주 시 어요 
+1	슈나우저	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;슈나우저 정보 주 어 
+$<슈나우저:SPE> 정보 주 어 
+1	슈나우저	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;슈나우저 무엇 이 ㄴ가요 
+$<슈나우저:SPE> 무엇 이 ㄴ가요 
+1	슈나우저	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;슈나우저 뭔 가요 
+$<슈나우저:SPE> 뭔 가요 
+1	슈나우저	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;슈나우저 뭐 ㄴ가 
+$<슈나우저:SPE> 뭐 ㄴ가 
+1	슈나우저	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;슈나우저 뭐 ㄹ까요 
+$<슈나우저:SPE> 뭐 ㄹ까요 
+1	슈나우저	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;슈나우저 뭐 ㄹ까 
+$<슈나우저:SPE> 뭐 ㄹ까 
+1	슈나우저	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;슈나우저 어떤 건 가요 
+$<슈나우저:SPE> 어떤 건 가요 
+1	슈나우저	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;슈나우저 어떤 거 야 
+$<슈나우저:SPE> 어떤 거 야 
+1	슈나우저	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;슈나우저 도와주 시 어요 
+$<슈나우저:SPE> 도와주 시 어요 
+1	슈나우저	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;슈나우저 돕 아 주 어 
+$<슈나우저:SPE> 돕 아 주 어 
+1	슈나우저	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;슈나우저 문의 드리 어요 
+$<슈나우저:SPE> 문의 드리 어요 
+1	슈나우저	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;슈나우저 문의 드리 ㅂ니다 
+$<슈나우저:SPE> 문의 드리 ㅂ니다 
+1	슈나우저	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;슈나우저 검색 하 아 주 어 
+$<슈나우저:SPE> 검색 하 아 주 어 
+1	슈나우저	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;슈나우저 검색 하 아 주 시 어요 
+$<슈나우저:SPE> 검색 하 아 주 시 어요 
+1	슈나우저	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;슈나우저 뭐 야 
+$<슈나우저:SPE> 뭐 야 
+1	슈나우저	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;슈나우저 뭐 에 요 
+$<슈나우저:SPE> 뭐 에 요 
+1	슈나우저	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;슈나우저 대하 아 알리 어 주 어 
+$<슈나우저:SPE> 대하 아 알리 어 주 어 
+1	슈나우저	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;슈나우저 대하 아 알리 어 주 어 보 아 
+$<슈나우저:SPE> 대하 아 알리 어 주 어 보 아 
+1	슈나우저	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;불도그 대하 아 알리 어 주 시 어요 
+$<불도그:SPE> 대하 아 알리 어 주 시 어요 
+1	불도그	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;불도그 궁금 하 어요 
+$<불도그:SPE> 궁금 하 어요 
+1	불도그	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;불도그 궁금 하 ㅁ 
+$<불도그:SPE> 궁금 하 ㅁ 
+1	불도그	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;불도그 궁금 하 아 
+$<불도그:SPE> 궁금 하 아 
+1	불도그	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;불도그 대하 아 알리 어 주 어 
+$<불도그:SPE> 대하 아 알리 어 주 어 
+1	불도그	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;불도그 알리 어 주 어 
+$<불도그:SPE> 알리 어 주 어 
+1	불도그	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;불도그 설명 하 아 주 시 어요 
+$<불도그:SPE> 설명 하 아 주 시 어요 
+1	불도그	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;불도그 설명 좀 
+$<불도그:SPE> 설명 좀 
+1	불도그	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;불도그 설명 하 아 주 어 
+$<불도그:SPE> 설명 하 아 주 어 
+1	불도그	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;불도그 정보 주 시 어요 
+$<불도그:SPE> 정보 주 시 어요 
+1	불도그	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;불도그 정보 주 어 
+$<불도그:SPE> 정보 주 어 
+1	불도그	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;불도그 무엇 이 ㄴ가요 
+$<불도그:SPE> 무엇 이 ㄴ가요 
+1	불도그	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;불도그 뭔 가요 
+$<불도그:SPE> 뭔 가요 
+1	불도그	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;불도그 뭐 ㄴ가 
+$<불도그:SPE> 뭐 ㄴ가 
+1	불도그	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;불도그 뭐 ㄹ까요 
+$<불도그:SPE> 뭐 ㄹ까요 
+1	불도그	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;불도그 뭐 ㄹ까 
+$<불도그:SPE> 뭐 ㄹ까 
+1	불도그	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;불도그 어떤 건 가요 
+$<불도그:SPE> 어떤 건 가요 
+1	불도그	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;불도그 어떤 거 야 
+$<불도그:SPE> 어떤 거 야 
+1	불도그	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;불도그 도와주 시 어요 
+$<불도그:SPE> 도와주 시 어요 
+1	불도그	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;불도그 돕 아 주 어 
+$<불도그:SPE> 돕 아 주 어 
+1	불도그	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;불도그 문의 드리 어요 
+$<불도그:SPE> 문의 드리 어요 
+1	불도그	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;불도그 문의 드리 ㅂ니다 
+$<불도그:SPE> 문의 드리 ㅂ니다 
+1	불도그	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;불도그 검색 하 아 주 어 
+$<불도그:SPE> 검색 하 아 주 어 
+1	불도그	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;불도그 검색 하 아 주 시 어요 
+$<불도그:SPE> 검색 하 아 주 시 어요 
+1	불도그	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;불도그 뭐 야 
+$<불도그:SPE> 뭐 야 
+1	불도그	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;불도그 뭐 에 요 
+$<불도그:SPE> 뭐 에 요 
+1	불도그	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;불도그 대하 아 알리 어 주 어 
+$<불도그:SPE> 대하 아 알리 어 주 어 
+1	불도그	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;불도그 대하 아 알리 어 주 어 보 아 
+$<불도그:SPE> 대하 아 알리 어 주 어 보 아 
+1	불도그	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;코기 대하 아 알리 어 주 시 어요 
+$<코기:SPE> 대하 아 알리 어 주 시 어요 
+1	코기	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;코기 궁금 하 어요 
+$<코기:SPE> 궁금 하 어요 
+1	코기	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;코기 궁금 하 ㅁ 
+$<코기:SPE> 궁금 하 ㅁ 
+1	코기	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;코기 궁금 하 아 
+$<코기:SPE> 궁금 하 아 
+1	코기	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;코기 대하 아 알리 어 주 어 
+$<코기:SPE> 대하 아 알리 어 주 어 
+1	코기	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;코기 알리 어 주 어 
+$<코기:SPE> 알리 어 주 어 
+1	코기	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;코기 설명 하 아 주 시 어요 
+$<코기:SPE> 설명 하 아 주 시 어요 
+1	코기	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;코기 설명 좀 
+$<코기:SPE> 설명 좀 
+1	코기	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;코기 설명 하 아 주 어 
+$<코기:SPE> 설명 하 아 주 어 
+1	코기	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;코기 정보 주 시 어요 
+$<코기:SPE> 정보 주 시 어요 
+1	코기	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;코기 정보 주 어 
+$<코기:SPE> 정보 주 어 
+1	코기	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;코기 무엇 이 ㄴ가요 
+$<코기:SPE> 무엇 이 ㄴ가요 
+1	코기	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;코기 뭔 가요 
+$<코기:SPE> 뭔 가요 
+1	코기	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;코기 뭐 ㄴ가 
+$<코기:SPE> 뭐 ㄴ가 
+1	코기	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;코기 뭐 ㄹ까요 
+$<코기:SPE> 뭐 ㄹ까요 
+1	코기	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;코기 뭐 ㄹ까 
+$<코기:SPE> 뭐 ㄹ까 
+1	코기	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;코기 어떤 건 가요 
+$<코기:SPE> 어떤 건 가요 
+1	코기	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;코기 어떤 거 야 
+$<코기:SPE> 어떤 거 야 
+1	코기	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;코기 도와주 시 어요 
+$<코기:SPE> 도와주 시 어요 
+1	코기	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;코기 돕 아 주 어 
+$<코기:SPE> 돕 아 주 어 
+1	코기	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;코기 문의 드리 어요 
+$<코기:SPE> 문의 드리 어요 
+1	코기	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;코기 문의 드리 ㅂ니다 
+$<코기:SPE> 문의 드리 ㅂ니다 
+1	코기	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;코기 검색 하 아 주 어 
+$<코기:SPE> 검색 하 아 주 어 
+1	코기	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;코기 검색 하 아 주 시 어요 
+$<코기:SPE> 검색 하 아 주 시 어요 
+1	코기	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;코기 뭐 야 
+$<코기:SPE> 뭐 야 
+1	코기	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;코기 뭐 에 요 
+$<코기:SPE> 뭐 에 요 
+1	코기	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;코기 대하 아 알리 어 주 어 
+$<코기:SPE> 대하 아 알리 어 주 어 
+1	코기	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;코기 대하 아 알리 어 주 어 보 아 
+$<코기:SPE> 대하 아 알리 어 주 어 보 아 
+1	코기	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;핀셔 대하 아 알리 어 주 시 어요 
+$<핀셔:SPE> 대하 아 알리 어 주 시 어요 
+1	핀셔	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;핀셔 궁금 하 어요 
+$<핀셔:SPE> 궁금 하 어요 
+1	핀셔	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;핀셔 궁금 하 ㅁ 
+$<핀셔:SPE> 궁금 하 ㅁ 
+1	핀셔	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;핀셔 궁금 하 아 
+$<핀셔:SPE> 궁금 하 아 
+1	핀셔	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;핀셔 대하 아 알리 어 주 어 
+$<핀셔:SPE> 대하 아 알리 어 주 어 
+1	핀셔	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;핀셔 알리 어 주 어 
+$<핀셔:SPE> 알리 어 주 어 
+1	핀셔	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;핀셔 설명 하 아 주 시 어요 
+$<핀셔:SPE> 설명 하 아 주 시 어요 
+1	핀셔	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;핀셔 설명 좀 
+$<핀셔:SPE> 설명 좀 
+1	핀셔	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;핀셔 설명 하 아 주 어 
+$<핀셔:SPE> 설명 하 아 주 어 
+1	핀셔	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;핀셔 정보 주 시 어요 
+$<핀셔:SPE> 정보 주 시 어요 
+1	핀셔	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;핀셔 정보 주 어 
+$<핀셔:SPE> 정보 주 어 
+1	핀셔	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;핀셔 무엇 이 ㄴ가요 
+$<핀셔:SPE> 무엇 이 ㄴ가요 
+1	핀셔	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;핀셔 뭔 가요 
+$<핀셔:SPE> 뭔 가요 
+1	핀셔	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;핀셔 뭐 ㄴ가 
+$<핀셔:SPE> 뭐 ㄴ가 
+1	핀셔	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;핀셔 뭐 ㄹ까요 
+$<핀셔:SPE> 뭐 ㄹ까요 
+1	핀셔	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;핀셔 뭐 ㄹ까 
+$<핀셔:SPE> 뭐 ㄹ까 
+1	핀셔	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;핀셔 어떤 건 가요 
+$<핀셔:SPE> 어떤 건 가요 
+1	핀셔	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;핀셔 어떤 거 야 
+$<핀셔:SPE> 어떤 거 야 
+1	핀셔	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;핀셔 도와주 시 어요 
+$<핀셔:SPE> 도와주 시 어요 
+1	핀셔	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;핀셔 돕 아 주 어 
+$<핀셔:SPE> 돕 아 주 어 
+1	핀셔	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;핀셔 문의 드리 어요 
+$<핀셔:SPE> 문의 드리 어요 
+1	핀셔	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;핀셔 문의 드리 ㅂ니다 
+$<핀셔:SPE> 문의 드리 ㅂ니다 
+1	핀셔	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;핀셔 검색 하 아 주 어 
+$<핀셔:SPE> 검색 하 아 주 어 
+1	핀셔	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;핀셔 검색 하 아 주 시 어요 
+$<핀셔:SPE> 검색 하 아 주 시 어요 
+1	핀셔	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;핀셔 뭐 야 
+$<핀셔:SPE> 뭐 야 
+1	핀셔	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;핀셔 뭐 에 요 
+$<핀셔:SPE> 뭐 에 요 
+1	핀셔	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;핀셔 대하 아 알리 어 주 어 
+$<핀셔:SPE> 대하 아 알리 어 주 어 
+1	핀셔	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;핀셔 대하 아 알리 어 주 어 보 아 
+$<핀셔:SPE> 대하 아 알리 어 주 어 보 아 
+1	핀셔	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;펨브룩 대하 아 알리 어 주 시 어요 
+$<펨브룩:SPE> 대하 아 알리 어 주 시 어요 
+1	펨브룩	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;펨브룩 궁금 하 어요 
+$<펨브룩:SPE> 궁금 하 어요 
+1	펨브룩	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;펨브룩 궁금 하 ㅁ 
+$<펨브룩:SPE> 궁금 하 ㅁ 
+1	펨브룩	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;펨브룩 궁금 하 아 
+$<펨브룩:SPE> 궁금 하 아 
+1	펨브룩	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;펨브룩 대하 아 알리 어 주 어 
+$<펨브룩:SPE> 대하 아 알리 어 주 어 
+1	펨브룩	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;펨브룩 알리 어 주 어 
+$<펨브룩:SPE> 알리 어 주 어 
+1	펨브룩	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;펨브룩 설명 하 아 주 시 어요 
+$<펨브룩:SPE> 설명 하 아 주 시 어요 
+1	펨브룩	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;펨브룩 설명 좀 
+$<펨브룩:SPE> 설명 좀 
+1	펨브룩	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;펨브룩 설명 하 아 주 어 
+$<펨브룩:SPE> 설명 하 아 주 어 
+1	펨브룩	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;펨브룩 정보 주 시 어요 
+$<펨브룩:SPE> 정보 주 시 어요 
+1	펨브룩	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;펨브룩 정보 주 어 
+$<펨브룩:SPE> 정보 주 어 
+1	펨브룩	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;펨브룩 무엇 이 ㄴ가요 
+$<펨브룩:SPE> 무엇 이 ㄴ가요 
+1	펨브룩	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;펨브룩 뭔 가요 
+$<펨브룩:SPE> 뭔 가요 
+1	펨브룩	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;펨브룩 뭐 ㄴ가 
+$<펨브룩:SPE> 뭐 ㄴ가 
+1	펨브룩	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;펨브룩 뭐 ㄹ까요 
+$<펨브룩:SPE> 뭐 ㄹ까요 
+1	펨브룩	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;펨브룩 뭐 ㄹ까 
+$<펨브룩:SPE> 뭐 ㄹ까 
+1	펨브룩	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;펨브룩 어떤 건 가요 
+$<펨브룩:SPE> 어떤 건 가요 
+1	펨브룩	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;펨브룩 어떤 거 야 
+$<펨브룩:SPE> 어떤 거 야 
+1	펨브룩	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;펨브룩 도와주 시 어요 
+$<펨브룩:SPE> 도와주 시 어요 
+1	펨브룩	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;펨브룩 돕 아 주 어 
+$<펨브룩:SPE> 돕 아 주 어 
+1	펨브룩	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;펨브룩 문의 드리 어요 
+$<펨브룩:SPE> 문의 드리 어요 
+1	펨브룩	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;펨브룩 문의 드리 ㅂ니다 
+$<펨브룩:SPE> 문의 드리 ㅂ니다 
+1	펨브룩	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;펨브룩 검색 하 아 주 어 
+$<펨브룩:SPE> 검색 하 아 주 어 
+1	펨브룩	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;펨브룩 검색 하 아 주 시 어요 
+$<펨브룩:SPE> 검색 하 아 주 시 어요 
+1	펨브룩	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;펨브룩 뭐 야 
+$<펨브룩:SPE> 뭐 야 
+1	펨브룩	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;펨브룩 뭐 에 요 
+$<펨브룩:SPE> 뭐 에 요 
+1	펨브룩	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;펨브룩 대하 아 알리 어 주 어 
+$<펨브룩:SPE> 대하 아 알리 어 주 어 
+1	펨브룩	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;펨브룩 대하 아 알리 어 주 어 보 아 
+$<펨브룩:SPE> 대하 아 알리 어 주 어 보 아 
+1	펨브룩	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;코가스파니엘 대하 아 알리 어 주 시 어요 
+$<코가스파니엘:SPE> 대하 아 알리 어 주 시 어요 
+1	코가스파니엘	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;코가스파니엘 궁금 하 어요 
+$<코가스파니엘:SPE> 궁금 하 어요 
+1	코가스파니엘	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;코가스파니엘 궁금 하 ㅁ 
+$<코가스파니엘:SPE> 궁금 하 ㅁ 
+1	코가스파니엘	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;코가스파니엘 궁금 하 아 
+$<코가스파니엘:SPE> 궁금 하 아 
+1	코가스파니엘	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;코가스파니엘 대하 아 알리 어 주 어 
+$<코가스파니엘:SPE> 대하 아 알리 어 주 어 
+1	코가스파니엘	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;코가스파니엘 알리 어 주 어 
+$<코가스파니엘:SPE> 알리 어 주 어 
+1	코가스파니엘	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;코가스파니엘 설명 하 아 주 시 어요 
+$<코가스파니엘:SPE> 설명 하 아 주 시 어요 
+1	코가스파니엘	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;코가스파니엘 설명 좀 
+$<코가스파니엘:SPE> 설명 좀 
+1	코가스파니엘	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;코가스파니엘 설명 하 아 주 어 
+$<코가스파니엘:SPE> 설명 하 아 주 어 
+1	코가스파니엘	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;코가스파니엘 정보 주 시 어요 
+$<코가스파니엘:SPE> 정보 주 시 어요 
+1	코가스파니엘	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;코가스파니엘 정보 주 어 
+$<코가스파니엘:SPE> 정보 주 어 
+1	코가스파니엘	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;코가스파니엘 무엇 이 ㄴ가요 
+$<코가스파니엘:SPE> 무엇 이 ㄴ가요 
+1	코가스파니엘	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;코가스파니엘 뭔 가요 
+$<코가스파니엘:SPE> 뭔 가요 
+1	코가스파니엘	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;코가스파니엘 뭐 ㄴ가 
+$<코가스파니엘:SPE> 뭐 ㄴ가 
+1	코가스파니엘	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;코가스파니엘 뭐 ㄹ까요 
+$<코가스파니엘:SPE> 뭐 ㄹ까요 
+1	코가스파니엘	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;코가스파니엘 뭐 ㄹ까 
+$<코가스파니엘:SPE> 뭐 ㄹ까 
+1	코가스파니엘	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;코가스파니엘 어떤 건 가요 
+$<코가스파니엘:SPE> 어떤 건 가요 
+1	코가스파니엘	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;코가스파니엘 어떤 거 야 
+$<코가스파니엘:SPE> 어떤 거 야 
+1	코가스파니엘	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;코가스파니엘 도와주 시 어요 
+$<코가스파니엘:SPE> 도와주 시 어요 
+1	코가스파니엘	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;코가스파니엘 돕 아 주 어 
+$<코가스파니엘:SPE> 돕 아 주 어 
+1	코가스파니엘	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;코가스파니엘 문의 드리 어요 
+$<코가스파니엘:SPE> 문의 드리 어요 
+1	코가스파니엘	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;코가스파니엘 문의 드리 ㅂ니다 
+$<코가스파니엘:SPE> 문의 드리 ㅂ니다 
+1	코가스파니엘	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;코가스파니엘 검색 하 아 주 어 
+$<코가스파니엘:SPE> 검색 하 아 주 어 
+1	코가스파니엘	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;코가스파니엘 검색 하 아 주 시 어요 
+$<코가스파니엘:SPE> 검색 하 아 주 시 어요 
+1	코가스파니엘	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;코가스파니엘 뭐 야 
+$<코가스파니엘:SPE> 뭐 야 
+1	코가스파니엘	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;코가스파니엘 뭐 에 요 
+$<코가스파니엘:SPE> 뭐 에 요 
+1	코가스파니엘	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;코가스파니엘 대하 아 알리 어 주 어 
+$<코가스파니엘:SPE> 대하 아 알리 어 주 어 
+1	코가스파니엘	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;코가스파니엘 대하 아 알리 어 주 어 보 아 
+$<코가스파니엘:SPE> 대하 아 알리 어 주 어 보 아 
+1	코가스파니엘	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;웰시코기 대하 아 알리 어 주 시 어요 
+$<웰시코기:SPE> 대하 아 알리 어 주 시 어요 
+1	웰시코기	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;웰시코기 궁금 하 어요 
+$<웰시코기:SPE> 궁금 하 어요 
+1	웰시코기	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;웰시코기 궁금 하 ㅁ 
+$<웰시코기:SPE> 궁금 하 ㅁ 
+1	웰시코기	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;웰시코기 궁금 하 아 
+$<웰시코기:SPE> 궁금 하 아 
+1	웰시코기	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;웰시코기 대하 아 알리 어 주 어 
+$<웰시코기:SPE> 대하 아 알리 어 주 어 
+1	웰시코기	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;웰시코기 알리 어 주 어 
+$<웰시코기:SPE> 알리 어 주 어 
+1	웰시코기	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;웰시코기 설명 하 아 주 시 어요 
+$<웰시코기:SPE> 설명 하 아 주 시 어요 
+1	웰시코기	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;웰시코기 설명 좀 
+$<웰시코기:SPE> 설명 좀 
+1	웰시코기	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;웰시코기 설명 하 아 주 어 
+$<웰시코기:SPE> 설명 하 아 주 어 
+1	웰시코기	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;웰시코기 정보 주 시 어요 
+$<웰시코기:SPE> 정보 주 시 어요 
+1	웰시코기	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;웰시코기 정보 주 어 
+$<웰시코기:SPE> 정보 주 어 
+1	웰시코기	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;웰시코기 무엇 이 ㄴ가요 
+$<웰시코기:SPE> 무엇 이 ㄴ가요 
+1	웰시코기	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;웰시코기 뭔 가요 
+$<웰시코기:SPE> 뭔 가요 
+1	웰시코기	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;웰시코기 뭐 ㄴ가 
+$<웰시코기:SPE> 뭐 ㄴ가 
+1	웰시코기	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;웰시코기 뭐 ㄹ까요 
+$<웰시코기:SPE> 뭐 ㄹ까요 
+1	웰시코기	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;웰시코기 뭐 ㄹ까 
+$<웰시코기:SPE> 뭐 ㄹ까 
+1	웰시코기	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;웰시코기 어떤 건 가요 
+$<웰시코기:SPE> 어떤 건 가요 
+1	웰시코기	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;웰시코기 어떤 거 야 
+$<웰시코기:SPE> 어떤 거 야 
+1	웰시코기	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;웰시코기 도와주 시 어요 
+$<웰시코기:SPE> 도와주 시 어요 
+1	웰시코기	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;웰시코기 돕 아 주 어 
+$<웰시코기:SPE> 돕 아 주 어 
+1	웰시코기	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;웰시코기 문의 드리 어요 
+$<웰시코기:SPE> 문의 드리 어요 
+1	웰시코기	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;웰시코기 문의 드리 ㅂ니다 
+$<웰시코기:SPE> 문의 드리 ㅂ니다 
+1	웰시코기	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;웰시코기 검색 하 아 주 어 
+$<웰시코기:SPE> 검색 하 아 주 어 
+1	웰시코기	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;웰시코기 검색 하 아 주 시 어요 
+$<웰시코기:SPE> 검색 하 아 주 시 어요 
+1	웰시코기	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;웰시코기 뭐 야 
+$<웰시코기:SPE> 뭐 야 
+1	웰시코기	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;웰시코기 뭐 에 요 
+$<웰시코기:SPE> 뭐 에 요 
+1	웰시코기	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;웰시코기 대하 아 알리 어 주 어 
+$<웰시코기:SPE> 대하 아 알리 어 주 어 
+1	웰시코기	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;웰시코기 대하 아 알리 어 주 어 보 아 
+$<웰시코기:SPE> 대하 아 알리 어 주 어 보 아 
+1	웰시코기	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;불독 대하 아 알리 어 주 시 어요 
+$<불독:SPE> 대하 아 알리 어 주 시 어요 
+1	불독	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;불독 궁금 하 어요 
+$<불독:SPE> 궁금 하 어요 
+1	불독	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;불독 궁금 하 ㅁ 
+$<불독:SPE> 궁금 하 ㅁ 
+1	불독	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;불독 궁금 하 아 
+$<불독:SPE> 궁금 하 아 
+1	불독	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;불독 대하 아 알리 어 주 어 
+$<불독:SPE> 대하 아 알리 어 주 어 
+1	불독	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;불독 알리 어 주 어 
+$<불독:SPE> 알리 어 주 어 
+1	불독	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;불독 설명 하 아 주 시 어요 
+$<불독:SPE> 설명 하 아 주 시 어요 
+1	불독	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;불독 설명 좀 
+$<불독:SPE> 설명 좀 
+1	불독	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;불독 설명 하 아 주 어 
+$<불독:SPE> 설명 하 아 주 어 
+1	불독	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;불독 정보 주 시 어요 
+$<불독:SPE> 정보 주 시 어요 
+1	불독	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;불독 정보 주 어 
+$<불독:SPE> 정보 주 어 
+1	불독	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;불독 무엇 이 ㄴ가요 
+$<불독:SPE> 무엇 이 ㄴ가요 
+1	불독	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;불독 뭔 가요 
+$<불독:SPE> 뭔 가요 
+1	불독	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;불독 뭐 ㄴ가 
+$<불독:SPE> 뭐 ㄴ가 
+1	불독	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;불독 뭐 ㄹ까요 
+$<불독:SPE> 뭐 ㄹ까요 
+1	불독	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;불독 뭐 ㄹ까 
+$<불독:SPE> 뭐 ㄹ까 
+1	불독	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;불독 어떤 건 가요 
+$<불독:SPE> 어떤 건 가요 
+1	불독	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;불독 어떤 거 야 
+$<불독:SPE> 어떤 거 야 
+1	불독	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;불독 도와주 시 어요 
+$<불독:SPE> 도와주 시 어요 
+1	불독	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;불독 돕 아 주 어 
+$<불독:SPE> 돕 아 주 어 
+1	불독	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;불독 문의 드리 어요 
+$<불독:SPE> 문의 드리 어요 
+1	불독	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;불독 문의 드리 ㅂ니다 
+$<불독:SPE> 문의 드리 ㅂ니다 
+1	불독	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;불독 검색 하 아 주 어 
+$<불독:SPE> 검색 하 아 주 어 
+1	불독	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;불독 검색 하 아 주 시 어요 
+$<불독:SPE> 검색 하 아 주 시 어요 
+1	불독	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;불독 뭐 야 
+$<불독:SPE> 뭐 야 
+1	불독	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;불독 뭐 에 요 
+$<불독:SPE> 뭐 에 요 
+1	불독	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;불독 대하 아 알리 어 주 어 
+$<불독:SPE> 대하 아 알리 어 주 어 
+1	불독	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;불독 대하 아 알리 어 주 어 보 아 
+$<불독:SPE> 대하 아 알리 어 주 어 보 아 
+1	불독	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;시바 대하 아 알리 어 주 시 어요 
+$<시바:SPE> 대하 아 알리 어 주 시 어요 
+1	시바	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;시바 궁금 하 어요 
+$<시바:SPE> 궁금 하 어요 
+1	시바	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;시바 궁금 하 ㅁ 
+$<시바:SPE> 궁금 하 ㅁ 
+1	시바	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;시바 궁금 하 아 
+$<시바:SPE> 궁금 하 아 
+1	시바	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;시바 대하 아 알리 어 주 어 
+$<시바:SPE> 대하 아 알리 어 주 어 
+1	시바	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;시바 알리 어 주 어 
+$<시바:SPE> 알리 어 주 어 
+1	시바	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;시바 설명 하 아 주 시 어요 
+$<시바:SPE> 설명 하 아 주 시 어요 
+1	시바	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;시바 설명 좀 
+$<시바:SPE> 설명 좀 
+1	시바	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;시바 설명 하 아 주 어 
+$<시바:SPE> 설명 하 아 주 어 
+1	시바	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;시바 정보 주 시 어요 
+$<시바:SPE> 정보 주 시 어요 
+1	시바	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;시바 정보 주 어 
+$<시바:SPE> 정보 주 어 
+1	시바	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;시바 무엇 이 ㄴ가요 
+$<시바:SPE> 무엇 이 ㄴ가요 
+1	시바	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;시바 뭔 가요 
+$<시바:SPE> 뭔 가요 
+1	시바	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;시바 뭐 ㄴ가 
+$<시바:SPE> 뭐 ㄴ가 
+1	시바	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;시바 뭐 ㄹ까요 
+$<시바:SPE> 뭐 ㄹ까요 
+1	시바	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;시바 뭐 ㄹ까 
+$<시바:SPE> 뭐 ㄹ까 
+1	시바	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;시바 어떤 건 가요 
+$<시바:SPE> 어떤 건 가요 
+1	시바	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;시바 어떤 거 야 
+$<시바:SPE> 어떤 거 야 
+1	시바	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;시바 도와주 시 어요 
+$<시바:SPE> 도와주 시 어요 
+1	시바	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;시바 돕 아 주 어 
+$<시바:SPE> 돕 아 주 어 
+1	시바	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;시바 문의 드리 어요 
+$<시바:SPE> 문의 드리 어요 
+1	시바	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;시바 문의 드리 ㅂ니다 
+$<시바:SPE> 문의 드리 ㅂ니다 
+1	시바	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;시바 검색 하 아 주 어 
+$<시바:SPE> 검색 하 아 주 어 
+1	시바	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;시바 검색 하 아 주 시 어요 
+$<시바:SPE> 검색 하 아 주 시 어요 
+1	시바	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;시바 뭐 야 
+$<시바:SPE> 뭐 야 
+1	시바	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;시바 뭐 에 요 
+$<시바:SPE> 뭐 에 요 
+1	시바	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;시바 대하 아 알리 어 주 어 
+$<시바:SPE> 대하 아 알리 어 주 어 
+1	시바	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;시바 대하 아 알리 어 주 어 보 아 
+$<시바:SPE> 대하 아 알리 어 주 어 보 아 
+1	시바	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;테리어 대하 아 알리 어 주 시 어요 
+$<테리어:SPE> 대하 아 알리 어 주 시 어요 
+1	테리어	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;테리어 궁금 하 어요 
+$<테리어:SPE> 궁금 하 어요 
+1	테리어	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;테리어 궁금 하 ㅁ 
+$<테리어:SPE> 궁금 하 ㅁ 
+1	테리어	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;테리어 궁금 하 아 
+$<테리어:SPE> 궁금 하 아 
+1	테리어	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;테리어 대하 아 알리 어 주 어 
+$<테리어:SPE> 대하 아 알리 어 주 어 
+1	테리어	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;테리어 알리 어 주 어 
+$<테리어:SPE> 알리 어 주 어 
+1	테리어	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;테리어 설명 하 아 주 시 어요 
+$<테리어:SPE> 설명 하 아 주 시 어요 
+1	테리어	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;테리어 설명 좀 
+$<테리어:SPE> 설명 좀 
+1	테리어	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;테리어 설명 하 아 주 어 
+$<테리어:SPE> 설명 하 아 주 어 
+1	테리어	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;테리어 정보 주 시 어요 
+$<테리어:SPE> 정보 주 시 어요 
+1	테리어	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;테리어 정보 주 어 
+$<테리어:SPE> 정보 주 어 
+1	테리어	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;테리어 무엇 이 ㄴ가요 
+$<테리어:SPE> 무엇 이 ㄴ가요 
+1	테리어	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;테리어 뭔 가요 
+$<테리어:SPE> 뭔 가요 
+1	테리어	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;테리어 뭐 ㄴ가 
+$<테리어:SPE> 뭐 ㄴ가 
+1	테리어	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;테리어 뭐 ㄹ까요 
+$<테리어:SPE> 뭐 ㄹ까요 
+1	테리어	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;테리어 뭐 ㄹ까 
+$<테리어:SPE> 뭐 ㄹ까 
+1	테리어	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;테리어 어떤 건 가요 
+$<테리어:SPE> 어떤 건 가요 
+1	테리어	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;테리어 어떤 거 야 
+$<테리어:SPE> 어떤 거 야 
+1	테리어	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;테리어 도와주 시 어요 
+$<테리어:SPE> 도와주 시 어요 
+1	테리어	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;테리어 돕 아 주 어 
+$<테리어:SPE> 돕 아 주 어 
+1	테리어	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;테리어 문의 드리 어요 
+$<테리어:SPE> 문의 드리 어요 
+1	테리어	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;테리어 문의 드리 ㅂ니다 
+$<테리어:SPE> 문의 드리 ㅂ니다 
+1	테리어	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;테리어 검색 하 아 주 어 
+$<테리어:SPE> 검색 하 아 주 어 
+1	테리어	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;테리어 검색 하 아 주 시 어요 
+$<테리어:SPE> 검색 하 아 주 시 어요 
+1	테리어	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;테리어 뭐 야 
+$<테리어:SPE> 뭐 야 
+1	테리어	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;테리어 뭐 에 요 
+$<테리어:SPE> 뭐 에 요 
+1	테리어	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;테리어 대하 아 알리 어 주 어 
+$<테리어:SPE> 대하 아 알리 어 주 어 
+1	테리어	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;테리어 대하 아 알리 어 주 어 보 아 
+$<테리어:SPE> 대하 아 알리 어 주 어 보 아 
+1	테리어	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;보더 대하 아 알리 어 주 시 어요 
+$<보더:SPE> 대하 아 알리 어 주 시 어요 
+1	보더	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;보더 궁금 하 어요 
+$<보더:SPE> 궁금 하 어요 
+1	보더	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;보더 궁금 하 ㅁ 
+$<보더:SPE> 궁금 하 ㅁ 
+1	보더	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;보더 궁금 하 아 
+$<보더:SPE> 궁금 하 아 
+1	보더	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;보더 대하 아 알리 어 주 어 
+$<보더:SPE> 대하 아 알리 어 주 어 
+1	보더	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;보더 알리 어 주 어 
+$<보더:SPE> 알리 어 주 어 
+1	보더	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;보더 설명 하 아 주 시 어요 
+$<보더:SPE> 설명 하 아 주 시 어요 
+1	보더	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;보더 설명 좀 
+$<보더:SPE> 설명 좀 
+1	보더	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;보더 설명 하 아 주 어 
+$<보더:SPE> 설명 하 아 주 어 
+1	보더	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;보더 정보 주 시 어요 
+$<보더:SPE> 정보 주 시 어요 
+1	보더	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;보더 정보 주 어 
+$<보더:SPE> 정보 주 어 
+1	보더	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;보더 무엇 이 ㄴ가요 
+$<보더:SPE> 무엇 이 ㄴ가요 
+1	보더	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;보더 뭔 가요 
+$<보더:SPE> 뭔 가요 
+1	보더	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;보더 뭐 ㄴ가 
+$<보더:SPE> 뭐 ㄴ가 
+1	보더	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;보더 뭐 ㄹ까요 
+$<보더:SPE> 뭐 ㄹ까요 
+1	보더	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;보더 뭐 ㄹ까 
+$<보더:SPE> 뭐 ㄹ까 
+1	보더	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;보더 어떤 건 가요 
+$<보더:SPE> 어떤 건 가요 
+1	보더	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;보더 어떤 거 야 
+$<보더:SPE> 어떤 거 야 
+1	보더	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;보더 도와주 시 어요 
+$<보더:SPE> 도와주 시 어요 
+1	보더	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;보더 돕 아 주 어 
+$<보더:SPE> 돕 아 주 어 
+1	보더	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;보더 문의 드리 어요 
+$<보더:SPE> 문의 드리 어요 
+1	보더	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;보더 문의 드리 ㅂ니다 
+$<보더:SPE> 문의 드리 ㅂ니다 
+1	보더	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;보더 검색 하 아 주 어 
+$<보더:SPE> 검색 하 아 주 어 
+1	보더	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;보더 검색 하 아 주 시 어요 
+$<보더:SPE> 검색 하 아 주 시 어요 
+1	보더	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;보더 뭐 야 
+$<보더:SPE> 뭐 야 
+1	보더	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;보더 뭐 에 요 
+$<보더:SPE> 뭐 에 요 
+1	보더	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;보더 대하 아 알리 어 주 어 
+$<보더:SPE> 대하 아 알리 어 주 어 
+1	보더	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;보더 대하 아 알리 어 주 어 보 아 
+$<보더:SPE> 대하 아 알리 어 주 어 보 아 
+1	보더	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
+;말티즈 대하 아 알리 어 주 시 어요 
+$<말티즈:SPE> 대하 아 알리 어 주 시 어요 
+1	말티즈	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;말티즈 궁금 하 어요 
+$<말티즈:SPE> 궁금 하 어요 
+1	말티즈	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	어요	EC	O
+
+;말티즈 궁금 하 ㅁ 
+$<말티즈:SPE> 궁금 하 ㅁ 
+1	말티즈	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;말티즈 궁금 하 아 
+$<말티즈:SPE> 궁금 하 아 
+1	말티즈	NNG	B_SPE
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;말티즈 대하 아 알리 어 주 어 
+$<말티즈:SPE> 대하 아 알리 어 주 어 
+1	말티즈	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;말티즈 알리 어 주 어 
+$<말티즈:SPE> 알리 어 주 어 
+1	말티즈	NNG	B_SPE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;말티즈 설명 하 아 주 시 어요 
+$<말티즈:SPE> 설명 하 아 주 시 어요 
+1	말티즈	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;말티즈 설명 좀 
+$<말티즈:SPE> 설명 좀 
+1	말티즈	NNG	B_SPE
+2	설명	NNG	O
+3	좀	MAG	O
+
+;말티즈 설명 하 아 주 어 
+$<말티즈:SPE> 설명 하 아 주 어 
+1	말티즈	NNG	B_SPE
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;말티즈 정보 주 시 어요 
+$<말티즈:SPE> 정보 주 시 어요 
+1	말티즈	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;말티즈 정보 주 어 
+$<말티즈:SPE> 정보 주 어 
+1	말티즈	NNG	B_SPE
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;말티즈 무엇 이 ㄴ가요 
+$<말티즈:SPE> 무엇 이 ㄴ가요 
+1	말티즈	NNG	B_SPE
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;말티즈 뭔 가요 
+$<말티즈:SPE> 뭔 가요 
+1	말티즈	NNG	B_SPE
+2	뭔	MM	O
+3	가요	NNP	O
+
+;말티즈 뭐 ㄴ가 
+$<말티즈:SPE> 뭐 ㄴ가 
+1	말티즈	NNG	B_SPE
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;말티즈 뭐 ㄹ까요 
+$<말티즈:SPE> 뭐 ㄹ까요 
+1	말티즈	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;말티즈 뭐 ㄹ까 
+$<말티즈:SPE> 뭐 ㄹ까 
+1	말티즈	NNG	B_SPE
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;말티즈 어떤 건 가요 
+$<말티즈:SPE> 어떤 건 가요 
+1	말티즈	NNG	B_SPE
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;말티즈 어떤 거 야 
+$<말티즈:SPE> 어떤 거 야 
+1	말티즈	NNG	B_SPE
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;말티즈 도와주 시 어요 
+$<말티즈:SPE> 도와주 시 어요 
+1	말티즈	NNG	B_SPE
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;말티즈 돕 아 주 어 
+$<말티즈:SPE> 돕 아 주 어 
+1	말티즈	NNG	B_SPE
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;말티즈 문의 드리 어요 
+$<말티즈:SPE> 문의 드리 어요 
+1	말티즈	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;말티즈 문의 드리 ㅂ니다 
+$<말티즈:SPE> 문의 드리 ㅂ니다 
+1	말티즈	NNG	B_SPE
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;말티즈 검색 하 아 주 어 
+$<말티즈:SPE> 검색 하 아 주 어 
+1	말티즈	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;말티즈 검색 하 아 주 시 어요 
+$<말티즈:SPE> 검색 하 아 주 시 어요 
+1	말티즈	NNG	B_SPE
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;말티즈 뭐 야 
+$<말티즈:SPE> 뭐 야 
+1	말티즈	NNG	B_SPE
+2	뭐	NP	O
+3	야	JX	O
+
+;말티즈 뭐 에 요 
+$<말티즈:SPE> 뭐 에 요 
+1	말티즈	NNG	B_SPE
+2	뭐	NP	O
+3	에	JKB	O
+4	요	JX	O
+
+;말티즈 대하 아 알리 어 주 어 
+$<말티즈:SPE> 대하 아 알리 어 주 어 
+1	말티즈	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;말티즈 대하 아 알리 어 주 어 보 아 
+$<말티즈:SPE> 대하 아 알리 어 주 어 보 아 
+1	말티즈	NNG	B_SPE
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+8	보	VX	O
+9	아	EC	O
+
