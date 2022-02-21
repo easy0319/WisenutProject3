@@ -1,0 +1,3374 @@
+﻿;중성화 대하 아 알리 어 주 시 어요 
+$중성화 대하 아 알리 어 주 시 어요 
+1	중성화	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;중성화 궁긍해요 
+$중성화 궁긍해요 
+1	중성화	NNG	B_SG
+2	궁긍해요	NA	O
+
+;중성화 궁금 하 ㅁ 
+$중성화 궁금 하 ㅁ 
+1	중성화	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;중성화 궁금 하 아 
+$중성화 궁금 하 아 
+1	중성화	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;중성화 대하 아 알리 어 주 어 
+$중성화 대하 아 알리 어 주 어 
+1	중성화	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;중성화 알리 어 주 어 
+$중성화 알리 어 주 어 
+1	중성화	NNG	B_SG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;중성화 설명 하 아 주 시 어요 
+$중성화 설명 하 아 주 시 어요 
+1	중성화	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;중성화 설명 좀 
+$중성화 설명 좀 
+1	중성화	NNG	B_SG
+2	설명	NNG	O
+3	좀	MAG	O
+
+;중성화 설명 하 아 주 어 
+$중성화 설명 하 아 주 어 
+1	중성화	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;중성화 정보 주 시 어요 
+$중성화 정보 주 시 어요 
+1	중성화	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;중성화 정보 주 어 
+$중성화 정보 주 어 
+1	중성화	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;중성화 무엇 이 ㄴ가요 
+$중성화 무엇 이 ㄴ가요 
+1	중성화	NNG	B_SG
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;중성화 뭔 가요 
+$중성화 뭔 가요 
+1	중성화	NNG	B_SG
+2	뭔	MM	O
+3	가요	NNP	O
+
+;중성화 뭐 ㄴ가 
+$중성화 뭐 ㄴ가 
+1	중성화	NNG	B_SG
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;중성화 뭐 ㄹ까요 
+$중성화 뭐 ㄹ까요 
+1	중성화	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;중성화 뭐 ㄹ까 
+$중성화 뭐 ㄹ까 
+1	중성화	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;중성화 어떤 건 가요 
+$중성화 어떤 건 가요 
+1	중성화	NNG	B_SG
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;중성화 어떤 거 야 
+$중성화 어떤 거 야 
+1	중성화	NNG	B_SG
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;중성화 도와주 시 어요 
+$중성화 도와주 시 어요 
+1	중성화	NNG	B_SG
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;중성화 돕 아 주 어 
+$중성화 돕 아 주 어 
+1	중성화	NNG	B_SG
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;중성화 문의 드리 어요 
+$중성화 문의 드리 어요 
+1	중성화	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;중성화 문의 드리 ㅂ니다 
+$중성화 문의 드리 ㅂ니다 
+1	중성화	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;중성화 검색 하 아 주 어 
+$중성화 검색 하 아 주 어 
+1	중성화	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;중성화 검색 하 아 주 시 어요 
+$중성화 검색 하 아 주 시 어요 
+1	중성화	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;중성화 뭐 야 
+$중성화 뭐 야 
+1	중성화	NNG	B_SG
+2	뭐	NP	O
+3	야	JX	O
+
+;중성화 뭐 예 요 
+$중성화 뭐 예 요 
+1	중성화	NNG	B_SG
+2	뭐	NP	O
+3	예	NNG	O
+4	요	JX	O
+
+;중성화 아프 ㄴ 가요 
+$중성화 아프 ㄴ 가요 
+1	중성화	NNG	B_SG
+2	아프	VA	O
+3	ㄴ	ETM	O
+4	가요	NNP	O
+
+;중성화 아프 아요 ? 
+$중성화 아프 아요 ? 
+1	중성화	NNG	B_SG
+2	아프	VA	O
+3	아요	EF	O
+4	?	SF	O
+
+;중성화 하 면 좋 은 점 
+$중성화 하 면 좋 은 점 
+1	중성화	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	좋	VA	O
+5	은	ETM	O
+6	점	NNB	O
+
+;중성화 하 면 단점 
+$중성화 하 면 단점 
+1	중성화	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	단점	NNG	O
+
+;중성화 하 면 안 좋 은 점 
+$중성화 하 면 안 좋 은 점 
+1	중성화	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	안	MAG	O
+5	좋	VA	O
+6	은	ETM	O
+7	점	NNB	O
+
+;중성화 하 면 장점 
+$중성화 하 면 장점 
+1	중성화	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	장점	NNG	O
+
+;수술 대하 아 알리 어 주 시 어요 
+$수술 대하 아 알리 어 주 시 어요 
+1	수술	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;수술 궁긍해요 
+$수술 궁긍해요 
+1	수술	NNG	B_SG
+2	궁긍해요	NA	O
+
+;수술 궁금 하 ㅁ 
+$수술 궁금 하 ㅁ 
+1	수술	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;수술 궁금 하 아 
+$수술 궁금 하 아 
+1	수술	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;수술 대하 아 알리 어 주 어 
+$수술 대하 아 알리 어 주 어 
+1	수술	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;수술 알리 어 주 어 
+$수술 알리 어 주 어 
+1	수술	NNG	B_SG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;수술 설명 하 아 주 시 어요 
+$수술 설명 하 아 주 시 어요 
+1	수술	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;수술 설명 좀 
+$수술 설명 좀 
+1	수술	NNG	B_SG
+2	설명	NNG	O
+3	좀	MAG	O
+
+;수술 설명 하 아 주 어 
+$수술 설명 하 아 주 어 
+1	수술	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;수술 정보 주 시 어요 
+$수술 정보 주 시 어요 
+1	수술	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;수술 정보 주 어 
+$수술 정보 주 어 
+1	수술	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;수술 무엇 이 ㄴ가요 
+$수술 무엇 이 ㄴ가요 
+1	수술	NNG	B_SG
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;수술 뭔 가요 
+$수술 뭔 가요 
+1	수술	NNG	B_SG
+2	뭔	MM	O
+3	가요	NNP	O
+
+;수술 뭐 ㄴ가 
+$수술 뭐 ㄴ가 
+1	수술	NNG	B_SG
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;수술 뭐 ㄹ까요 
+$수술 뭐 ㄹ까요 
+1	수술	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;수술 뭐 ㄹ까 
+$수술 뭐 ㄹ까 
+1	수술	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;수술 어떤 건 가요 
+$수술 어떤 건 가요 
+1	수술	NNG	B_SG
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;수술 어떤 거 야 
+$수술 어떤 거 야 
+1	수술	NNG	B_SG
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;수술 도와주 시 어요 
+$수술 도와주 시 어요 
+1	수술	NNG	B_SG
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;수술 돕 아 주 어 
+$수술 돕 아 주 어 
+1	수술	NNG	B_SG
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;수술 문의 드리 어요 
+$수술 문의 드리 어요 
+1	수술	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;수술 문의 드리 ㅂ니다 
+$수술 문의 드리 ㅂ니다 
+1	수술	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;수술 검색 하 아 주 어 
+$수술 검색 하 아 주 어 
+1	수술	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;수술 검색 하 아 주 시 어요 
+$수술 검색 하 아 주 시 어요 
+1	수술	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;수술 뭐 야 
+$수술 뭐 야 
+1	수술	NNG	B_SG
+2	뭐	NP	O
+3	야	JX	O
+
+;수술 뭐 예 요 
+$수술 뭐 예 요 
+1	수술	NNG	B_SG
+2	뭐	NP	O
+3	예	NNG	O
+4	요	JX	O
+
+;수술 아프 ㄴ 가요 
+$수술 아프 ㄴ 가요 
+1	수술	NNG	B_SG
+2	아프	VA	O
+3	ㄴ	ETM	O
+4	가요	NNP	O
+
+;수술 아프 아요 ? 
+$수술 아프 아요 ? 
+1	수술	NNG	B_SG
+2	아프	VA	O
+3	아요	EF	O
+4	?	SF	O
+
+;수술 하 면 좋 은 점 
+$수술 하 면 좋 은 점 
+1	수술	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	좋	VA	O
+5	은	ETM	O
+6	점	NNB	O
+
+;수술 하 면 단점 
+$수술 하 면 단점 
+1	수술	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	단점	NNG	O
+
+;수술 하 면 안 좋 은 점 
+$수술 하 면 안 좋 은 점 
+1	수술	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	안	MAG	O
+5	좋	VA	O
+6	은	ETM	O
+7	점	NNB	O
+
+;수술 하 면 장점 
+$수술 하 면 장점 
+1	수술	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	장점	NNG	O
+
+;방법 대하 아 알리 어 주 시 어요 
+$방법 대하 아 알리 어 주 시 어요 
+1	방법	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;방법 궁긍해요 
+$방법 궁긍해요 
+1	방법	NNG	B_SG
+2	궁긍해요	NA	O
+
+;방법 궁금 하 ㅁ 
+$방법 궁금 하 ㅁ 
+1	방법	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;방법 궁금 하 아 
+$방법 궁금 하 아 
+1	방법	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;방법 대하 아 알리 어 주 어 
+$방법 대하 아 알리 어 주 어 
+1	방법	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;방법 알리 어 주 어 
+$방법 알리 어 주 어 
+1	방법	NNG	B_SG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;방법 설명 하 아 주 시 어요 
+$방법 설명 하 아 주 시 어요 
+1	방법	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;방법 설명 좀 
+$방법 설명 좀 
+1	방법	NNG	B_SG
+2	설명	NNG	O
+3	좀	MAG	O
+
+;방법 설명 하 아 주 어 
+$방법 설명 하 아 주 어 
+1	방법	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;방법 정보 주 시 어요 
+$방법 정보 주 시 어요 
+1	방법	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;방법 정보 주 어 
+$방법 정보 주 어 
+1	방법	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;방법 무엇 이 ㄴ가요 
+$방법 무엇 이 ㄴ가요 
+1	방법	NNG	B_SG
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;방법 뭔 가요 
+$방법 뭔 가요 
+1	방법	NNG	B_SG
+2	뭔	MM	O
+3	가요	NNP	O
+
+;방법 뭐 ㄴ가 
+$방법 뭐 ㄴ가 
+1	방법	NNG	B_SG
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;방법 뭐 ㄹ까요 
+$방법 뭐 ㄹ까요 
+1	방법	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;방법 뭐 ㄹ까 
+$방법 뭐 ㄹ까 
+1	방법	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;방법 어떤 건 가요 
+$방법 어떤 건 가요 
+1	방법	NNG	B_SG
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;방법 어떤 거 야 
+$방법 어떤 거 야 
+1	방법	NNG	B_SG
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;방법 도와주 시 어요 
+$방법 도와주 시 어요 
+1	방법	NNG	B_SG
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;방법 돕 아 주 어 
+$방법 돕 아 주 어 
+1	방법	NNG	B_SG
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;방법 문의 드리 어요 
+$방법 문의 드리 어요 
+1	방법	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;방법 문의 드리 ㅂ니다 
+$방법 문의 드리 ㅂ니다 
+1	방법	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;방법 검색 하 아 주 어 
+$방법 검색 하 아 주 어 
+1	방법	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;방법 검색 하 아 주 시 어요 
+$방법 검색 하 아 주 시 어요 
+1	방법	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;방법 뭐 야 
+$방법 뭐 야 
+1	방법	NNG	B_SG
+2	뭐	NP	O
+3	야	JX	O
+
+;방법 뭐 예 요 
+$방법 뭐 예 요 
+1	방법	NNG	B_SG
+2	뭐	NP	O
+3	예	NNG	O
+4	요	JX	O
+
+;방법 아프 ㄴ 가요 
+$방법 아프 ㄴ 가요 
+1	방법	NNG	B_SG
+2	아프	VA	O
+3	ㄴ	ETM	O
+4	가요	NNP	O
+
+;방법 아프 아요 ? 
+$방법 아프 아요 ? 
+1	방법	NNG	B_SG
+2	아프	VA	O
+3	아요	EF	O
+4	?	SF	O
+
+;방법 하 면 좋 은 점 
+$방법 하 면 좋 은 점 
+1	방법	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	좋	VA	O
+5	은	ETM	O
+6	점	NNB	O
+
+;방법 하 면 단점 
+$방법 하 면 단점 
+1	방법	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	단점	NNG	O
+
+;방법 하 면 안 좋 은 점 
+$방법 하 면 안 좋 은 점 
+1	방법	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	안	MAG	O
+5	좋	VA	O
+6	은	ETM	O
+7	점	NNB	O
+
+;방법 하 면 장점 
+$방법 하 면 장점 
+1	방법	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	장점	NNG	O
+
+;수술방법 대하 아 알리 어 주 시 어요 
+$수술방법 대하 아 알리 어 주 시 어요 
+1	수술방법	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;수술방법 궁긍해요 
+$수술방법 궁긍해요 
+1	수술방법	NNG	B_SG
+2	궁긍해요	NA	O
+
+;수술방법 궁금 하 ㅁ 
+$수술방법 궁금 하 ㅁ 
+1	수술방법	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;수술방법 궁금 하 아 
+$수술방법 궁금 하 아 
+1	수술방법	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;수술방법 대하 아 알리 어 주 어 
+$수술방법 대하 아 알리 어 주 어 
+1	수술방법	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;수술방법 알리 어 주 어 
+$수술방법 알리 어 주 어 
+1	수술방법	NNG	B_SG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;수술방법 설명 하 아 주 시 어요 
+$수술방법 설명 하 아 주 시 어요 
+1	수술방법	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;수술방법 설명 좀 
+$수술방법 설명 좀 
+1	수술방법	NNG	B_SG
+2	설명	NNG	O
+3	좀	MAG	O
+
+;수술방법 설명 하 아 주 어 
+$수술방법 설명 하 아 주 어 
+1	수술방법	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;수술방법 정보 주 시 어요 
+$수술방법 정보 주 시 어요 
+1	수술방법	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;수술방법 정보 주 어 
+$수술방법 정보 주 어 
+1	수술방법	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;수술방법 무엇 이 ㄴ가요 
+$수술방법 무엇 이 ㄴ가요 
+1	수술방법	NNG	B_SG
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;수술방법 뭔 가요 
+$수술방법 뭔 가요 
+1	수술방법	NNG	B_SG
+2	뭔	MM	O
+3	가요	NNP	O
+
+;수술방법 뭐 ㄴ가 
+$수술방법 뭐 ㄴ가 
+1	수술방법	NNG	B_SG
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;수술방법 뭐 ㄹ까요 
+$수술방법 뭐 ㄹ까요 
+1	수술방법	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;수술방법 뭐 ㄹ까 
+$수술방법 뭐 ㄹ까 
+1	수술방법	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;수술방법 어떤 건 가요 
+$수술방법 어떤 건 가요 
+1	수술방법	NNG	B_SG
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;수술방법 어떤 거 야 
+$수술방법 어떤 거 야 
+1	수술방법	NNG	B_SG
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;수술방법 도와주 시 어요 
+$수술방법 도와주 시 어요 
+1	수술방법	NNG	B_SG
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;수술방법 돕 아 주 어 
+$수술방법 돕 아 주 어 
+1	수술방법	NNG	B_SG
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;수술방법 문의 드리 어요 
+$수술방법 문의 드리 어요 
+1	수술방법	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;수술방법 문의 드리 ㅂ니다 
+$수술방법 문의 드리 ㅂ니다 
+1	수술방법	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;수술방법 검색 하 아 주 어 
+$수술방법 검색 하 아 주 어 
+1	수술방법	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;수술방법 검색 하 아 주 시 어요 
+$수술방법 검색 하 아 주 시 어요 
+1	수술방법	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;수술방법 뭐 야 
+$수술방법 뭐 야 
+1	수술방법	NNG	B_SG
+2	뭐	NP	O
+3	야	JX	O
+
+;수술방법 뭐 예 요 
+$수술방법 뭐 예 요 
+1	수술방법	NNG	B_SG
+2	뭐	NP	O
+3	예	NNG	O
+4	요	JX	O
+
+;수술방법 아프 ㄴ 가요 
+$수술방법 아프 ㄴ 가요 
+1	수술방법	NNG	B_SG
+2	아프	VA	O
+3	ㄴ	ETM	O
+4	가요	NNP	O
+
+;수술방법 아프 아요 ? 
+$수술방법 아프 아요 ? 
+1	수술방법	NNG	B_SG
+2	아프	VA	O
+3	아요	EF	O
+4	?	SF	O
+
+;수술방법 하 면 좋 은 점 
+$수술방법 하 면 좋 은 점 
+1	수술방법	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	좋	VA	O
+5	은	ETM	O
+6	점	NNB	O
+
+;수술방법 하 면 단점 
+$수술방법 하 면 단점 
+1	수술방법	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	단점	NNG	O
+
+;수술방법 하 면 안 좋 은 점 
+$수술방법 하 면 안 좋 은 점 
+1	수술방법	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	안	MAG	O
+5	좋	VA	O
+6	은	ETM	O
+7	점	NNB	O
+
+;수술방법 하 면 장점 
+$수술방법 하 면 장점 
+1	수술방법	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	장점	NNG	O
+
+;중성화수술 대하 아 알리 어 주 시 어요 
+$중성화수술 대하 아 알리 어 주 시 어요 
+1	중성화수술	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;중성화수술 궁긍해요 
+$중성화수술 궁긍해요 
+1	중성화수술	NNG	B_SG
+2	궁긍해요	NA	O
+
+;중성화수술 궁금 하 ㅁ 
+$중성화수술 궁금 하 ㅁ 
+1	중성화수술	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;중성화수술 궁금 하 아 
+$중성화수술 궁금 하 아 
+1	중성화수술	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;중성화수술 대하 아 알리 어 주 어 
+$중성화수술 대하 아 알리 어 주 어 
+1	중성화수술	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;중성화수술 알리 어 주 어 
+$중성화수술 알리 어 주 어 
+1	중성화수술	NNG	B_SG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;중성화수술 설명 하 아 주 시 어요 
+$중성화수술 설명 하 아 주 시 어요 
+1	중성화수술	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;중성화수술 설명 좀 
+$중성화수술 설명 좀 
+1	중성화수술	NNG	B_SG
+2	설명	NNG	O
+3	좀	MAG	O
+
+;중성화수술 설명 하 아 주 어 
+$중성화수술 설명 하 아 주 어 
+1	중성화수술	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;중성화수술 정보 주 시 어요 
+$중성화수술 정보 주 시 어요 
+1	중성화수술	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;중성화수술 정보 주 어 
+$중성화수술 정보 주 어 
+1	중성화수술	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;중성화수술 무엇 이 ㄴ가요 
+$중성화수술 무엇 이 ㄴ가요 
+1	중성화수술	NNG	B_SG
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;중성화수술 뭔 가요 
+$중성화수술 뭔 가요 
+1	중성화수술	NNG	B_SG
+2	뭔	MM	O
+3	가요	NNP	O
+
+;중성화수술 뭐 ㄴ가 
+$중성화수술 뭐 ㄴ가 
+1	중성화수술	NNG	B_SG
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;중성화수술 뭐 ㄹ까요 
+$중성화수술 뭐 ㄹ까요 
+1	중성화수술	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;중성화수술 뭐 ㄹ까 
+$중성화수술 뭐 ㄹ까 
+1	중성화수술	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;중성화수술 어떤 건 가요 
+$중성화수술 어떤 건 가요 
+1	중성화수술	NNG	B_SG
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;중성화수술 어떤 거 야 
+$중성화수술 어떤 거 야 
+1	중성화수술	NNG	B_SG
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;중성화수술 도와주 시 어요 
+$중성화수술 도와주 시 어요 
+1	중성화수술	NNG	B_SG
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;중성화수술 돕 아 주 어 
+$중성화수술 돕 아 주 어 
+1	중성화수술	NNG	B_SG
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;중성화수술 문의 드리 어요 
+$중성화수술 문의 드리 어요 
+1	중성화수술	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;중성화수술 문의 드리 ㅂ니다 
+$중성화수술 문의 드리 ㅂ니다 
+1	중성화수술	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;중성화수술 검색 하 아 주 어 
+$중성화수술 검색 하 아 주 어 
+1	중성화수술	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;중성화수술 검색 하 아 주 시 어요 
+$중성화수술 검색 하 아 주 시 어요 
+1	중성화수술	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;중성화수술 뭐 야 
+$중성화수술 뭐 야 
+1	중성화수술	NNG	B_SG
+2	뭐	NP	O
+3	야	JX	O
+
+;중성화수술 뭐 예 요 
+$중성화수술 뭐 예 요 
+1	중성화수술	NNG	B_SG
+2	뭐	NP	O
+3	예	NNG	O
+4	요	JX	O
+
+;중성화수술 아프 ㄴ 가요 
+$중성화수술 아프 ㄴ 가요 
+1	중성화수술	NNG	B_SG
+2	아프	VA	O
+3	ㄴ	ETM	O
+4	가요	NNP	O
+
+;중성화수술 아프 아요 ? 
+$중성화수술 아프 아요 ? 
+1	중성화수술	NNG	B_SG
+2	아프	VA	O
+3	아요	EF	O
+4	?	SF	O
+
+;중성화수술 하 면 좋 은 점 
+$중성화수술 하 면 좋 은 점 
+1	중성화수술	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	좋	VA	O
+5	은	ETM	O
+6	점	NNB	O
+
+;중성화수술 하 면 단점 
+$중성화수술 하 면 단점 
+1	중성화수술	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	단점	NNG	O
+
+;중성화수술 하 면 안 좋 은 점 
+$중성화수술 하 면 안 좋 은 점 
+1	중성화수술	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	안	MAG	O
+5	좋	VA	O
+6	은	ETM	O
+7	점	NNB	O
+
+;중성화수술 하 면 장점 
+$중성화수술 하 면 장점 
+1	중성화수술	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	장점	NNG	O
+
+;입원 대하 아 알리 어 주 시 어요 
+$입원 대하 아 알리 어 주 시 어요 
+1	입원	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;입원 궁긍해요 
+$입원 궁긍해요 
+1	입원	NNG	B_SG
+2	궁긍해요	NA	O
+
+;입원 궁금 하 ㅁ 
+$입원 궁금 하 ㅁ 
+1	입원	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;입원 궁금 하 아 
+$입원 궁금 하 아 
+1	입원	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;입원 대하 아 알리 어 주 어 
+$입원 대하 아 알리 어 주 어 
+1	입원	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;입원 알리 어 주 어 
+$입원 알리 어 주 어 
+1	입원	NNG	B_SG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;입원 설명 하 아 주 시 어요 
+$입원 설명 하 아 주 시 어요 
+1	입원	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;입원 설명 좀 
+$입원 설명 좀 
+1	입원	NNG	B_SG
+2	설명	NNG	O
+3	좀	MAG	O
+
+;입원 설명 하 아 주 어 
+$입원 설명 하 아 주 어 
+1	입원	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;입원 정보 주 시 어요 
+$입원 정보 주 시 어요 
+1	입원	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;입원 정보 주 어 
+$입원 정보 주 어 
+1	입원	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;입원 무엇 이 ㄴ가요 
+$입원 무엇 이 ㄴ가요 
+1	입원	NNG	B_SG
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;입원 뭔 가요 
+$입원 뭔 가요 
+1	입원	NNG	B_SG
+2	뭔	MM	O
+3	가요	NNP	O
+
+;입원 뭐 ㄴ가 
+$입원 뭐 ㄴ가 
+1	입원	NNG	B_SG
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;입원 뭐 ㄹ까요 
+$입원 뭐 ㄹ까요 
+1	입원	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;입원 뭐 ㄹ까 
+$입원 뭐 ㄹ까 
+1	입원	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;입원 어떤 건 가요 
+$입원 어떤 건 가요 
+1	입원	NNG	B_SG
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;입원 어떤 거 야 
+$입원 어떤 거 야 
+1	입원	NNG	B_SG
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;입원 도와주 시 어요 
+$입원 도와주 시 어요 
+1	입원	NNG	B_SG
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;입원 돕 아 주 어 
+$입원 돕 아 주 어 
+1	입원	NNG	B_SG
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;입원 문의 드리 어요 
+$입원 문의 드리 어요 
+1	입원	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;입원 문의 드리 ㅂ니다 
+$입원 문의 드리 ㅂ니다 
+1	입원	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;입원 검색 하 아 주 어 
+$입원 검색 하 아 주 어 
+1	입원	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;입원 검색 하 아 주 시 어요 
+$입원 검색 하 아 주 시 어요 
+1	입원	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;입원 뭐 야 
+$입원 뭐 야 
+1	입원	NNG	B_SG
+2	뭐	NP	O
+3	야	JX	O
+
+;입원 뭐 예 요 
+$입원 뭐 예 요 
+1	입원	NNG	B_SG
+2	뭐	NP	O
+3	예	NNG	O
+4	요	JX	O
+
+;입원 아프 ㄴ 가요 
+$입원 아프 ㄴ 가요 
+1	입원	NNG	B_SG
+2	아프	VA	O
+3	ㄴ	ETM	O
+4	가요	NNP	O
+
+;입원 아프 아요 ? 
+$입원 아프 아요 ? 
+1	입원	NNG	B_SG
+2	아프	VA	O
+3	아요	EF	O
+4	?	SF	O
+
+;입원 하 면 좋 은 점 
+$입원 하 면 좋 은 점 
+1	입원	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	좋	VA	O
+5	은	ETM	O
+6	점	NNB	O
+
+;입원 하 면 단점 
+$입원 하 면 단점 
+1	입원	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	단점	NNG	O
+
+;입원 하 면 안 좋 은 점 
+$입원 하 면 안 좋 은 점 
+1	입원	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	안	MAG	O
+5	좋	VA	O
+6	은	ETM	O
+7	점	NNB	O
+
+;입원 하 면 장점 
+$입원 하 면 장점 
+1	입원	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	장점	NNG	O
+
+;주의 대하 아 알리 어 주 시 어요 
+$주의 대하 아 알리 어 주 시 어요 
+1	주의	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;주의 궁긍해요 
+$주의 궁긍해요 
+1	주의	NNG	B_SG
+2	궁긍해요	NA	O
+
+;주의 궁금 하 ㅁ 
+$주의 궁금 하 ㅁ 
+1	주의	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;주의 궁금 하 아 
+$주의 궁금 하 아 
+1	주의	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;주의 대하 아 알리 어 주 어 
+$주의 대하 아 알리 어 주 어 
+1	주의	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;주의 알리 어 주 어 
+$주의 알리 어 주 어 
+1	주의	NNG	B_SG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;주의 설명 하 아 주 시 어요 
+$주의 설명 하 아 주 시 어요 
+1	주의	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;주의 설명 좀 
+$주의 설명 좀 
+1	주의	NNG	B_SG
+2	설명	NNG	O
+3	좀	MAG	O
+
+;주의 설명 하 아 주 어 
+$주의 설명 하 아 주 어 
+1	주의	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;주의 정보 주 시 어요 
+$주의 정보 주 시 어요 
+1	주의	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;주의 정보 주 어 
+$주의 정보 주 어 
+1	주의	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;주의 무엇 이 ㄴ가요 
+$주의 무엇 이 ㄴ가요 
+1	주의	NNG	B_SG
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;주의 뭔 가요 
+$주의 뭔 가요 
+1	주의	NNG	B_SG
+2	뭔	MM	O
+3	가요	NNP	O
+
+;주의 뭐 ㄴ가 
+$주의 뭐 ㄴ가 
+1	주의	NNG	B_SG
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;주의 뭐 ㄹ까요 
+$주의 뭐 ㄹ까요 
+1	주의	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;주의 뭐 ㄹ까 
+$주의 뭐 ㄹ까 
+1	주의	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;주의 어떤 건 가요 
+$주의 어떤 건 가요 
+1	주의	NNG	B_SG
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;주의 어떤 거 야 
+$주의 어떤 거 야 
+1	주의	NNG	B_SG
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;주의 도와주 시 어요 
+$주의 도와주 시 어요 
+1	주의	NNG	B_SG
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;주의 돕 아 주 어 
+$주의 돕 아 주 어 
+1	주의	NNG	B_SG
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;주의 문의 드리 어요 
+$주의 문의 드리 어요 
+1	주의	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;주의 문의 드리 ㅂ니다 
+$주의 문의 드리 ㅂ니다 
+1	주의	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;주의 검색 하 아 주 어 
+$주의 검색 하 아 주 어 
+1	주의	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;주의 검색 하 아 주 시 어요 
+$주의 검색 하 아 주 시 어요 
+1	주의	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;주의 뭐 야 
+$주의 뭐 야 
+1	주의	NNG	B_SG
+2	뭐	NP	O
+3	야	JX	O
+
+;주의 뭐 예 요 
+$주의 뭐 예 요 
+1	주의	NNG	B_SG
+2	뭐	NP	O
+3	예	NNG	O
+4	요	JX	O
+
+;주의 아프 ㄴ 가요 
+$주의 아프 ㄴ 가요 
+1	주의	NNG	B_SG
+2	아프	VA	O
+3	ㄴ	ETM	O
+4	가요	NNP	O
+
+;주의 아프 아요 ? 
+$주의 아프 아요 ? 
+1	주의	NNG	B_SG
+2	아프	VA	O
+3	아요	EF	O
+4	?	SF	O
+
+;주의 하 면 좋 은 점 
+$주의 하 면 좋 은 점 
+1	주의	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	좋	VA	O
+5	은	ETM	O
+6	점	NNB	O
+
+;주의 하 면 단점 
+$주의 하 면 단점 
+1	주의	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	단점	NNG	O
+
+;주의 하 면 안 좋 은 점 
+$주의 하 면 안 좋 은 점 
+1	주의	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	안	MAG	O
+5	좋	VA	O
+6	은	ETM	O
+7	점	NNB	O
+
+;주의 하 면 장점 
+$주의 하 면 장점 
+1	주의	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	장점	NNG	O
+
+;사항 대하 아 알리 어 주 시 어요 
+$사항 대하 아 알리 어 주 시 어요 
+1	사항	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;사항 궁긍해요 
+$사항 궁긍해요 
+1	사항	NNG	B_SG
+2	궁긍해요	NA	O
+
+;사항 궁금 하 ㅁ 
+$사항 궁금 하 ㅁ 
+1	사항	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;사항 궁금 하 아 
+$사항 궁금 하 아 
+1	사항	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;사항 대하 아 알리 어 주 어 
+$사항 대하 아 알리 어 주 어 
+1	사항	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;사항 알리 어 주 어 
+$사항 알리 어 주 어 
+1	사항	NNG	B_SG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;사항 설명 하 아 주 시 어요 
+$사항 설명 하 아 주 시 어요 
+1	사항	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;사항 설명 좀 
+$사항 설명 좀 
+1	사항	NNG	B_SG
+2	설명	NNG	O
+3	좀	MAG	O
+
+;사항 설명 하 아 주 어 
+$사항 설명 하 아 주 어 
+1	사항	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;사항 정보 주 시 어요 
+$사항 정보 주 시 어요 
+1	사항	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;사항 정보 주 어 
+$사항 정보 주 어 
+1	사항	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;사항 무엇 이 ㄴ가요 
+$사항 무엇 이 ㄴ가요 
+1	사항	NNG	B_SG
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;사항 뭔 가요 
+$사항 뭔 가요 
+1	사항	NNG	B_SG
+2	뭔	MM	O
+3	가요	NNP	O
+
+;사항 뭐 ㄴ가 
+$사항 뭐 ㄴ가 
+1	사항	NNG	B_SG
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;사항 뭐 ㄹ까요 
+$사항 뭐 ㄹ까요 
+1	사항	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;사항 뭐 ㄹ까 
+$사항 뭐 ㄹ까 
+1	사항	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;사항 어떤 건 가요 
+$사항 어떤 건 가요 
+1	사항	NNG	B_SG
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;사항 어떤 거 야 
+$사항 어떤 거 야 
+1	사항	NNG	B_SG
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;사항 도와주 시 어요 
+$사항 도와주 시 어요 
+1	사항	NNG	B_SG
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;사항 돕 아 주 어 
+$사항 돕 아 주 어 
+1	사항	NNG	B_SG
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;사항 문의 드리 어요 
+$사항 문의 드리 어요 
+1	사항	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;사항 문의 드리 ㅂ니다 
+$사항 문의 드리 ㅂ니다 
+1	사항	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;사항 검색 하 아 주 어 
+$사항 검색 하 아 주 어 
+1	사항	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;사항 검색 하 아 주 시 어요 
+$사항 검색 하 아 주 시 어요 
+1	사항	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;사항 뭐 야 
+$사항 뭐 야 
+1	사항	NNG	B_SG
+2	뭐	NP	O
+3	야	JX	O
+
+;사항 뭐 예 요 
+$사항 뭐 예 요 
+1	사항	NNG	B_SG
+2	뭐	NP	O
+3	예	NNG	O
+4	요	JX	O
+
+;사항 아프 ㄴ 가요 
+$사항 아프 ㄴ 가요 
+1	사항	NNG	B_SG
+2	아프	VA	O
+3	ㄴ	ETM	O
+4	가요	NNP	O
+
+;사항 아프 아요 ? 
+$사항 아프 아요 ? 
+1	사항	NNG	B_SG
+2	아프	VA	O
+3	아요	EF	O
+4	?	SF	O
+
+;사항 하 면 좋 은 점 
+$사항 하 면 좋 은 점 
+1	사항	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	좋	VA	O
+5	은	ETM	O
+6	점	NNB	O
+
+;사항 하 면 단점 
+$사항 하 면 단점 
+1	사항	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	단점	NNG	O
+
+;사항 하 면 안 좋 은 점 
+$사항 하 면 안 좋 은 점 
+1	사항	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	안	MAG	O
+5	좋	VA	O
+6	은	ETM	O
+7	점	NNB	O
+
+;사항 하 면 장점 
+$사항 하 면 장점 
+1	사항	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	장점	NNG	O
+
+;주의사항 대하 아 알리 어 주 시 어요 
+$주의사항 대하 아 알리 어 주 시 어요 
+1	주의사항	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;주의사항 궁긍해요 
+$주의사항 궁긍해요 
+1	주의사항	NNG	B_SG
+2	궁긍해요	NA	O
+
+;주의사항 궁금 하 ㅁ 
+$주의사항 궁금 하 ㅁ 
+1	주의사항	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;주의사항 궁금 하 아 
+$주의사항 궁금 하 아 
+1	주의사항	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;주의사항 대하 아 알리 어 주 어 
+$주의사항 대하 아 알리 어 주 어 
+1	주의사항	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;주의사항 알리 어 주 어 
+$주의사항 알리 어 주 어 
+1	주의사항	NNG	B_SG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;주의사항 설명 하 아 주 시 어요 
+$주의사항 설명 하 아 주 시 어요 
+1	주의사항	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;주의사항 설명 좀 
+$주의사항 설명 좀 
+1	주의사항	NNG	B_SG
+2	설명	NNG	O
+3	좀	MAG	O
+
+;주의사항 설명 하 아 주 어 
+$주의사항 설명 하 아 주 어 
+1	주의사항	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;주의사항 정보 주 시 어요 
+$주의사항 정보 주 시 어요 
+1	주의사항	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;주의사항 정보 주 어 
+$주의사항 정보 주 어 
+1	주의사항	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;주의사항 무엇 이 ㄴ가요 
+$주의사항 무엇 이 ㄴ가요 
+1	주의사항	NNG	B_SG
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;주의사항 뭔 가요 
+$주의사항 뭔 가요 
+1	주의사항	NNG	B_SG
+2	뭔	MM	O
+3	가요	NNP	O
+
+;주의사항 뭐 ㄴ가 
+$주의사항 뭐 ㄴ가 
+1	주의사항	NNG	B_SG
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;주의사항 뭐 ㄹ까요 
+$주의사항 뭐 ㄹ까요 
+1	주의사항	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;주의사항 뭐 ㄹ까 
+$주의사항 뭐 ㄹ까 
+1	주의사항	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;주의사항 어떤 건 가요 
+$주의사항 어떤 건 가요 
+1	주의사항	NNG	B_SG
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;주의사항 어떤 거 야 
+$주의사항 어떤 거 야 
+1	주의사항	NNG	B_SG
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;주의사항 도와주 시 어요 
+$주의사항 도와주 시 어요 
+1	주의사항	NNG	B_SG
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;주의사항 돕 아 주 어 
+$주의사항 돕 아 주 어 
+1	주의사항	NNG	B_SG
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;주의사항 문의 드리 어요 
+$주의사항 문의 드리 어요 
+1	주의사항	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;주의사항 문의 드리 ㅂ니다 
+$주의사항 문의 드리 ㅂ니다 
+1	주의사항	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;주의사항 검색 하 아 주 어 
+$주의사항 검색 하 아 주 어 
+1	주의사항	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;주의사항 검색 하 아 주 시 어요 
+$주의사항 검색 하 아 주 시 어요 
+1	주의사항	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;주의사항 뭐 야 
+$주의사항 뭐 야 
+1	주의사항	NNG	B_SG
+2	뭐	NP	O
+3	야	JX	O
+
+;주의사항 뭐 예 요 
+$주의사항 뭐 예 요 
+1	주의사항	NNG	B_SG
+2	뭐	NP	O
+3	예	NNG	O
+4	요	JX	O
+
+;주의사항 아프 ㄴ 가요 
+$주의사항 아프 ㄴ 가요 
+1	주의사항	NNG	B_SG
+2	아프	VA	O
+3	ㄴ	ETM	O
+4	가요	NNP	O
+
+;주의사항 아프 아요 ? 
+$주의사항 아프 아요 ? 
+1	주의사항	NNG	B_SG
+2	아프	VA	O
+3	아요	EF	O
+4	?	SF	O
+
+;주의사항 하 면 좋 은 점 
+$주의사항 하 면 좋 은 점 
+1	주의사항	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	좋	VA	O
+5	은	ETM	O
+6	점	NNB	O
+
+;주의사항 하 면 단점 
+$주의사항 하 면 단점 
+1	주의사항	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	단점	NNG	O
+
+;주의사항 하 면 안 좋 은 점 
+$주의사항 하 면 안 좋 은 점 
+1	주의사항	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	안	MAG	O
+5	좋	VA	O
+6	은	ETM	O
+7	점	NNB	O
+
+;주의사항 하 면 장점 
+$주의사항 하 면 장점 
+1	주의사항	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	장점	NNG	O
+
+;비용 대하 아 알리 어 주 시 어요 
+$비용 대하 아 알리 어 주 시 어요 
+1	비용	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;비용 궁긍해요 
+$비용 궁긍해요 
+1	비용	NNG	B_SG
+2	궁긍해요	NA	O
+
+;비용 궁금 하 ㅁ 
+$비용 궁금 하 ㅁ 
+1	비용	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;비용 궁금 하 아 
+$비용 궁금 하 아 
+1	비용	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;비용 대하 아 알리 어 주 어 
+$비용 대하 아 알리 어 주 어 
+1	비용	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;비용 알리 어 주 어 
+$비용 알리 어 주 어 
+1	비용	NNG	B_SG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;비용 설명 하 아 주 시 어요 
+$비용 설명 하 아 주 시 어요 
+1	비용	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;비용 설명 좀 
+$비용 설명 좀 
+1	비용	NNG	B_SG
+2	설명	NNG	O
+3	좀	MAG	O
+
+;비용 설명 하 아 주 어 
+$비용 설명 하 아 주 어 
+1	비용	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;비용 정보 주 시 어요 
+$비용 정보 주 시 어요 
+1	비용	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;비용 정보 주 어 
+$비용 정보 주 어 
+1	비용	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;비용 무엇 이 ㄴ가요 
+$비용 무엇 이 ㄴ가요 
+1	비용	NNG	B_SG
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;비용 뭔 가요 
+$비용 뭔 가요 
+1	비용	NNG	B_SG
+2	뭔	MM	O
+3	가요	NNP	O
+
+;비용 뭐 ㄴ가 
+$비용 뭐 ㄴ가 
+1	비용	NNG	B_SG
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;비용 뭐 ㄹ까요 
+$비용 뭐 ㄹ까요 
+1	비용	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;비용 뭐 ㄹ까 
+$비용 뭐 ㄹ까 
+1	비용	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;비용 어떤 건 가요 
+$비용 어떤 건 가요 
+1	비용	NNG	B_SG
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;비용 어떤 거 야 
+$비용 어떤 거 야 
+1	비용	NNG	B_SG
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;비용 도와주 시 어요 
+$비용 도와주 시 어요 
+1	비용	NNG	B_SG
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;비용 돕 아 주 어 
+$비용 돕 아 주 어 
+1	비용	NNG	B_SG
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;비용 문의 드리 어요 
+$비용 문의 드리 어요 
+1	비용	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;비용 문의 드리 ㅂ니다 
+$비용 문의 드리 ㅂ니다 
+1	비용	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;비용 검색 하 아 주 어 
+$비용 검색 하 아 주 어 
+1	비용	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;비용 검색 하 아 주 시 어요 
+$비용 검색 하 아 주 시 어요 
+1	비용	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;비용 뭐 야 
+$비용 뭐 야 
+1	비용	NNG	B_SG
+2	뭐	NP	O
+3	야	JX	O
+
+;비용 뭐 예 요 
+$비용 뭐 예 요 
+1	비용	NNG	B_SG
+2	뭐	NP	O
+3	예	NNG	O
+4	요	JX	O
+
+;비용 아프 ㄴ 가요 
+$비용 아프 ㄴ 가요 
+1	비용	NNG	B_SG
+2	아프	VA	O
+3	ㄴ	ETM	O
+4	가요	NNP	O
+
+;비용 아프 아요 ? 
+$비용 아프 아요 ? 
+1	비용	NNG	B_SG
+2	아프	VA	O
+3	아요	EF	O
+4	?	SF	O
+
+;비용 하 면 좋 은 점 
+$비용 하 면 좋 은 점 
+1	비용	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	좋	VA	O
+5	은	ETM	O
+6	점	NNB	O
+
+;비용 하 면 단점 
+$비용 하 면 단점 
+1	비용	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	단점	NNG	O
+
+;비용 하 면 안 좋 은 점 
+$비용 하 면 안 좋 은 점 
+1	비용	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	안	MAG	O
+5	좋	VA	O
+6	은	ETM	O
+7	점	NNB	O
+
+;비용 하 면 장점 
+$비용 하 면 장점 
+1	비용	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	장점	NNG	O
+
+;수술정보 대하 아 알리 어 주 시 어요 
+$수술정보 대하 아 알리 어 주 시 어요 
+1	수술정보	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;수술정보 궁긍해요 
+$수술정보 궁긍해요 
+1	수술정보	NNG	B_SG
+2	궁긍해요	NA	O
+
+;수술정보 궁금 하 ㅁ 
+$수술정보 궁금 하 ㅁ 
+1	수술정보	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;수술정보 궁금 하 아 
+$수술정보 궁금 하 아 
+1	수술정보	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;수술정보 대하 아 알리 어 주 어 
+$수술정보 대하 아 알리 어 주 어 
+1	수술정보	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;수술정보 알리 어 주 어 
+$수술정보 알리 어 주 어 
+1	수술정보	NNG	B_SG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;수술정보 설명 하 아 주 시 어요 
+$수술정보 설명 하 아 주 시 어요 
+1	수술정보	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;수술정보 설명 좀 
+$수술정보 설명 좀 
+1	수술정보	NNG	B_SG
+2	설명	NNG	O
+3	좀	MAG	O
+
+;수술정보 설명 하 아 주 어 
+$수술정보 설명 하 아 주 어 
+1	수술정보	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;수술정보 정보 주 시 어요 
+$수술정보 정보 주 시 어요 
+1	수술정보	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;수술정보 정보 주 어 
+$수술정보 정보 주 어 
+1	수술정보	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;수술정보 무엇 이 ㄴ가요 
+$수술정보 무엇 이 ㄴ가요 
+1	수술정보	NNG	B_SG
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;수술정보 뭔 가요 
+$수술정보 뭔 가요 
+1	수술정보	NNG	B_SG
+2	뭔	MM	O
+3	가요	NNP	O
+
+;수술정보 뭐 ㄴ가 
+$수술정보 뭐 ㄴ가 
+1	수술정보	NNG	B_SG
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;수술정보 뭐 ㄹ까요 
+$수술정보 뭐 ㄹ까요 
+1	수술정보	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;수술정보 뭐 ㄹ까 
+$수술정보 뭐 ㄹ까 
+1	수술정보	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;수술정보 어떤 건 가요 
+$수술정보 어떤 건 가요 
+1	수술정보	NNG	B_SG
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;수술정보 어떤 거 야 
+$수술정보 어떤 거 야 
+1	수술정보	NNG	B_SG
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;수술정보 도와주 시 어요 
+$수술정보 도와주 시 어요 
+1	수술정보	NNG	B_SG
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;수술정보 돕 아 주 어 
+$수술정보 돕 아 주 어 
+1	수술정보	NNG	B_SG
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;수술정보 문의 드리 어요 
+$수술정보 문의 드리 어요 
+1	수술정보	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;수술정보 문의 드리 ㅂ니다 
+$수술정보 문의 드리 ㅂ니다 
+1	수술정보	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;수술정보 검색 하 아 주 어 
+$수술정보 검색 하 아 주 어 
+1	수술정보	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;수술정보 검색 하 아 주 시 어요 
+$수술정보 검색 하 아 주 시 어요 
+1	수술정보	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;수술정보 뭐 야 
+$수술정보 뭐 야 
+1	수술정보	NNG	B_SG
+2	뭐	NP	O
+3	야	JX	O
+
+;수술정보 뭐 예 요 
+$수술정보 뭐 예 요 
+1	수술정보	NNG	B_SG
+2	뭐	NP	O
+3	예	NNG	O
+4	요	JX	O
+
+;수술정보 아프 ㄴ 가요 
+$수술정보 아프 ㄴ 가요 
+1	수술정보	NNG	B_SG
+2	아프	VA	O
+3	ㄴ	ETM	O
+4	가요	NNP	O
+
+;수술정보 아프 아요 ? 
+$수술정보 아프 아요 ? 
+1	수술정보	NNG	B_SG
+2	아프	VA	O
+3	아요	EF	O
+4	?	SF	O
+
+;수술정보 하 면 좋 은 점 
+$수술정보 하 면 좋 은 점 
+1	수술정보	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	좋	VA	O
+5	은	ETM	O
+6	점	NNB	O
+
+;수술정보 하 면 단점 
+$수술정보 하 면 단점 
+1	수술정보	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	단점	NNG	O
+
+;수술정보 하 면 안 좋 은 점 
+$수술정보 하 면 안 좋 은 점 
+1	수술정보	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	안	MAG	O
+5	좋	VA	O
+6	은	ETM	O
+7	점	NNB	O
+
+;수술정보 하 면 장점 
+$수술정보 하 면 장점 
+1	수술정보	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	장점	NNG	O
+
+;정보 대하 아 알리 어 주 시 어요 
+$정보 대하 아 알리 어 주 시 어요 
+1	정보	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;정보 궁긍해요 
+$정보 궁긍해요 
+1	정보	NNG	B_SG
+2	궁긍해요	NA	O
+
+;정보 궁금 하 ㅁ 
+$정보 궁금 하 ㅁ 
+1	정보	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;정보 궁금 하 아 
+$정보 궁금 하 아 
+1	정보	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;정보 대하 아 알리 어 주 어 
+$정보 대하 아 알리 어 주 어 
+1	정보	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;정보 알리 어 주 어 
+$정보 알리 어 주 어 
+1	정보	NNG	B_SG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;정보 설명 하 아 주 시 어요 
+$정보 설명 하 아 주 시 어요 
+1	정보	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;정보 설명 좀 
+$정보 설명 좀 
+1	정보	NNG	B_SG
+2	설명	NNG	O
+3	좀	MAG	O
+
+;정보 설명 하 아 주 어 
+$정보 설명 하 아 주 어 
+1	정보	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;정보 정보 주 시 어요 
+$정보 정보 주 시 어요 
+1	정보	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;정보 정보 주 어 
+$정보 정보 주 어 
+1	정보	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;정보 무엇 이 ㄴ가요 
+$정보 무엇 이 ㄴ가요 
+1	정보	NNG	B_SG
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;정보 뭔 가요 
+$정보 뭔 가요 
+1	정보	NNG	B_SG
+2	뭔	MM	O
+3	가요	NNP	O
+
+;정보 뭐 ㄴ가 
+$정보 뭐 ㄴ가 
+1	정보	NNG	B_SG
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;정보 뭐 ㄹ까요 
+$정보 뭐 ㄹ까요 
+1	정보	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;정보 뭐 ㄹ까 
+$정보 뭐 ㄹ까 
+1	정보	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;정보 어떤 건 가요 
+$정보 어떤 건 가요 
+1	정보	NNG	B_SG
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;정보 어떤 거 야 
+$정보 어떤 거 야 
+1	정보	NNG	B_SG
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;정보 도와주 시 어요 
+$정보 도와주 시 어요 
+1	정보	NNG	B_SG
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;정보 돕 아 주 어 
+$정보 돕 아 주 어 
+1	정보	NNG	B_SG
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;정보 문의 드리 어요 
+$정보 문의 드리 어요 
+1	정보	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;정보 문의 드리 ㅂ니다 
+$정보 문의 드리 ㅂ니다 
+1	정보	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;정보 검색 하 아 주 어 
+$정보 검색 하 아 주 어 
+1	정보	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;정보 검색 하 아 주 시 어요 
+$정보 검색 하 아 주 시 어요 
+1	정보	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;정보 뭐 야 
+$정보 뭐 야 
+1	정보	NNG	B_SG
+2	뭐	NP	O
+3	야	JX	O
+
+;정보 뭐 예 요 
+$정보 뭐 예 요 
+1	정보	NNG	B_SG
+2	뭐	NP	O
+3	예	NNG	O
+4	요	JX	O
+
+;정보 아프 ㄴ 가요 
+$정보 아프 ㄴ 가요 
+1	정보	NNG	B_SG
+2	아프	VA	O
+3	ㄴ	ETM	O
+4	가요	NNP	O
+
+;정보 아프 아요 ? 
+$정보 아프 아요 ? 
+1	정보	NNG	B_SG
+2	아프	VA	O
+3	아요	EF	O
+4	?	SF	O
+
+;정보 하 면 좋 은 점 
+$정보 하 면 좋 은 점 
+1	정보	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	좋	VA	O
+5	은	ETM	O
+6	점	NNB	O
+
+;정보 하 면 단점 
+$정보 하 면 단점 
+1	정보	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	단점	NNG	O
+
+;정보 하 면 안 좋 은 점 
+$정보 하 면 안 좋 은 점 
+1	정보	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	안	MAG	O
+5	좋	VA	O
+6	은	ETM	O
+7	점	NNB	O
+
+;정보 하 면 장점 
+$정보 하 면 장점 
+1	정보	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	장점	NNG	O
+
+;주의점 대하 아 알리 어 주 시 어요 
+$주의점 대하 아 알리 어 주 시 어요 
+1	주의점	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;주의점 궁긍해요 
+$주의점 궁긍해요 
+1	주의점	NNG	B_SG
+2	궁긍해요	NA	O
+
+;주의점 궁금 하 ㅁ 
+$주의점 궁금 하 ㅁ 
+1	주의점	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;주의점 궁금 하 아 
+$주의점 궁금 하 아 
+1	주의점	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;주의점 대하 아 알리 어 주 어 
+$주의점 대하 아 알리 어 주 어 
+1	주의점	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;주의점 알리 어 주 어 
+$주의점 알리 어 주 어 
+1	주의점	NNG	B_SG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;주의점 설명 하 아 주 시 어요 
+$주의점 설명 하 아 주 시 어요 
+1	주의점	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;주의점 설명 좀 
+$주의점 설명 좀 
+1	주의점	NNG	B_SG
+2	설명	NNG	O
+3	좀	MAG	O
+
+;주의점 설명 하 아 주 어 
+$주의점 설명 하 아 주 어 
+1	주의점	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;주의점 정보 주 시 어요 
+$주의점 정보 주 시 어요 
+1	주의점	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;주의점 정보 주 어 
+$주의점 정보 주 어 
+1	주의점	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;주의점 무엇 이 ㄴ가요 
+$주의점 무엇 이 ㄴ가요 
+1	주의점	NNG	B_SG
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;주의점 뭔 가요 
+$주의점 뭔 가요 
+1	주의점	NNG	B_SG
+2	뭔	MM	O
+3	가요	NNP	O
+
+;주의점 뭐 ㄴ가 
+$주의점 뭐 ㄴ가 
+1	주의점	NNG	B_SG
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;주의점 뭐 ㄹ까요 
+$주의점 뭐 ㄹ까요 
+1	주의점	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;주의점 뭐 ㄹ까 
+$주의점 뭐 ㄹ까 
+1	주의점	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;주의점 어떤 건 가요 
+$주의점 어떤 건 가요 
+1	주의점	NNG	B_SG
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;주의점 어떤 거 야 
+$주의점 어떤 거 야 
+1	주의점	NNG	B_SG
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;주의점 도와주 시 어요 
+$주의점 도와주 시 어요 
+1	주의점	NNG	B_SG
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;주의점 돕 아 주 어 
+$주의점 돕 아 주 어 
+1	주의점	NNG	B_SG
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;주의점 문의 드리 어요 
+$주의점 문의 드리 어요 
+1	주의점	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;주의점 문의 드리 ㅂ니다 
+$주의점 문의 드리 ㅂ니다 
+1	주의점	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;주의점 검색 하 아 주 어 
+$주의점 검색 하 아 주 어 
+1	주의점	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;주의점 검색 하 아 주 시 어요 
+$주의점 검색 하 아 주 시 어요 
+1	주의점	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;주의점 뭐 야 
+$주의점 뭐 야 
+1	주의점	NNG	B_SG
+2	뭐	NP	O
+3	야	JX	O
+
+;주의점 뭐 예 요 
+$주의점 뭐 예 요 
+1	주의점	NNG	B_SG
+2	뭐	NP	O
+3	예	NNG	O
+4	요	JX	O
+
+;주의점 아프 ㄴ 가요 
+$주의점 아프 ㄴ 가요 
+1	주의점	NNG	B_SG
+2	아프	VA	O
+3	ㄴ	ETM	O
+4	가요	NNP	O
+
+;주의점 아프 아요 ? 
+$주의점 아프 아요 ? 
+1	주의점	NNG	B_SG
+2	아프	VA	O
+3	아요	EF	O
+4	?	SF	O
+
+;주의점 하 면 좋 은 점 
+$주의점 하 면 좋 은 점 
+1	주의점	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	좋	VA	O
+5	은	ETM	O
+6	점	NNB	O
+
+;주의점 하 면 단점 
+$주의점 하 면 단점 
+1	주의점	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	단점	NNG	O
+
+;주의점 하 면 안 좋 은 점 
+$주의점 하 면 안 좋 은 점 
+1	주의점	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	안	MAG	O
+5	좋	VA	O
+6	은	ETM	O
+7	점	NNB	O
+
+;주의점 하 면 장점 
+$주의점 하 면 장점 
+1	주의점	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	장점	NNG	O
+
+;주의사항 대하 아 알리 어 주 시 어요 
+$주의사항 대하 아 알리 어 주 시 어요 
+1	주의사항	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;주의사항 궁긍해요 
+$주의사항 궁긍해요 
+1	주의사항	NNG	B_SG
+2	궁긍해요	NA	O
+
+;주의사항 궁금 하 ㅁ 
+$주의사항 궁금 하 ㅁ 
+1	주의사항	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;주의사항 궁금 하 아 
+$주의사항 궁금 하 아 
+1	주의사항	NNG	B_SG
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;주의사항 대하 아 알리 어 주 어 
+$주의사항 대하 아 알리 어 주 어 
+1	주의사항	NNG	B_SG
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;주의사항 알리 어 주 어 
+$주의사항 알리 어 주 어 
+1	주의사항	NNG	B_SG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;주의사항 설명 하 아 주 시 어요 
+$주의사항 설명 하 아 주 시 어요 
+1	주의사항	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;주의사항 설명 좀 
+$주의사항 설명 좀 
+1	주의사항	NNG	B_SG
+2	설명	NNG	O
+3	좀	MAG	O
+
+;주의사항 설명 하 아 주 어 
+$주의사항 설명 하 아 주 어 
+1	주의사항	NNG	B_SG
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;주의사항 정보 주 시 어요 
+$주의사항 정보 주 시 어요 
+1	주의사항	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;주의사항 정보 주 어 
+$주의사항 정보 주 어 
+1	주의사항	NNG	B_SG
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;주의사항 무엇 이 ㄴ가요 
+$주의사항 무엇 이 ㄴ가요 
+1	주의사항	NNG	B_SG
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;주의사항 뭔 가요 
+$주의사항 뭔 가요 
+1	주의사항	NNG	B_SG
+2	뭔	MM	O
+3	가요	NNP	O
+
+;주의사항 뭐 ㄴ가 
+$주의사항 뭐 ㄴ가 
+1	주의사항	NNG	B_SG
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;주의사항 뭐 ㄹ까요 
+$주의사항 뭐 ㄹ까요 
+1	주의사항	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;주의사항 뭐 ㄹ까 
+$주의사항 뭐 ㄹ까 
+1	주의사항	NNG	B_SG
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;주의사항 어떤 건 가요 
+$주의사항 어떤 건 가요 
+1	주의사항	NNG	B_SG
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;주의사항 어떤 거 야 
+$주의사항 어떤 거 야 
+1	주의사항	NNG	B_SG
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;주의사항 도와주 시 어요 
+$주의사항 도와주 시 어요 
+1	주의사항	NNG	B_SG
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;주의사항 돕 아 주 어 
+$주의사항 돕 아 주 어 
+1	주의사항	NNG	B_SG
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;주의사항 문의 드리 어요 
+$주의사항 문의 드리 어요 
+1	주의사항	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;주의사항 문의 드리 ㅂ니다 
+$주의사항 문의 드리 ㅂ니다 
+1	주의사항	NNG	B_SG
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;주의사항 검색 하 아 주 어 
+$주의사항 검색 하 아 주 어 
+1	주의사항	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;주의사항 검색 하 아 주 시 어요 
+$주의사항 검색 하 아 주 시 어요 
+1	주의사항	NNG	B_SG
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;주의사항 뭐 야 
+$주의사항 뭐 야 
+1	주의사항	NNG	B_SG
+2	뭐	NP	O
+3	야	JX	O
+
+;주의사항 뭐 예 요 
+$주의사항 뭐 예 요 
+1	주의사항	NNG	B_SG
+2	뭐	NP	O
+3	예	NNG	O
+4	요	JX	O
+
+;주의사항 아프 ㄴ 가요 
+$주의사항 아프 ㄴ 가요 
+1	주의사항	NNG	B_SG
+2	아프	VA	O
+3	ㄴ	ETM	O
+4	가요	NNP	O
+
+;주의사항 아프 아요 ? 
+$주의사항 아프 아요 ? 
+1	주의사항	NNG	B_SG
+2	아프	VA	O
+3	아요	EF	O
+4	?	SF	O
+
+;주의사항 하 면 좋 은 점 
+$주의사항 하 면 좋 은 점 
+1	주의사항	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	좋	VA	O
+5	은	ETM	O
+6	점	NNB	O
+
+;주의사항 하 면 단점 
+$주의사항 하 면 단점 
+1	주의사항	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	단점	NNG	O
+
+;주의사항 하 면 안 좋 은 점 
+$주의사항 하 면 안 좋 은 점 
+1	주의사항	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	안	MAG	O
+5	좋	VA	O
+6	은	ETM	O
+7	점	NNB	O
+
+;주의사항 하 면 장점 
+$주의사항 하 면 장점 
+1	주의사항	NNG	B_SG
+2	하	VV	O
+3	면	EC	O
+4	장점	NNG	O
+

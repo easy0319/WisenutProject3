@@ -1,0 +1,1205 @@
+﻿;전날 대하 아 알리 어 주 시 어요 
+$전날 대하 아 알리 어 주 시 어요 
+1	전날	NNG	B_PR
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;전날 궁긍해요 
+$전날 궁긍해요 
+1	전날	NNG	B_PR
+2	궁긍해요	NA	O
+
+;전날 궁금 하 ㅁ 
+$전날 궁금 하 ㅁ 
+1	전날	NNG	B_PR
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;전날 궁금 하 아 
+$전날 궁금 하 아 
+1	전날	NNG	B_PR
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;전날 대하 아 알리 어 주 어 
+$전날 대하 아 알리 어 주 어 
+1	전날	NNG	B_PR
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;전날 알리 어 주 어 
+$전날 알리 어 주 어 
+1	전날	NNG	B_PR
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;전날 설명 하 아 주 시 어요 
+$전날 설명 하 아 주 시 어요 
+1	전날	NNG	B_PR
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;전날 설명 좀 
+$전날 설명 좀 
+1	전날	NNG	B_PR
+2	설명	NNG	O
+3	좀	MAG	O
+
+;전날 설명 하 아 주 어 
+$전날 설명 하 아 주 어 
+1	전날	NNG	B_PR
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;전날 정보 주 시 어요 
+$전날 정보 주 시 어요 
+1	전날	NNG	B_PR
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;전날 정보 주 어 
+$전날 정보 주 어 
+1	전날	NNG	B_PR
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;전날 무엇 이 ㄴ가요 
+$전날 무엇 이 ㄴ가요 
+1	전날	NNG	B_PR
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;전날 뭔 가요 
+$전날 뭔 가요 
+1	전날	NNG	B_PR
+2	뭔	MM	O
+3	가요	NNP	O
+
+;전날 뭐 ㄴ가 
+$전날 뭐 ㄴ가 
+1	전날	NNG	B_PR
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;전날 뭐 ㄹ까요 
+$전날 뭐 ㄹ까요 
+1	전날	NNG	B_PR
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;전날 뭐 ㄹ까 
+$전날 뭐 ㄹ까 
+1	전날	NNG	B_PR
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;전날 어떤 건 가요 
+$전날 어떤 건 가요 
+1	전날	NNG	B_PR
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;전날 어떤 거 야 
+$전날 어떤 거 야 
+1	전날	NNG	B_PR
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;전날 도와주 시 어요 
+$전날 도와주 시 어요 
+1	전날	NNG	B_PR
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;전날 돕 아 주 어 
+$전날 돕 아 주 어 
+1	전날	NNG	B_PR
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;전날 문의 드리 어요 
+$전날 문의 드리 어요 
+1	전날	NNG	B_PR
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;전날 문의 드리 ㅂ니다 
+$전날 문의 드리 ㅂ니다 
+1	전날	NNG	B_PR
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;전날 검색 하 아 주 어 
+$전날 검색 하 아 주 어 
+1	전날	NNG	B_PR
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;전날 검색 하 아 주 시 어요 
+$전날 검색 하 아 주 시 어요 
+1	전날	NNG	B_PR
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;전날 뭐 야 
+$전날 뭐 야 
+1	전날	NNG	B_PR
+2	뭐	NP	O
+3	야	JX	O
+
+;전날 뭐 예 요 
+$전날 뭐 예 요 
+1	전날	NNG	B_PR
+2	뭐	NP	O
+3	예	NNG	O
+4	요	JX	O
+
+;전날 아프 ㄴ 가요 
+$전날 아프 ㄴ 가요 
+1	전날	NNG	B_PR
+2	아프	VA	O
+3	ㄴ	ETM	O
+4	가요	NNP	O
+
+;전날 아프 아요 ? 
+$전날 아프 아요 ? 
+1	전날	NNG	B_PR
+2	아프	VA	O
+3	아요	EF	O
+4	?	SF	O
+
+;전날 하 면 좋 은 점 
+$전날 하 면 좋 은 점 
+1	전날	NNG	B_PR
+2	하	VV	O
+3	면	EC	O
+4	좋	VA	O
+5	은	ETM	O
+6	점	NNB	O
+
+;전날 하 면 단점 
+$전날 하 면 단점 
+1	전날	NNG	B_PR
+2	하	VV	O
+3	면	EC	O
+4	단점	NNG	O
+
+;전날 하 면 안 좋 은 점 
+$전날 하 면 안 좋 은 점 
+1	전날	NNG	B_PR
+2	하	VV	O
+3	면	EC	O
+4	안	MAG	O
+5	좋	VA	O
+6	은	ETM	O
+7	점	NNB	O
+
+;전날 하 면 장점 
+$전날 하 면 장점 
+1	전날	NNG	B_PR
+2	하	VV	O
+3	면	EC	O
+4	장점	NNG	O
+
+;당일 대하 아 알리 어 주 시 어요 
+$당일 대하 아 알리 어 주 시 어요 
+1	당일	NNG	B_PR
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;당일 궁긍해요 
+$당일 궁긍해요 
+1	당일	NNG	B_PR
+2	궁긍해요	NA	O
+
+;당일 궁금 하 ㅁ 
+$당일 궁금 하 ㅁ 
+1	당일	NNG	B_PR
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;당일 궁금 하 아 
+$당일 궁금 하 아 
+1	당일	NNG	B_PR
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;당일 대하 아 알리 어 주 어 
+$당일 대하 아 알리 어 주 어 
+1	당일	NNG	B_PR
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;당일 알리 어 주 어 
+$당일 알리 어 주 어 
+1	당일	NNG	B_PR
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;당일 설명 하 아 주 시 어요 
+$당일 설명 하 아 주 시 어요 
+1	당일	NNG	B_PR
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;당일 설명 좀 
+$당일 설명 좀 
+1	당일	NNG	B_PR
+2	설명	NNG	O
+3	좀	MAG	O
+
+;당일 설명 하 아 주 어 
+$당일 설명 하 아 주 어 
+1	당일	NNG	B_PR
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;당일 정보 주 시 어요 
+$당일 정보 주 시 어요 
+1	당일	NNG	B_PR
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;당일 정보 주 어 
+$당일 정보 주 어 
+1	당일	NNG	B_PR
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;당일 무엇 이 ㄴ가요 
+$당일 무엇 이 ㄴ가요 
+1	당일	NNG	B_PR
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;당일 뭔 가요 
+$당일 뭔 가요 
+1	당일	NNG	B_PR
+2	뭔	MM	O
+3	가요	NNP	O
+
+;당일 뭐 ㄴ가 
+$당일 뭐 ㄴ가 
+1	당일	NNG	B_PR
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;당일 뭐 ㄹ까요 
+$당일 뭐 ㄹ까요 
+1	당일	NNG	B_PR
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;당일 뭐 ㄹ까 
+$당일 뭐 ㄹ까 
+1	당일	NNG	B_PR
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;당일 어떤 건 가요 
+$당일 어떤 건 가요 
+1	당일	NNG	B_PR
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;당일 어떤 거 야 
+$당일 어떤 거 야 
+1	당일	NNG	B_PR
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;당일 도와주 시 어요 
+$당일 도와주 시 어요 
+1	당일	NNG	B_PR
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;당일 돕 아 주 어 
+$당일 돕 아 주 어 
+1	당일	NNG	B_PR
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;당일 문의 드리 어요 
+$당일 문의 드리 어요 
+1	당일	NNG	B_PR
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;당일 문의 드리 ㅂ니다 
+$당일 문의 드리 ㅂ니다 
+1	당일	NNG	B_PR
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;당일 검색 하 아 주 어 
+$당일 검색 하 아 주 어 
+1	당일	NNG	B_PR
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;당일 검색 하 아 주 시 어요 
+$당일 검색 하 아 주 시 어요 
+1	당일	NNG	B_PR
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;당일 뭐 야 
+$당일 뭐 야 
+1	당일	NNG	B_PR
+2	뭐	NP	O
+3	야	JX	O
+
+;당일 뭐 예 요 
+$당일 뭐 예 요 
+1	당일	NNG	B_PR
+2	뭐	NP	O
+3	예	NNG	O
+4	요	JX	O
+
+;당일 아프 ㄴ 가요 
+$당일 아프 ㄴ 가요 
+1	당일	NNG	B_PR
+2	아프	VA	O
+3	ㄴ	ETM	O
+4	가요	NNP	O
+
+;당일 아프 아요 ? 
+$당일 아프 아요 ? 
+1	당일	NNG	B_PR
+2	아프	VA	O
+3	아요	EF	O
+4	?	SF	O
+
+;당일 하 면 좋 은 점 
+$당일 하 면 좋 은 점 
+1	당일	NNG	B_PR
+2	하	VV	O
+3	면	EC	O
+4	좋	VA	O
+5	은	ETM	O
+6	점	NNB	O
+
+;당일 하 면 단점 
+$당일 하 면 단점 
+1	당일	NNG	B_PR
+2	하	VV	O
+3	면	EC	O
+4	단점	NNG	O
+
+;당일 하 면 안 좋 은 점 
+$당일 하 면 안 좋 은 점 
+1	당일	NNG	B_PR
+2	하	VV	O
+3	면	EC	O
+4	안	MAG	O
+5	좋	VA	O
+6	은	ETM	O
+7	점	NNB	O
+
+;당일 하 면 장점 
+$당일 하 면 장점 
+1	당일	NNG	B_PR
+2	하	VV	O
+3	면	EC	O
+4	장점	NNG	O
+
+;후 대하 아 알리 어 주 시 어요 
+$후 대하 아 알리 어 주 시 어요 
+1	후	NNG	B_PR
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;후 궁긍해요 
+$후 궁긍해요 
+1	후	NNG	B_PR
+2	궁긍해요	NA	O
+
+;후 궁금 하 ㅁ 
+$후 궁금 하 ㅁ 
+1	후	NNG	B_PR
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;후 궁금 하 아 
+$후 궁금 하 아 
+1	후	NNG	B_PR
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;후 대하 아 알리 어 주 어 
+$후 대하 아 알리 어 주 어 
+1	후	NNG	B_PR
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;후 알리 어 주 어 
+$후 알리 어 주 어 
+1	후	NNG	B_PR
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;후 설명 하 아 주 시 어요 
+$후 설명 하 아 주 시 어요 
+1	후	NNG	B_PR
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;후 설명 좀 
+$후 설명 좀 
+1	후	NNG	B_PR
+2	설명	NNG	O
+3	좀	MAG	O
+
+;후 설명 하 아 주 어 
+$후 설명 하 아 주 어 
+1	후	NNG	B_PR
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;후 정보 주 시 어요 
+$후 정보 주 시 어요 
+1	후	NNG	B_PR
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;후 정보 주 어 
+$후 정보 주 어 
+1	후	NNG	B_PR
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;후 무엇 이 ㄴ가요 
+$후 무엇 이 ㄴ가요 
+1	후	NNG	B_PR
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;후 뭔 가요 
+$후 뭔 가요 
+1	후	NNG	B_PR
+2	뭔	MM	O
+3	가요	NNP	O
+
+;후 뭐 ㄴ가 
+$후 뭐 ㄴ가 
+1	후	NNG	B_PR
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;후 뭐 ㄹ까요 
+$후 뭐 ㄹ까요 
+1	후	NNG	B_PR
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;후 뭐 ㄹ까 
+$후 뭐 ㄹ까 
+1	후	NNG	B_PR
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;후 어떤 건 가요 
+$후 어떤 건 가요 
+1	후	NNG	B_PR
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;후 어떤 거 야 
+$후 어떤 거 야 
+1	후	NNG	B_PR
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;후 도와주 시 어요 
+$후 도와주 시 어요 
+1	후	NNG	B_PR
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;후 돕 아 주 어 
+$후 돕 아 주 어 
+1	후	NNG	B_PR
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;후 문의 드리 어요 
+$후 문의 드리 어요 
+1	후	NNG	B_PR
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;후 문의 드리 ㅂ니다 
+$후 문의 드리 ㅂ니다 
+1	후	NNG	B_PR
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;후 검색 하 아 주 어 
+$후 검색 하 아 주 어 
+1	후	NNG	B_PR
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;후 검색 하 아 주 시 어요 
+$후 검색 하 아 주 시 어요 
+1	후	NNG	B_PR
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;후 뭐 야 
+$후 뭐 야 
+1	후	NNG	B_PR
+2	뭐	NP	O
+3	야	JX	O
+
+;후 뭐 예 요 
+$후 뭐 예 요 
+1	후	NNG	B_PR
+2	뭐	NP	O
+3	예	NNG	O
+4	요	JX	O
+
+;후 아프 ㄴ 가요 
+$후 아프 ㄴ 가요 
+1	후	NNG	B_PR
+2	아프	VA	O
+3	ㄴ	ETM	O
+4	가요	NNP	O
+
+;후 아프 아요 ? 
+$후 아프 아요 ? 
+1	후	NNG	B_PR
+2	아프	VA	O
+3	아요	EF	O
+4	?	SF	O
+
+;후 하 면 좋 은 점 
+$후 하 면 좋 은 점 
+1	후	NNG	B_PR
+2	하	VV	O
+3	면	EC	O
+4	좋	VA	O
+5	은	ETM	O
+6	점	NNB	O
+
+;후 하 면 단점 
+$후 하 면 단점 
+1	후	NNG	B_PR
+2	하	VV	O
+3	면	EC	O
+4	단점	NNG	O
+
+;후 하 면 안 좋 은 점 
+$후 하 면 안 좋 은 점 
+1	후	NNG	B_PR
+2	하	VV	O
+3	면	EC	O
+4	안	MAG	O
+5	좋	VA	O
+6	은	ETM	O
+7	점	NNB	O
+
+;후 하 면 장점 
+$후 하 면 장점 
+1	후	NNG	B_PR
+2	하	VV	O
+3	면	EC	O
+4	장점	NNG	O
+
+;전 대하 아 알리 어 주 시 어요 
+$전 대하 아 알리 어 주 시 어요 
+1	전	NNG	B_PR
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;전 궁긍해요 
+$전 궁긍해요 
+1	전	NNG	B_PR
+2	궁긍해요	NA	O
+
+;전 궁금 하 ㅁ 
+$전 궁금 하 ㅁ 
+1	전	NNG	B_PR
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;전 궁금 하 아 
+$전 궁금 하 아 
+1	전	NNG	B_PR
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;전 대하 아 알리 어 주 어 
+$전 대하 아 알리 어 주 어 
+1	전	NNG	B_PR
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;전 알리 어 주 어 
+$전 알리 어 주 어 
+1	전	NNG	B_PR
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;전 설명 하 아 주 시 어요 
+$전 설명 하 아 주 시 어요 
+1	전	NNG	B_PR
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;전 설명 좀 
+$전 설명 좀 
+1	전	NNG	B_PR
+2	설명	NNG	O
+3	좀	MAG	O
+
+;전 설명 하 아 주 어 
+$전 설명 하 아 주 어 
+1	전	NNG	B_PR
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;전 정보 주 시 어요 
+$전 정보 주 시 어요 
+1	전	NNG	B_PR
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;전 정보 주 어 
+$전 정보 주 어 
+1	전	NNG	B_PR
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;전 무엇 이 ㄴ가요 
+$전 무엇 이 ㄴ가요 
+1	전	NNG	B_PR
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;전 뭔 가요 
+$전 뭔 가요 
+1	전	NNG	B_PR
+2	뭔	MM	O
+3	가요	NNP	O
+
+;전 뭐 ㄴ가 
+$전 뭐 ㄴ가 
+1	전	NNG	B_PR
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;전 뭐 ㄹ까요 
+$전 뭐 ㄹ까요 
+1	전	NNG	B_PR
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;전 뭐 ㄹ까 
+$전 뭐 ㄹ까 
+1	전	NNG	B_PR
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;전 어떤 건 가요 
+$전 어떤 건 가요 
+1	전	NNG	B_PR
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;전 어떤 거 야 
+$전 어떤 거 야 
+1	전	NNG	B_PR
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;전 도와주 시 어요 
+$전 도와주 시 어요 
+1	전	NNG	B_PR
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;전 돕 아 주 어 
+$전 돕 아 주 어 
+1	전	NNG	B_PR
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;전 문의 드리 어요 
+$전 문의 드리 어요 
+1	전	NNG	B_PR
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;전 문의 드리 ㅂ니다 
+$전 문의 드리 ㅂ니다 
+1	전	NNG	B_PR
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;전 검색 하 아 주 어 
+$전 검색 하 아 주 어 
+1	전	NNG	B_PR
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;전 검색 하 아 주 시 어요 
+$전 검색 하 아 주 시 어요 
+1	전	NNG	B_PR
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;전 뭐 야 
+$전 뭐 야 
+1	전	NNG	B_PR
+2	뭐	NP	O
+3	야	JX	O
+
+;전 뭐 예 요 
+$전 뭐 예 요 
+1	전	NNG	B_PR
+2	뭐	NP	O
+3	예	NNG	O
+4	요	JX	O
+
+;전 아프 ㄴ 가요 
+$전 아프 ㄴ 가요 
+1	전	NNG	B_PR
+2	아프	VA	O
+3	ㄴ	ETM	O
+4	가요	NNP	O
+
+;전 아프 아요 ? 
+$전 아프 아요 ? 
+1	전	NNG	B_PR
+2	아프	VA	O
+3	아요	EF	O
+4	?	SF	O
+
+;전 하 면 좋 은 점 
+$전 하 면 좋 은 점 
+1	전	NNG	B_PR
+2	하	VV	O
+3	면	EC	O
+4	좋	VA	O
+5	은	ETM	O
+6	점	NNB	O
+
+;전 하 면 단점 
+$전 하 면 단점 
+1	전	NNG	B_PR
+2	하	VV	O
+3	면	EC	O
+4	단점	NNG	O
+
+;전 하 면 안 좋 은 점 
+$전 하 면 안 좋 은 점 
+1	전	NNG	B_PR
+2	하	VV	O
+3	면	EC	O
+4	안	MAG	O
+5	좋	VA	O
+6	은	ETM	O
+7	점	NNB	O
+
+;전 하 면 장점 
+$전 하 면 장점 
+1	전	NNG	B_PR
+2	하	VV	O
+3	면	EC	O
+4	장점	NNG	O
+
+;기준 대하 아 알리 어 주 시 어요 
+$기준 대하 아 알리 어 주 시 어요 
+1	기준	NNG	B_PR
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	시	EP	O
+8	어요	EC	O
+
+;기준 궁긍해요 
+$기준 궁긍해요 
+1	기준	NNG	B_PR
+2	궁긍해요	NA	O
+
+;기준 궁금 하 ㅁ 
+$기준 궁금 하 ㅁ 
+1	기준	NNG	B_PR
+2	궁금	XR	O
+3	하	XSA	O
+4	ㅁ	ETN	O
+
+;기준 궁금 하 아 
+$기준 궁금 하 아 
+1	기준	NNG	B_PR
+2	궁금	XR	O
+3	하	XSA	O
+4	아	EC	O
+
+;기준 대하 아 알리 어 주 어 
+$기준 대하 아 알리 어 주 어 
+1	기준	NNG	B_PR
+2	대하	VV	O
+3	아	EC	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+;기준 알리 어 주 어 
+$기준 알리 어 주 어 
+1	기준	NNG	B_PR
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;기준 설명 하 아 주 시 어요 
+$기준 설명 하 아 주 시 어요 
+1	기준	NNG	B_PR
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;기준 설명 좀 
+$기준 설명 좀 
+1	기준	NNG	B_PR
+2	설명	NNG	O
+3	좀	MAG	O
+
+;기준 설명 하 아 주 어 
+$기준 설명 하 아 주 어 
+1	기준	NNG	B_PR
+2	설명	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;기준 정보 주 시 어요 
+$기준 정보 주 시 어요 
+1	기준	NNG	B_PR
+2	정보	NNG	O
+3	주	VV	O
+4	시	EP	O
+5	어요	EC	O
+
+;기준 정보 주 어 
+$기준 정보 주 어 
+1	기준	NNG	B_PR
+2	정보	NNG	O
+3	주	VV	O
+4	어	EC	O
+
+;기준 무엇 이 ㄴ가요 
+$기준 무엇 이 ㄴ가요 
+1	기준	NNG	B_PR
+2	무엇	NP	O
+3	이	VCP	O
+4	ㄴ가요	EC	O
+
+;기준 뭔 가요 
+$기준 뭔 가요 
+1	기준	NNG	B_PR
+2	뭔	MM	O
+3	가요	NNP	O
+
+;기준 뭐 ㄴ가 
+$기준 뭐 ㄴ가 
+1	기준	NNG	B_PR
+2	뭐	NP	O
+3	ㄴ가	EC	O
+
+;기준 뭐 ㄹ까요 
+$기준 뭐 ㄹ까요 
+1	기준	NNG	B_PR
+2	뭐	NP	O
+3	ㄹ까요	EC	O
+
+;기준 뭐 ㄹ까 
+$기준 뭐 ㄹ까 
+1	기준	NNG	B_PR
+2	뭐	NP	O
+3	ㄹ까	EC	O
+
+;기준 어떤 건 가요 
+$기준 어떤 건 가요 
+1	기준	NNG	B_PR
+2	어떤	MM	O
+3	건	NNB	O
+4	가요	NNP	O
+
+;기준 어떤 거 야 
+$기준 어떤 거 야 
+1	기준	NNG	B_PR
+2	어떤	MM	O
+3	거	NNB	O
+4	야	JX	O
+
+;기준 도와주 시 어요 
+$기준 도와주 시 어요 
+1	기준	NNG	B_PR
+2	도와주	VV	O
+3	시	EP	O
+4	어요	EC	O
+
+;기준 돕 아 주 어 
+$기준 돕 아 주 어 
+1	기준	NNG	B_PR
+2	돕	VV	O
+3	아	EC	O
+4	주	VX	O
+5	어	EC	O
+
+;기준 문의 드리 어요 
+$기준 문의 드리 어요 
+1	기준	NNG	B_PR
+2	문의	NNG	O
+3	드리	VV	O
+4	어요	EC	O
+
+;기준 문의 드리 ㅂ니다 
+$기준 문의 드리 ㅂ니다 
+1	기준	NNG	B_PR
+2	문의	NNG	O
+3	드리	VV	O
+4	ㅂ니다	EC	O
+
+;기준 검색 하 아 주 어 
+$기준 검색 하 아 주 어 
+1	기준	NNG	B_PR
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	어	EC	O
+
+;기준 검색 하 아 주 시 어요 
+$기준 검색 하 아 주 시 어요 
+1	기준	NNG	B_PR
+2	검색	NNG	O
+3	하	XSV	O
+4	아	EC	O
+5	주	VX	O
+6	시	EP	O
+7	어요	EC	O
+
+;기준 뭐 야 
+$기준 뭐 야 
+1	기준	NNG	B_PR
+2	뭐	NP	O
+3	야	JX	O
+
+;기준 뭐 예 요 
+$기준 뭐 예 요 
+1	기준	NNG	B_PR
+2	뭐	NP	O
+3	예	NNG	O
+4	요	JX	O
+
+;기준 아프 ㄴ 가요 
+$기준 아프 ㄴ 가요 
+1	기준	NNG	B_PR
+2	아프	VA	O
+3	ㄴ	ETM	O
+4	가요	NNP	O
+
+;기준 아프 아요 ? 
+$기준 아프 아요 ? 
+1	기준	NNG	B_PR
+2	아프	VA	O
+3	아요	EF	O
+4	?	SF	O
+
+;기준 하 면 좋 은 점 
+$기준 하 면 좋 은 점 
+1	기준	NNG	B_PR
+2	하	VV	O
+3	면	EC	O
+4	좋	VA	O
+5	은	ETM	O
+6	점	NNB	O
+
+;기준 하 면 단점 
+$기준 하 면 단점 
+1	기준	NNG	B_PR
+2	하	VV	O
+3	면	EC	O
+4	단점	NNG	O
+
+;기준 하 면 안 좋 은 점 
+$기준 하 면 안 좋 은 점 
+1	기준	NNG	B_PR
+2	하	VV	O
+3	면	EC	O
+4	안	MAG	O
+5	좋	VA	O
+6	은	ETM	O
+7	점	NNB	O
+
+;기준 하 면 장점 
+$기준 하 면 장점 
+1	기준	NNG	B_PR
+2	하	VV	O
+3	면	EC	O
+4	장점	NNG	O
+
