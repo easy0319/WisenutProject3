@@ -1,5 +1,5 @@
+var INDEX = 0;
 $(function() {
-  var INDEX = 0;
   
   $("#chat-submit").click(function(e) {
     e.preventDefault();
@@ -53,17 +53,18 @@ $(function() {
       for (var i = 0; i < m.length; i++){
         INDEX++;
         var str="";
-        
-
         if(i == 0){
           str += "<div id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
+          str += "          <span class=\"msg-avatar\">";
+          str += "            <img src=\"../../static/images/avatar.png\">";
+          str += "          <\/span>";
           str += "          <div class=\"cm-msg-text\">";
           str += m[i];
           str += "          <\/div>";
-          str += "        <\/div><br/>";
+          str += "        <\/div><br/><br/><br/><br/>";
         } else{
           str += "<div id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
-          str += "          <input type='button' id='cm-msg-"+INDEX+"' class='hc' value=\'";
+          str += "          <input type='button' id='"+INDEX+"' class='primary' onclick='handleBtn("+INDEX+")' value=\'";
           str += m[i];
           str += "          \'/>"
           str += "        <\/div><br/>";
@@ -81,6 +82,11 @@ $(function() {
       INDEX++;
       var str="";
       str += "<div id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
+      if(type == 'user'){
+        str += "          <span class=\"msg-avatar\">";
+        str += "            <img src=\"../../static/images/avatar.png\">";
+        str += "          <\/span>";
+      }
       str += "          <div class=\"cm-msg-text\">";
       str += msg;
       str += "          <\/div>";
@@ -119,21 +125,67 @@ $(function() {
   $("#chat-circle").click(function() {    
     $("#chat-circle").toggle('scale');
     $(".chat-box").toggle('scale');
+    type = 'user';
+    INDEX++;
+      var str="";
+      str += "<div id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
+      str += "          <span class=\"msg-avatar\">";
+      str += "            <img src=\"../../static/images/avatar.png\">";
+      str += "          <\/span>";
+      str += "          <div class=\"cm-msg-text\">";
+      str += "안녕하세요! <br/>\"강아지 백과사전 챗봇 입니다.\"<br/> 질문을 해주세요."
+      str += "          <\/div>";
+      str += "        <\/div>";
+      $(".chat-logs").append(str);
+      $("#cm-msg-"+INDEX).hide().fadeIn(300);
+      if(type == 'self'){
+      $("#chat-input").val(''); 
+      }    
+      $(".chat-logs").stop().animate({ scrollTop: $(".chat-logs")[0].scrollHeight}, 1000);    
   })
   
   $(".chat-box-toggle").click(function() {
     $("#chat-circle").toggle('scale');
     $(".chat-box").toggle('scale');
   })
-  $(document).ready(function() {
-    $(".hc").click(function(event) {
-        alert(event.target.id);
-    });
-  });
+
 })
-// function handleBtn() {
-//   const element = document.getElementsByClassName('hc');
-//   const eid = document.getElementById();
-//   console.log(eid)
-//   console.log(element[0].value)
-// }
+
+function handleBtn(index) {
+  const element = document.getElementById(index);
+  // console.log(element.value)
+  var postdata = {
+    'btn':element.value
+  }
+  $.ajax({
+    type: 'POST',
+    url: '/',
+    data: JSON.stringify(postdata),
+    dataType : 'JSON',
+    contentType: "application/json; charset=utf-8",
+    success: function(data){
+        // console.log(data.result2['btn'])
+        setTimeout(function() {
+          // generate_message(, 'user');
+          type = 'user'
+          INDEX++;
+          var str="";
+          str += "<div id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
+          str += "          <div class=\"cm-msg-text\">";
+          str += data.result2['btn'];
+          str += "          <\/div>";
+          str += "        <\/div>";
+          $(".chat-logs").append(str);
+          $("#cm-msg-"+INDEX).hide().fadeIn(300);
+          if(type == 'self'){
+           $("#chat-input").val(''); 
+          }    
+          $(".chat-logs").stop().animate({ scrollTop: $(".chat-logs")[0].scrollHeight}, 1000);          
+        }, 500)
+    },
+    error: function(request, status, error){
+        // alert('ajax 통신 실패')
+        alert(error);
+    }
+})
+}

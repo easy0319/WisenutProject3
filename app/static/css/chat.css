@@ -175,8 +175,8 @@ html, body {
 }
 
 .chat-msg.user > .msg-avatar img {
-  width:45px;
-  height:45px;
+  width:30px;
+  height:90px;
   border-radius:50%;
   float:left;
   width:15%;
