@@ -24,7 +24,7 @@ def getRule(str, df):
 
 def ruleData(query):
     # connect DB
-    engine = create_engine('', convert_unicode=True)
+    engine = create_engine('mysql://root:wlgus7080@127.0.0.1/homestead', convert_unicode=True)
     conn = engine.connect()
 
     df = pd.read_sql_table('dog_info_data', conn) 
