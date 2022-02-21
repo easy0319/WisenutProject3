@@ -1,3 +1,4 @@
+from distutils.command.config import config
 import tensorflow as tf
 from tensorflow.keras.models import Model, load_model
 from tensorflow.keras import preprocessing
@@ -27,7 +28,7 @@ class IntentModel:
         sequences = [self.p.get_wordidx_sequence(keywords)]
 
         # 단어 시퀀스 벡터 크기
-        from config.GlobalParams import MAX_SEQ_LEN
+        from ...config.GlobalParams import MAX_SEQ_LEN
 
         # 패딩처리
         padded_seqs = preprocessing.sequence.pad_sequences(sequences, maxlen=MAX_SEQ_LEN, padding='post')

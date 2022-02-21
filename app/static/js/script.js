@@ -1,5 +1,6 @@
 $(function() {
-  var INDEX = 0; 
+  var INDEX = 0;
+  
   $("#chat-submit").click(function(e) {
     e.preventDefault();
     var msg = $("#chat-input").val(); 
@@ -45,19 +46,52 @@ $(function() {
     })
   })
   function generate_message(msg, type) {
-    INDEX++;
-    var str="";
-    str += "<div id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
-    str += "          <div class=\"cm-msg-text\">";
-    str += msg;
-    str += "          <\/div>";
-    str += "        <\/div>";
-    $(".chat-logs").append(str);
-    $("#cm-msg-"+INDEX).hide().fadeIn(300);
-    if(type == 'self'){
-     $("#chat-input").val(''); 
-    }    
-    $(".chat-logs").stop().animate({ scrollTop: $(".chat-logs")[0].scrollHeight}, 1000);    
+    if (msg.indexOf('|') != -1){
+      var m = msg.split('|');
+      // console.log('if')
+      // console.log(m[0])
+      for (var i = 0; i < m.length; i++){
+        INDEX++;
+        var str="";
+        
+
+        if(i == 0){
+          str += "<div id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
+          str += "          <div class=\"cm-msg-text\">";
+          str += m[i];
+          str += "          <\/div>";
+          str += "        <\/div><br/>";
+        } else{
+          str += "<div id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
+          str += "          <input type='button' id='cm-msg-"+INDEX+"' class='hc' value=\'";
+          str += m[i];
+          str += "          \'/>"
+          str += "        <\/div><br/>";
+        }
+        $(".chat-logs").append(str);
+        $("#cm-msg-"+INDEX).hide().fadeIn(300);
+        if(type == 'self'){
+        $("#chat-input").val(''); 
+        }    
+        $(".chat-logs").stop().animate({ scrollTop: $(".chat-logs")[0].scrollHeight}, 1000);    
+      }
+    }
+    else{
+      // console.log('else')
+      INDEX++;
+      var str="";
+      str += "<div id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
+      str += "          <div class=\"cm-msg-text\">";
+      str += msg;
+      str += "          <\/div>";
+      str += "        <\/div>";
+      $(".chat-logs").append(str);
+      $("#cm-msg-"+INDEX).hide().fadeIn(300);
+      if(type == 'self'){
+      $("#chat-input").val(''); 
+      }    
+      $(".chat-logs").stop().animate({ scrollTop: $(".chat-logs")[0].scrollHeight}, 1000);    
+    }
   }  
   
   function generate_button_message(msg, buttons){    
@@ -91,5 +125,15 @@ $(function() {
     $("#chat-circle").toggle('scale');
     $(".chat-box").toggle('scale');
   })
-  
+  $(document).ready(function() {
+    $(".hc").click(function(event) {
+        alert(event.target.id);
+    });
+  });
 })
+// function handleBtn() {
+//   const element = document.getElementsByClassName('hc');
+//   const eid = document.getElementById();
+//   console.log(eid)
+//   console.log(element[0].value)
+// }
