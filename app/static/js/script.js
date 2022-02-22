@@ -1,4 +1,8 @@
 var INDEX = 0;
+var today = new Date();   
+var hours = today.getHours(); // 시
+var minutes = today.getMinutes(); // 분
+
 $(function() {
   
   $("#chat-submit").click(function(e) {
@@ -90,6 +94,11 @@ $(function() {
       str += "          <div class=\"cm-msg-text\">";
       str += msg;
       str += "          <\/div>";
+      if(type == 'user'){
+        str += "          <div class=\"chat-msg-span\">"+hours+" : "+ minutes+"<\/div>"
+      }else {
+        str += "          <div class=\"chat-msg-span\">"+hours+" : "+ minutes+"<\/div>"
+      }
       str += "        <\/div>";
       $(".chat-logs").append(str);
       $("#cm-msg-"+INDEX).hide().fadeIn(300);
@@ -125,23 +134,27 @@ $(function() {
   $("#chat-circle").click(function() {    
     $("#chat-circle").toggle('scale');
     $(".chat-box").toggle('scale');
-    type = 'user';
-    INDEX++;
-      var str="";
-      str += "<div id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
-      str += "          <span class=\"msg-avatar\">";
-      str += "            <img src=\"../../static/images/avatar.png\">";
-      str += "          <\/span>";
-      str += "          <div class=\"cm-msg-text\">";
-      str += "안녕하세요! <br/>\"강아지 백과사전 챗봇 입니다.\"<br/> 질문을 해주세요."
-      str += "          <\/div>";
-      str += "        <\/div>";
-      $(".chat-logs").append(str);
-      $("#cm-msg-"+INDEX).hide().fadeIn(300);
-      if(type == 'self'){
-      $("#chat-input").val(''); 
-      }    
-      $(".chat-logs").stop().animate({ scrollTop: $(".chat-logs")[0].scrollHeight}, 1000);    
+    if(INDEX == 0){
+      type = 'user';
+      INDEX++;
+        var str="";
+        str += "<div id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
+        str += "          <span class=\"msg-avatar\">";
+        str += "            <img src=\"../../static/images/avatar.png\">";
+        str += "          <\/span>";
+        str += "          <div class=\"cm-msg-text\">";
+        str += "안녕하세요! <br/>\"강아지 백과사전 챗봇 입니다.\"<br/> 질문을 해주세요."
+        str += "          <\/div>";
+        //time
+        str += "          <div class=\"chat-msg-span\">"+hours+" : "+ minutes+"<\/div>"
+        str += "        <\/div>";
+        $(".chat-logs").append(str);
+        $("#cm-msg-"+INDEX).hide().fadeIn(300);
+        if(type == 'self'){
+        $("#chat-input").val(''); 
+        }    
+        $(".chat-logs").stop().animate({ scrollTop: $(".chat-logs")[0].scrollHeight}, 1000);  
+    }  
   })
   
   $(".chat-box-toggle").click(function() {
