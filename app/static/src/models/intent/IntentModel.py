@@ -9,7 +9,7 @@ class IntentModel:
     def __init__(self, model_name, proprocess):
 
         # 의도 클래스 별 레이블
-        self.labels = {1: "욕설", 2: "질병", 3: "품종", 4: "수술", 5: "증상", 6: "기타"}
+        self.labels = {0: "인사", 1: "욕설", 2: "질병", 3: "품종", 4: "수술", 5: "증상", 6: "기타"}
 
         # 의도 분류 모델 불러오기
         self.model = load_model(model_name)

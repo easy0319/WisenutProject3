@@ -3,6 +3,7 @@ sys.path.append("..")
 
 import logging
 import re
+import json
 from unittest import result
 import pandas as pd
 
@@ -23,8 +24,9 @@ def getRule(str, df):
     return df[df['rule'].apply(matching, args=(str, ))]
 
 def ruleData(query):
+    with open('/Users/easy/programming/wp-3rd/app/static/json/info.json') as Json: doc = json.loads(Json.read())
     # connect DB
-    engine = create_engine('mysql://root:wlgus7080@127.0.0.1/homestead', convert_unicode=True)
+    engine = create_engine(f'mysql://{doc["sqlID"]}:{doc["sqlPW"]}@{doc["sqlHOST"]}/{doc["sqlTABLE"]}', convert_unicode=True)
     conn = engine.connect()
 
     df = pd.read_sql_table('dog_info_data', conn) 
