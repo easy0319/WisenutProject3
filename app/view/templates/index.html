@@ -6,22 +6,20 @@
 				<!-- Header -->
 					<header id="header">
 						<div class="logo">
-							<span class="icon fa-gem"></span>
+							<span class="fas fa-dog"></span>
 						</div>
 						<div class="content">
 							<div class="inner">
-								<h1>Title</h1>
-								<p>A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<br />
-								for free under the <a href="https://html5up.net/license">Creative Commons</a> license.</p>
+								<h1>강아지 백과사전 챗봇</h1>
+								<br/>
+								<h4>반려동물 인식도 증가로 인한 반려동물 챗봇 케어 서비스</h4>
 							</div>
 						</div>
-						<nav>
+						<nav id="nav">
 							<ul>
-								<li><a href="#intro">Intro</a></li>
-								<li><a href="#work">Work</a></li>
-								<li><a href="#about">About</a></li>
-								<li><a href="#contact">Contact</a></li>
-								<!--<li><a href="#elements">Elements</a></li>-->
+								<li><a href="#intro" id="na1">소개</a></li>
+								<li><a href="#work" id="na2">규칙기반</a></li>
+								<li><a href="#about" id="na3">신경망기반</a></li>
 							</ul>
 						</nav>
 					</header>
@@ -32,299 +30,51 @@
 						<!-- Intro -->
 							<article id="intro">
 								<h2 class="major">Intro</h2>
-								<span class="image main"><img src="../../static/images/pic01.jpg" alt="" /></span>
-								<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
+								<span class="image main"><img src="../../static/images/intro.jpeg" alt="" /></span>
+								<h4>개요</h4>
+								<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;반려동물의 인식은 해마다 개선되는 방향으로 변화하고 있다. 몇년 전까지만 해도 '주인이 기른다'라는 뜻으로 동물들을 '애완동물'이라고 칭했지만, 그 후 ‘인간과 애완동물의 관계’는 애완동물의 가치를 재인식하자는 의미에서 ‘반려동물’이라는 명칭이 제안되었다. 그리고 이제는 반려동물을 가족으로 받아들이자는 의미에서 ‘펫팸족’(Pet+Family)이라는 단어가 만들어졌다.</p>
+								<h4>목적</h4>
+								<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;반려동믈을 기르는 가정이 많아지면서 동물병원 또한 많이 설립되었다. 동물병원뿐만 아니라 국내 첫 동물 응급센터가 개설되기도 했다. 하지만 반려동물은 사람과 다르기 때문에 응급상황이 발생했을 때 바로 병원을 가야하는건지, 다른 응급처지가 있는건지에 대한 기준이 모호하다. 이러한 모호함을 잡아주거나 대비, 해결시켜주는 목적으로 이번 프로젝트의 주제를 반려동물 챗봇 케어 서비스로 잡아보았다.</p>
+								<h4>방식</h4>
+								<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;사용자의 질문을 입력받아 의도(Intent)를 찾아내고, 규칙기반과 인공신경망기반을 혼용하여 사용자에게 알맞은 답변을 한다.</p>
 							</article>
 
-						<!-- Work -->
+						<!-- Rule -->
 							<article id="work">
-								<h2 class="major">Work</h2>
-								<span class="image main"><img src="../../static/images/pic02.jpg" alt="" /></span>
-								<p>Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.</p>
-								<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.</p>
+								<h2 class="major">Rule</h2>
+								<h4>규칙 기반 챗봇</h4>
+								<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;규칙 기반 챗봇은 사용자가 질문한 문장의 형태소 분석과 키워드 검색을 통해 질문자의 의도(Intent)를 찾아내고, 해당 의도에 대해 미리 정의해 둔 답변 문장을 출력한다.</p>
+								<span class="image main"><img src="../../static/images/rule.png" alt="" /></span>
+									<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;규칙 기반 챗봇은 주로 정형화된 업무에서 자주 하는 질문이나 업무 처리 프로세스에 대한 대응을 위해 사용된다. 또 예약 프로세스 처리를 위해 마음에 드는 방을 선택하고, 투숙자 이름과 날짜, 인원을 입력해서 결제에 이르는 일련의 업무 처리 절차도 챗봇으로 처리할 수 있다.
+									<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+									최근에는 과거의 단순 키워드 검색 기술 외에도 코사인 유사도 같은 유사 질의 판단을 위한 인공지능 알고리즘이 포함되는 하이브리드 형태로 구현하기도 한다. 이 방식은 신뢰도가 높고 의사 결정의 과정이 설명 가능하다는 장점이 있으나, 규칙을 작성한 사람의 능력에 의해 챗봇의 지능이 좌우된다는 단점이 있다.
+									<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+									규칙 기반의 챗봇이 적합한 분야는 순차적이며 절차적인 Q&A 처리 분야, 신뢰성이 중요한 업무 프로세스 처리 분야가 있다. 가장 큰 장벽은 규칙을 작성하는 사람이 해당 분야의 전문 지식을 가져야 한다는 것이다.
+								</p>
+								<span class="image main"><img src="../../static/images/rule2.png" alt="" /></span>
+								<h4>의도</h4>
+								<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;현재 챗봇 모델이 인식할 수 있는 의도(Intent)의 종류는 '인사', '욕설', '질병', '품종', '수술', '증상', '기타'로 총 7개의 의도를 파악할 수 있다.</p>
+								<h4>답변 방식</h4>
+								<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7가지의 의도 중 한가지의 의도를 파악 후 'Numhandas'만의 처리 방식으로 전처리 되어진 데이터를 비교 추출하여 사용자에게 답변한다.</p>
 							</article>
 
-						<!-- About -->
+						<!-- AI -->
 							<article id="about">
-								<h2 class="major">About</h2>
-								<span class="image main"><img src="../../static/images/pic03.jpg" alt="" /></span>
-								<p>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.</p>
+								<h2 class="major">AI</h2>
+								<h4>인공신경망 기반 챗봇</h4>
+								<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;인공신경망 기반 챗봇은 수많은 뉴런의 연결 구조와 강도로 표현되는 인간의 두뇌를 모방(인공신경망)한 딥러닝 알고리즘을 이용한다. 대규모의 자료를 통해 ‘컴퓨터가 스스로’ 공통적인 특징을 추출한다고 해서 자율 학습 방식이라고도 불린다.
+									<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+									이 방식은 사람이 개입하는 규칙의 작성은 최소로 제한하고, 목적에 맞는 대량의 대화 데이터의 학습을 통해 질문을 인식하고 답변을 추출한다. 일일이 규칙을 작성하지 않고 스스로 학습이 가능하여 넓은 지식 범위를 수용할 수 있다는 장점이 있으나, 확률, 통계, 벡터 등의 수학 등 매우 방대한 데이터가 필요하고 대규모 GPU 서버 클러스터와 같은 강력한 컴퓨팅 파워가 요구된다는 단점이 있다.
+									<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+									인공신경망 기반 챗봇은 사진과 음성인식, 폭넓은 상담과 같이 규칙으로 표현하기 어려운 분야에 적합하다. 규칙 기반 챗봇과 비교했을 때, 가장 큰 장벽은 인공지능 알고리즘에 대한 기술적 이해가 필요하고 양질의 대규모 데이터를 확보해야 한다는 점이다.
+								</p>
+								<span class="image main"><img src="../../static/images/ai2.png" alt="" /></span>
+								<h4>개체명</h4>
+								<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;개체명 태그는 'B_SYM'이 있고 요소는 '식욕', '토', '설사', '변비', '배', '소변', '다리'가 있다.</p>
+								<span class="image main"><img src="../../static/images/ai.png" alt="" /></span>
+								<h4>답변 방식</h4>
+								<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CNN 모델을 통해 사용자의 질문 의도를 파악 후 Bi-LSTM 모델을 통해 개체명을 인식한다. 마지막으로 'Numhandas'만의 처리 방식으로 전처리 되어진 데이터를 비교 추출하여 사용자에게 답변한다.</p>
 							</article>
-
-						<!-- Contact -->
-							<article id="contact">
-								<h2 class="major">Contact</h2>
-								<form method="post" action="#">
-									<div class="fields">
-										<div class="field half">
-											<label for="name">Name</label>
-											<input type="text" name="name" id="name" />
-										</div>
-										<div class="field half">
-											<label for="email">Email</label>
-											<input type="text" name="email" id="email" />
-										</div>
-										<div class="field">
-											<label for="message">Message</label>
-											<textarea name="message" id="message" rows="4"></textarea>
-										</div>
-									</div>
-									<ul class="actions">
-										<li><input type="submit" value="Send Message" class="primary" /></li>
-										<li><input type="reset" value="Reset" /></li>
-									</ul>
-								</form>
-								<ul class="icons">
-									<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-									<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-									<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-									<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-								</ul>
-							</article>
-
-						<!-- Elements -->
-							<article id="elements">
-								<h2 class="major">Elements</h2>
-
-								<section>
-									<h3 class="major">Text</h3>
-									<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
-									This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-									This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
-									<hr />
-									<h2>Heading Level 2</h2>
-									<h3>Heading Level 3</h3>
-									<h4>Heading Level 4</h4>
-									<h5>Heading Level 5</h5>
-									<h6>Heading Level 6</h6>
-									<hr />
-									<h4>Blockquote</h4>
-									<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>
-									<h4>Preformatted</h4>
-									<pre><code>i = 0;
-
-while (!deck.isInOrder()) {
-    print 'Iteration ' + i;
-    deck.shuffle();
-    i++;
-}
-
-print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
-								</section>
-
-								<section>
-									<h3 class="major">Lists</h3>
-
-									<h4>Unordered</h4>
-									<ul>
-										<li>Dolor pulvinar etiam.</li>
-										<li>Sagittis adipiscing.</li>
-										<li>Felis enim feugiat.</li>
-									</ul>
-
-									<h4>Alternate</h4>
-									<ul class="alt">
-										<li>Dolor pulvinar etiam.</li>
-										<li>Sagittis adipiscing.</li>
-										<li>Felis enim feugiat.</li>
-									</ul>
-
-									<h4>Ordered</h4>
-									<ol>
-										<li>Dolor pulvinar etiam.</li>
-										<li>Etiam vel felis viverra.</li>
-										<li>Felis enim feugiat.</li>
-										<li>Dolor pulvinar etiam.</li>
-										<li>Etiam vel felis lorem.</li>
-										<li>Felis enim et feugiat.</li>
-									</ol>
-									<h4>Icons</h4>
-									<ul class="icons">
-										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-										<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
-									</ul>
-
-									<h4>Actions</h4>
-									<ul class="actions">
-										<li><a href="#" class="button primary">Default</a></li>
-										<li><a href="#" class="button">Default</a></li>
-									</ul>
-									<ul class="actions stacked">
-										<li><a href="#" class="button primary">Default</a></li>
-										<li><a href="#" class="button">Default</a></li>
-									</ul>
-								</section>
-
-								<section>
-									<h3 class="major">Table</h3>
-									<h4>Default</h4>
-									<div class="table-wrapper">
-										<table>
-											<thead>
-												<tr>
-													<th>Name</th>
-													<th>Description</th>
-													<th>Price</th>
-												</tr>
-											</thead>
-											<tbody>
-												<tr>
-													<td>Item One</td>
-													<td>Ante turpis integer aliquet porttitor.</td>
-													<td>29.99</td>
-												</tr>
-												<tr>
-													<td>Item Two</td>
-													<td>Vis ac commodo adipiscing arcu aliquet.</td>
-													<td>19.99</td>
-												</tr>
-												<tr>
-													<td>Item Three</td>
-													<td> Morbi faucibus arcu accumsan lorem.</td>
-													<td>29.99</td>
-												</tr>
-												<tr>
-													<td>Item Four</td>
-													<td>Vitae integer tempus condimentum.</td>
-													<td>19.99</td>
-												</tr>
-												<tr>
-													<td>Item Five</td>
-													<td>Ante turpis integer aliquet porttitor.</td>
-													<td>29.99</td>
-												</tr>
-											</tbody>
-											<tfoot>
-												<tr>
-													<td colspan="2"></td>
-													<td>100.00</td>
-												</tr>
-											</tfoot>
-										</table>
-									</div>
-
-									<h4>Alternate</h4>
-									<div class="table-wrapper">
-										<table class="alt">
-											<thead>
-												<tr>
-													<th>Name</th>
-													<th>Description</th>
-													<th>Price</th>
-												</tr>
-											</thead>
-											<tbody>
-												<tr>
-													<td>Item One</td>
-													<td>Ante turpis integer aliquet porttitor.</td>
-													<td>29.99</td>
-												</tr>
-												<tr>
-													<td>Item Two</td>
-													<td>Vis ac commodo adipiscing arcu aliquet.</td>
-													<td>19.99</td>
-												</tr>
-												<tr>
-													<td>Item Three</td>
-													<td> Morbi faucibus arcu accumsan lorem.</td>
-													<td>29.99</td>
-												</tr>
-												<tr>
-													<td>Item Four</td>
-													<td>Vitae integer tempus condimentum.</td>
-													<td>19.99</td>
-												</tr>
-												<tr>
-													<td>Item Five</td>
-													<td>Ante turpis integer aliquet porttitor.</td>
-													<td>29.99</td>
-												</tr>
-											</tbody>
-											<tfoot>
-												<tr>
-													<td colspan="2"></td>
-													<td>100.00</td>
-												</tr>
-											</tfoot>
-										</table>
-									</div>
-								</section>
-
-								<section>
-									<h3 class="major">Buttons</h3>
-									<ul class="actions">
-										<li><a href="#" class="button primary">Primary</a></li>
-										<li><a href="#" class="button">Default</a></li>
-									</ul>
-									<ul class="actions">
-										<li><a href="#" class="button">Default</a></li>
-										<li><a href="#" class="button small">Small</a></li>
-									</ul>
-									<ul class="actions">
-										<li><a href="#" class="button primary icon solid fa-download">Icon</a></li>
-										<li><a href="#" class="button icon solid fa-download">Icon</a></li>
-									</ul>
-									<ul class="actions">
-										<li><span class="button primary disabled">Disabled</span></li>
-										<li><span class="button disabled">Disabled</span></li>
-									</ul>
-								</section>
-
-								<section>
-									<h3 class="major">Form</h3>
-									<form method="post" action="#">
-										<div class="fields">
-											<div class="field half">
-												<label for="demo-name">Name</label>
-												<input type="text" name="demo-name" id="demo-name" value="" placeholder="Jane Doe" />
-											</div>
-											<div class="field half">
-												<label for="demo-email">Email</label>
-												<input type="email" name="demo-email" id="demo-email" value="" placeholder="jane@untitled.tld" />
-											</div>
-											<div class="field">
-												<label for="demo-category">Category</label>
-												<select name="demo-category" id="demo-category">
-													<option value="">-</option>
-													<option value="1">Manufacturing</option>
-													<option value="1">Shipping</option>
-													<option value="1">Administration</option>
-													<option value="1">Human Resources</option>
-												</select>
-											</div>
-											<div class="field half">
-												<input type="radio" id="demo-priority-low" name="demo-priority" checked>
-												<label for="demo-priority-low">Low</label>
-											</div>
-											<div class="field half">
-												<input type="radio" id="demo-priority-high" name="demo-priority">
-												<label for="demo-priority-high">High</label>
-											</div>
-											<div class="field half">
-												<input type="checkbox" id="demo-copy" name="demo-copy">
-												<label for="demo-copy">Email me a copy</label>
-											</div>
-											<div class="field half">
-												<input type="checkbox" id="demo-human" name="demo-human" checked>
-												<label for="demo-human">Not a robot</label>
-											</div>
-											<div class="field">
-												<label for="demo-message">Message</label>
-												<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
-											</div>
-										</div>
-										<ul class="actions">
-											<li><input type="submit" value="Send Message" class="primary" /></li>
-											<li><input type="reset" value="Reset" /></li>
-										</ul>
-									</form>
-								</section>
-
-							</article>
-
 					</div>
 
 				<!-- Footer -->
