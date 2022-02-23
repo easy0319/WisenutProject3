@@ -37,7 +37,7 @@ def chatbotAI(query):
     intent_name = intent.labels[predict]
 
     # 개체명 인식
-    ner = NerModel(model_name = '/Users/easy/programming/wp-3rd/app/static/src/models/ner/ner_model_test_fin999.h5', proprocess=p)
+    ner = NerModel(model_name = '/Users/easy/programming/wp-3rd/app/static/src/models/ner/ner_model_fin.h5', proprocess=p)
     predicts = ner.predict(query)
     ner_tags = ner.predict_tags(query)
 
@@ -66,7 +66,7 @@ def chatbotAI(query):
         if b_sym not in ['식욕', '토', '설사', '변비', '배', '소변', '열', '피부', '눈', '귀', '코', '입', '침', '호흡', '기침', '털', '발육', '경련', '다리']:
             return '죄송합니다. 무슨 말인지 모르겠습니다.'
         
-        chk = f'말씀하신 증상(부위)이 "{b_sym}"이신가요?'
+        chk = f'말씀하신 증상(부위)이 "{b_sym}"이신가요?<br/>아래의 증상들을 선택해주세요'
         answer1 = f.search(b_sym)
         
     except:
