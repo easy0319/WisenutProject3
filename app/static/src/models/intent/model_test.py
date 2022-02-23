@@ -60,23 +60,21 @@ class Preprocess:
                 w2i.append(self.word_index['OOV'])
         return w2i
 
-intent_labels = {0: "인사", 1: "욕설", 2: "질병", 3: "품종", 4: "수술", 5: "증상", 6: "기타"}
+intent_labels = {0: "인사", 1: "욕설", 2: "질병", 3: "품종", 4: "수술", 5: "증상", 6:"기타"}
 
 # 의도 분류 모델 불러오기
-# model = load_model('intent_test.h5')
-model = load_model('intent_last.h5')
+model = load_model('intent_model3.h5')
 
-query = "매쟈더래ㅑㅈ더랴ㅐ"
-p = Preprocess(word2index_dic='D:/chatbot-master/train_tools/dict/chatbot_dict.bin',
-               userdic='D:/chatbot-master/utils/user_dic1.tsv')
+query = "아이언맨 보고싶다 같이 볼래?"
+p = Preprocess(word2index_dic = '/Users/easy/programming/wp-3rd/app/static/train_tools/dict/chatbot_dict.bin',
+                userdic = '/Users/easy/programming/wp-3rd/app/static/src/util/utils/user_dic1.tsv')
 pos = p.pos(query)
-print(pos)
 keywords = p.get_keywords(pos, without_tag=True)
 seq = p.get_wordidx_sequence(keywords)
 sequences = [seq]
 
 # 단어 시퀀스 벡터 크기
-MAX_SEQ_LEN = 15
+MAX_SEQ_LEN = 40
 
 
 def GlobalParams():

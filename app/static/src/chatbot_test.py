@@ -32,7 +32,7 @@ def chatbotAI(query):
     db.connect()    # 디비 연결
 
     # 의도 파악
-    intent = IntentModel(model_name='/Users/easy/programming/wp-3rd/app/static/src/models/intent/intent_model.h5', proprocess=p)
+    intent = IntentModel(model_name='/Users/easy/programming/wp-3rd/app/static/src/models/intent/intent_model3.h5', proprocess=p)
     predict = intent.predict_class(query)
     intent_name = intent.labels[predict]
 
