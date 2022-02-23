@@ -19,6 +19,7 @@ Flask, HTML, CSS, JS, VScode
 Tensorflow, Selenium, Python
 Pandas, Numpy, Bootstrap, Jupyter Lab
 KoNLPy, HeidiSQL, Scikit Learn
+JavaScript, Sass
 </pre>
 
 # *협업툴
