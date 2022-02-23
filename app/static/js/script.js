@@ -1,7 +1,7 @@
 var INDEX = 0;
 var today = new Date();   
-var hours = today.getHours(); // 시
-var minutes = today.getMinutes(); // 분
+var hours = ('0' + today.getHours()).slice(-2); // 시
+var minutes = ('0' + today.getMinutes()).slice(-2); // 분
 
 $(function() {
   
@@ -65,6 +65,7 @@ $(function() {
           str += "          <div class=\"cm-msg-text\">";
           str += m[i];
           str += "          <\/div>";
+          str += "          <div class=\"chat-msg-span\">"+hours+" : "+ minutes+"<\/div>"
           str += "        <\/div><br/><br/><br/><br/>";
         } else{
           str += "<div id='cm-msg-"+INDEX+"' class=\"chat-msg "+type+"\">";
