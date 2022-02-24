@@ -17,7 +17,7 @@
  - 자연어처리 DL, ML
  - 데이터베이스
  - 챗봇 엔진, Flask 기반 웹 프로그래밍 사용
-UI</pre>
+ - UI</pre>
  
 # *개발기간
 <pre> - 2022-02-10 ~ 2022-02-23</pre>
@@ -32,4 +32,4 @@ UI</pre>
 </pre>
 
 # *협업툴
-<pre>Slack, Git</pre><br/>
+<pre> - Slack, Git</pre><br/>
